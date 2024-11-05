@@ -17,7 +17,7 @@ title: AI Alliance GitHub Organizations
 email: contact@thealliance.ai
 description: >- # this means to ignore newlines until "baseurl:"
   The website for the AI Alliance project, AI Alliance GitHub Organizations.
-baseurl: "/the-ai-alliance.github.io" # the subpath of your site.
+baseurl: "" # the subpath of your site.
 url: "https://the-ai-alliance.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
