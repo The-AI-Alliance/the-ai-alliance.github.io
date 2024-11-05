@@ -32,7 +32,7 @@ Some of our projects include the following:
 | FA5: Open Models and Datasets | The Open, Trusted Data Initiative | [web site](https://the-ai-alliance.github.io/open-trusted-data-initiative/){:target="microsite5"} | [repo](https://github.com/The-AI-Alliance/open-trusted-data-initiative){:target="repo5"} |
 | FA6: Advocacy | AAAI 25: Workshop on Open-Source AI for Mainstream Use | [web site](https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/){:target="microsite6"} | [repo](https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use){:target="repo6"} |
 
-## Additional links
+## Additional Links
 
 * [Contributing]({{site.baseurl}}/contributing): We welcome your contributions! Here's how you can contribute.
 * [About Us]({{site.baseurl}}/about): More about the AI Alliance and this project.
