@@ -50,8 +50,6 @@ Some of our projects include the following:
 | **Version** | **Date**   |
 | V0.1.0      | 2024-11-05 |
 
-![Alliance image](https://avatars.githubusercontent.com/u/150073668?s=400&u=1d9276d2b5d3094297f17679a8ce415876d8b98e&v=4)
-
 <!-- 
 Use the following construct to automatically show a table of
 contents (ToC) for the child pages.
