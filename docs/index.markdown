@@ -11,7 +11,7 @@ has_children: false
 [The AI Alliance](https://thealliance.ai){:target="ai-alliance" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .no-glyph} 
 
 | **Authors**     | [AI Alliance Team](https://thealliance.ai/){:target="ai-alliance"} |
-| **Last Update** | V0.1.0, 2024-11-05 |
+| **Last Update** | V0.1.1, 2024-11-15 |
 
 
 > **Tip:** Use the search box at the top of this page to find specific content.
@@ -24,13 +24,14 @@ Some of our projects include the following:
 
 | **Focus Area** | **Title** | **Microsite** | **GitHub** |
 | :------------- | :-------- | :------------ | :---------- |
-| FA2: Trust and Safety | The AI Trust and Safety User Guide | [web site](https://the-ai-alliance.github.io/trust-safety-user-guide/){:target="microsite1"} | [repo](https://github.com/The-AI-Alliance/trust-safety-user-guide){:target="repo1"} |
-| FA2: Trust and Safety | Trust and Safety Evaluations | [web site](https://the-ai-alliance.github.io/trust-safety-evals/){:target="microsite2"} | [repo](https://github.com/The-AI-Alliance/trust-safety-evals){:target="repo2"} |
-| FA2: Trust and Safety | Ranking AI Safety Priorities by Domain | [web site](https://the-ai-alliance.github.io/ranking-safety-priorities/){:target="microsite2"} | [repo](https://github.com/The-AI-Alliance/ranking-safety-priorities){:target="repo2"} |
-| FA3: Applications and Tools | The Living Guide to Applying AI | [web site](https://the-ai-alliance.github.io/applying-ai-guide//){:target="microsite3"} | [repo](https://github.com/The-AI-Alliance/applying-ai-guide/){:target="repo3"} |
-| FA4: Diverse Hardware Ecosystems | The AI Accelerator Software Ecosystem Guide | [web site](https://the-ai-alliance.github.io/ai-accelerator-software-ecosystem-guide/){:target="microsite4"} | [repo](https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide){:target="repo4"} |
-| FA5: Open Models and Datasets | The Open, Trusted Data Initiative | [web site](https://the-ai-alliance.github.io/open-trusted-data-initiative/){:target="microsite5"} | [repo](https://github.com/The-AI-Alliance/open-trusted-data-initiative){:target="repo5"} |
-| FA6: Advocacy | AAAI 25: Workshop on Open-Source AI for Mainstream Use | [web site](https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/){:target="microsite6"} | [repo](https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use){:target="repo6"} |
+| FA2: Trust and Safety | The AI Trust and Safety User Guide | [web site](https://the-ai-alliance.github.io/trust-safety-user-guide/){:target="microsite-fa2-tsug"} | [repo](https://github.com/The-AI-Alliance/trust-safety-user-guide){:target="repo-fa2-tsug"} |
+| FA2: Trust and Safety | Trust and Safety Evaluations | [web site](https://the-ai-alliance.github.io/trust-safety-evals/){:target="microsite-fa2-tse"} | [repo](https://github.com/The-AI-Alliance/trust-safety-evals){:target="repo-fa2-tse"} |
+| FA2: Trust and Safety | Ranking AI Safety Priorities by Domain | [web site](https://the-ai-alliance.github.io/ranking-safety-priorities/){:target="microsite-fa2-ranking"} | [repo](https://github.com/The-AI-Alliance/ranking-safety-priorities){:target="repo-fa2-ranking"} |
+| FA3: Applications and Tools | The Living Guide to Applying AI | [web site](https://the-ai-alliance.github.io/applying-ai-guide/){:target="microsite-fa3-lgaa"} | [repo](https://github.com/The-AI-Alliance/applying-ai-guide/){:target="repo-fa3-lgaa"} |
+| FA3: Applications and Tools | AI Application Testing for Developers | [web site](https://the-ai-alliance.github.io/ai-application-testing/){:target="microsite-fa3-test"} | [repo](https://github.com/The-AI-Alliance/ai-application-testing/){:target="repo-fa3-test"} |
+| FA4: Diverse Hardware Ecosystems | The AI Accelerator Software Ecosystem Guide | [web site](https://the-ai-alliance.github.io/ai-accelerator-software-ecosystem-guide/){:target="microsite-fa4-hw"} | [repo](https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide){:target="repo-fa4-hw"} |
+| FA5: Open Models and Datasets | The Open, Trusted Data Initiative | [web site](https://the-ai-alliance.github.io/open-trusted-data-initiative/){:target="microsite-fa5-otdi"} | [repo](https://github.com/The-AI-Alliance/open-trusted-data-initiative){:target="repo-fa5-otdi"} |
+| FA6: Advocacy | AAAI 25: Workshop on Open-Source AI for Mainstream Use | [web site](https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/){:target="microsite-fa6-aaai25"} | [repo](https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use){:target="repo-fa6-aaai25"} |
 
 ## Additional Links
 
@@ -48,7 +49,7 @@ Some of our projects include the following:
 ## Version History
 
 | **Version** | **Date**   |
-| V0.1.0      | 2024-11-05 |
+| V0.1.1      | 2024-11-15 |
 
 <!-- 
 Use the following construct to automatically show a table of
