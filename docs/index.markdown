@@ -7,9 +7,6 @@ has_children: false
 
 # AI Alliance GitHub Organization
 
-[GitHub Repo](https://github.com/The-AI-Alliance/){:target="repo" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .no-glyph}
-[The AI Alliance](https://thealliance.ai){:target="ai-alliance" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 .no-glyph} 
-
 | **Authors**     | [AI Alliance Team](https://thealliance.ai/){:target="ai-alliance"} |
 | **Last Update** | V0.1.1, 2024-11-15 |
 

@@ -10,4 +10,6 @@ We welcome your contributions! Visit the Alliance [`community` repo](https://git
 
 ## Joining a Project's Work Group
 
-If you are interested in participating in a particular project, use the form on the Alliance's [Become a Collaborator](https://thealliance.ai/become-a-collaborator){:target="aia-website"} page to let us know your interests. Check the boxes that look most appropriate and describe your particular interests in the _Message_ box.
+If you are interested in participating in a particular project, visit the [focus area](https://thealliance.ai/){:target="aia-focus-areas"} pages and decide which ones are most interesting to you. Use the form on each of the corresponding pages to tell us about your interests.
+
+An alternative is to use the form on the Alliance's [Become a Collaborator](https://thealliance.ai/become-a-collaborator){:target="aia-website"} page. Check the boxes that look most appropriate and describe your particular interests in the _Message_ box.
