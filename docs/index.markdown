@@ -20,7 +20,7 @@ Welcome to the **The AI Alliance GitHub Organization**, where the Alliance membe
 Some of our projects include the following:
 
 | **Focus Area**                   | **Title** | **Microsite** | **GitHub** |
-| :------------------------------- | :-------- | :------------ | :---------- |
+| :------------------------------- | :-------- | :-----------: | :--------: |
 | FA2: Trust and Safety            | The AI Trust and Safety User Guide | [web site](https://the-ai-alliance.github.io/trust-safety-user-guide/){:target="microsite-fa2-tsug"} | [repo](https://github.com/The-AI-Alliance/trust-safety-user-guide){:target="repo-fa2-tsug"} |
 |                                  | Trust and Safety Evaluations Initiative | [web site](https://the-ai-alliance.github.io/trust-safety-evals/){:target="microsite-fa2-tse"} | [repo](https://github.com/The-AI-Alliance/trust-safety-evals){:target="repo-fa2-tse"} |
 |                                  | Ranking AI Safety Priorities by Domain | [web site](https://the-ai-alliance.github.io/ranking-safety-priorities/){:target="microsite-fa2-ranking"} | [repo](https://github.com/The-AI-Alliance/ranking-safety-priorities){:target="repo-fa2-ranking"} |
