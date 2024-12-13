@@ -28,6 +28,7 @@ Some of our projects include the following:
 |                                  | AI Application Testing for Developers | [web site](https://the-ai-alliance.github.io/ai-application-testing/){:target="microsite-fa3-test"} | [repo](https://github.com/The-AI-Alliance/ai-application-testing/){:target="repo-fa3-test"} |
 | FA4: Diverse Hardware Ecosystems | The AI Accelerator Software Ecosystem Guide | [web site](https://the-ai-alliance.github.io/ai-accelerator-software-ecosystem-guide/){:target="microsite-fa4-hw"} | [repo](https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide){:target="repo-fa4-hw"} |
 | FA5: Open Models and Datasets    | The Open, Trusted Data Initiative | [web site](https://the-ai-alliance.github.io/open-trusted-data-initiative/){:target="microsite-fa5-otdi"} | [repo](https://github.com/The-AI-Alliance/open-trusted-data-initiative){:target="repo-fa5-otdi"} |
+|                                  | The Open, Trusted Model Initiative | [web site](https://the-ai-alliance.github.io/open-trusted-model-initiative/){:target="microsite-fa5-otmi"} | [repo](https://github.com/The-AI-Alliance/open-trusted-model-initiative){:target="repo-fa5-otmi"} |
 | FA6: Advocacy                    | AAAI 25: Workshop on Open-Source AI for Mainstream Use | [web site](https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/){:target="microsite-fa6-aaai25"} | [repo](https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use){:target="repo-fa6-aaai25"} |
 
 ## Additional Links
