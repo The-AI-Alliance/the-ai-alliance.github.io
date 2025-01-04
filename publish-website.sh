@@ -7,7 +7,6 @@
 # 2. docs/index.markdown: 
 #    a. Authors and latest version table at the top of the page, if present
 #    b. The history table of versions and timestamps at the bottom, if present.
-#    c. The footer of every page in the Just the Docs template.
 #
 # NOTES: 
 # 1. While recommended, it's not required to use this script...
@@ -127,6 +126,7 @@ then
 	echo "New version ($version) is the same as the old version in $index. Not changing that file."
 else
 	mv $index $index.$$
+	found_version_history=false
 	cat $index.$$ | while read line
 	do
 		case $line in
@@ -136,7 +136,15 @@ else
 				;;
 			*Version*Date*)
 				echo $line
-			    echo "| V$version      | $ymd |"
+				found_version_history=true
+				;;
+			\|\ :---*)
+				echo $line
+				if $found_version_history
+				then
+				    echo "| V$version   | $ymd |"
+				    found_version_history=false
+				fi
 			    ;;
 			*)
 				echo "$line"

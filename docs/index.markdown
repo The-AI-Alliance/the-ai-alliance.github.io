@@ -46,9 +46,10 @@ Some of our projects include the following:
 
 ## Version History
 
-| **Version** | **Date**   |
-| V0.1.1      | 2024-11-15 |
-| V0.1.0      | 2024-11-05 |
+| Version  | Date       |
+| :------- | :--------- |
+| V0.1.1   | 2024-11-15 |
+| V0.1.0   | 2024-11-05 |
 
 <!-- 
 Use the following construct to automatically show a table of
