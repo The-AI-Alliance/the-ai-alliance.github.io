@@ -24,6 +24,7 @@ make all                # Clean and locally view the document.
 make clean              # Remove built artifacts, etc.
 make view-pages         # View the published GitHub pages in a browser.
 make view-local         # View the pages locally (requires Jekyll).
+                        # Tip: "JEKYLL_PORT=8000 make view-local" uses port 8000 instead of 4000!
 
 Miscellaneous tasks for help, debugging, setup, etc.
 
@@ -32,6 +33,7 @@ make print-info         # Print the current values of some make and env. variabl
 make setup-jekyll       # Install Jekyll. Make sure Ruby is installed. 
                         # (Only needed for local viewing of the document.)
 make run-jekyll         # Used by "view-local"; assumes everything is already built.
+                        # Tip: "JEKYLL_PORT=8000 make view-local" uses port 8000 instead of 4000!
 endef
 
 define missing_shell_command_error_message
