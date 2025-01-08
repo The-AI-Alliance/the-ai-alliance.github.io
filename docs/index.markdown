@@ -8,7 +8,7 @@ has_children: false
 # AI Alliance GitHub Organization
 
 | **Authors**     | [AI Alliance Team](https://thealliance.ai/){:target="ai-alliance"} |
-| **Last Update** | V0.1.1, 2024-11-15 |
+| **Last Update** | V0.1.2, 2025-01-08 |
 
 
 > **Tip:** Use the search box at the top of this page to find specific content.
@@ -19,7 +19,7 @@ Welcome to the **The AI Alliance GitHub Organization**, where the Alliance membe
 
 Some of our projects include the following:
 
-<!-- Using HTML instead of Markdown for "rowspans" -->
+<!-- Using HTML instead of Markdown for "rowspans" and "colspans" -->
 <div class="table-wrapper">
     <table>
         <thead>
@@ -127,6 +127,7 @@ Some of our projects include the following:
 
 | Version  | Date       |
 | :------- | :--------- |
+| V0.1.2   | 2025-01-08 |
 | V0.1.1   | 2024-11-15 |
 | V0.1.0   | 2024-11-05 |
 
