@@ -8,7 +8,7 @@ has_children: false
 # AI Alliance GitHub Organization
 
 | **Authors**     | [AI Alliance Team](https://thealliance.ai/){:target="ai-alliance"} |
-| **Last Update** | V0.1.2, 2025-01-08 |
+| **Last Update** | V0.1.3, 2025-01-15 |
 
 
 > **Tip:** Use the search box at the top of this page to find specific content.
@@ -117,16 +117,18 @@ Some of our projects include the following:
 
 ## For More Information
 
-* [The Alliance website](https://thealliance.ai){:target="ai-alliance"}: About the AI Alliance, our goals and initiatives.
-* [Our Community](https://thealliance.ai/community){:target="community"}: Learn more about getting involved.
 * [The AI Alliance GitHub Organization](https://github.com/The-AI-Alliance/){:target="org"}
-* [This Documentation's GitHub Repo](https://github.com/The-AI-Alliance/the-ai-alliance.github.io){:target="repo"}
-* [The Microsite Template](https://github.com/The-AI-Alliance/microsite-template){:target="microsite-template"}: The template used for the project websites above. See the [README](https://github.com/The-AI-Alliance/microsite-template){:target="microsite-template"} for instructions.
+  * This documentation's [GitHub repo](https://github.com/The-AI-Alliance/the-ai-alliance.github.io){:target="repo"}
+  * [The microsite template](https://github.com/The-AI-Alliance/microsite-template){:target="template"}: The template used for Alliance projects, including all the websites listed above. See the [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md){:target="template-readme"} for instructions.
+* The AI Alliance [website](https://thealliance.ai){:target="aia"}: About the AI Alliance, our goals and initiatives.
+  * [Learn more](https://thealliance.ai/community){:target="aia-community"} about getting involved.
+
 
 ## Version History
 
 | Version  | Date       |
 | :------- | :--------- |
+| V0.1.3   | 2025-01-15 |
 | V0.1.2   | 2025-01-08 |
 | V0.1.1   | 2024-11-15 |
 | V0.1.0   | 2024-11-05 |
