@@ -117,11 +117,11 @@ Some of our projects include the following:
 
 ## For More Information
 
-* [The AI Alliance GitHub Organization](https://github.com/The-AI-Alliance/){:target="org"}
+* The [AI Alliance GitHub Organization](https://github.com/The-AI-Alliance/){:target="org"}
   * This documentation's [GitHub repo](https://github.com/The-AI-Alliance/the-ai-alliance.github.io){:target="repo"}
-  * [The microsite template](https://github.com/The-AI-Alliance/microsite-template){:target="template"}: The template used for Alliance projects, including all the websites listed above. See the [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md){:target="template-readme"} for instructions.
-* The AI Alliance [website](https://thealliance.ai){:target="aia"}: About the AI Alliance, our goals and initiatives.
-  * [Learn more](https://thealliance.ai/community){:target="aia-community"} about getting involved.
+  * The [microsite template](https://github.com/The-AI-Alliance/microsite-template){:target="template"}: The template used for Alliance projects, including all the websites listed above. See the [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md){:target="template-readme"} for instructions.
+* The [AI Alliance website](https://thealliance.ai){:target="aia"}: About the AI Alliance, our goals and initiatives.
+  * Learn more about [getting involved](https://thealliance.ai/community){:target="aia-community"}.
 
 
 ## Version History
