@@ -17,21 +17,56 @@ has_children: false
 
 Welcome to the **The AI Alliance GitHub Organization**, where the Alliance members collaborate on technical projects and AI technology guides. See [about us]({{site.baseurl}}/about/) for more information about The AI Alliance.
 
-Some of our projects include the following:
+The projects in this organization include the following:
+
+### [FA2: Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety){:target="ts"}
+
+| **Project/Initiative** | **Repo** | **Dashboard** | **Issues** |
+| :--------------------- | :------- | :------------ | :--------- |
+ | [The AI Trust and Safety User Guide](https://the-ai-alliance.github.io/trust-safety-user-guide/){:target="ts-ug"} | [repo](https://github.com/The-AI-Alliance/trust-safety-user-guide){:target="ts-ug-repo"} | N/A | [issues](https://github.com/The-AI-Alliance/trust-safety-evals/issues){:target="ts-ug-issues"} |
+| [Trust and Safety Evaluations Initiative](https://the-ai-alliance.github.io/trust-safety-evals/){:target="tsei"} | [repo](https://github.com/The-AI-Alliance/trust-safety-evals){:target="tsei-repo"} | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/23){:target="tsei-dashboard"} | [issues](https://github.com/The-AI-Alliance/trust-safety-evals/issues){:target="tsei-issues"} |
+| [Ranking AI Safety Priorities by Domain](https://the-ai-alliance.github.io/ranking-safety-priorities/){:target="ranking"} | [repo](https://github.com/The-AI-Alliance/ranking-safety-priorities){:target="ranking-repo"} | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/32){:target="ranking-dashboard"} | [issues](https://github.com/The-AI-Alliance/ranking-safety-priorities/issues){:target="ranking-issues"} |
+
+### [FA3: Applications and Tools](https://thealliance.ai/focus-areas/applications-and-tools){:target="at"}
+
+| **Project/Initiative** | **Repo** | **Dashboard** | **Issues** |
+| :--------------------- | :------- | :------------ | :--------- |
+| [The Living Guide to Applying AI](https://the-ai-alliance.github.io/applying-ai-guide/){:target="lgaai"} | [repo](https://github.com/The-AI-Alliance/applying-ai-guide/){:target="lgaai-repo"} | N/A | [issues](https://github.com/The-AI-Alliance/applying-ai-guide/issues){:target="lgaai-issues"} |
+| [AI Application Testing for Developers](https://the-ai-alliance.github.io/ai-application-testing/){:target="aiatd"} | [repo](https://github.com/The-AI-Alliance/ai-application-testing/){:target="aiatd-repo"} | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/31){:target="aiatd-dashboard"} | [issues](https://github.com/The-AI-Alliance/ai-application-testing/issues){:target="aiatd-issues"} |
+
+### [FA4: Diverse Hardware Enablement](https://thealliance.ai/focus-areas/hardware-enablement){:target="dhe"} 
+
+| **Project/Initiative** | **Repo** | **Dashboard** | **Issues** |
+| :--------------------- | :------- | :------------ | :--------- |
+| [The AI Accelerator Software Ecosystem Guide](https://the-ai-alliance.github.io/ai-accelerator-software-ecosystem-guide/){:target="aiaseg"} | [repo](https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide){:target="aiaseg-repo"} | N/A | [issues](https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide/issues){:target="aiaseg-issues"} |
+
+
+### [FA5: Open Models and Datasets](https://thealliance.ai/focus-areas/foundation-models-datasets){:target="omd"} 
+
+| **Project/Initiative** | **Repo** | **Dashboard** | **Issues** |
+| :--------------------- | :------- | :------------ | :--------- |
+| [The Open, Trusted Data Initiative](https://the-ai-alliance.github.io/open-trusted-data-initiative/){:target="otdi"} | [repo](https://github.com/The-AI-Alliance/open-trusted-data-initiative){:target="otdi-repo"} | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/28){:target="otdi-dashboard"} | [issues](https://github.com/The-AI-Alliance/open-trusted-data-initiative/issues){:target="otdi-issues"} |
+| [The Open, Trusted Model Initiative](https://the-ai-alliance.github.io/open-trusted-model-initiative/){:target="otmi"} | [repo](https://github.com/The-AI-Alliance/open-trusted-model-initiative){:target="otmi-repo"} | N/A | [issues](https://github.com/The-AI-Alliance/open-trusted-model-initiative/issues){:target="otmi-issues"} |
+
+### [FA6: Advocacy](https://thealliance.ai/focus-areas/advocacy){:target="adv"}
+
+| **Project/Initiative** | **Repo** | **Dashboard** | **Issues** |
+| :--------------------- | :------- | :------------ | :--------- |
+| [AAAI 25: Workshop on Open-Source AI for Mainstream Use](https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/){:target="aaai25"} | [repo](https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use){:target="aaai25-repo"} | N/A | [issues](https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/issues){:target="aaai25-issues"} |
 
 <!-- Using HTML instead of Markdown for "rowspans" and "colspans" -->
 <div class="table-wrapper">
     <table>
         <thead>
           <tr>
-            <th style="text-align: left" rowspan=2><strong>Focus Area</strong></th>
-            <th style="text-align: left" rowspan=2><strong>Project/Initiative</strong></th>
-            <th style="text-align: center; width: 30%;" colspan=3><strong>GitHub</strong></th>
+            <th style="text-align: left" rowspan=2>Focus Area</th>
+            <th style="text-align: left" rowspan=2>Project/Initiative</th>
+            <th style="text-align: center; width: 30%;" colspan=3>GitHub</th>
           </tr>
           <tr>
-            <th style="text-align: center; width: 10%;"><strong>Repo</strong></th>
-            <th style="text-align: center; width: 10%;"><strong>Dashboard</strong></th>
-            <th style="text-align: center; width: 10%;"><strong>Issues</strong></th>
+            <th style="text-align: center; width: 10%;">Repo</th>
+            <th style="text-align: center; width: 10%;">Dashboard</th>
+            <th style="text-align: center; width: 10%;">Issues</th>
           </tr>
         </thead>
         <tbody>
