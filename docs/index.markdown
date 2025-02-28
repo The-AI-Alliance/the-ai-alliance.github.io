@@ -37,6 +37,8 @@ The projects in this organization include the following:
 | **Project/Initiative** | **Repo** | **Dashboard** | **Issues** |
 | :--------------------- | :------- | :------------ | :--------- |
 | [The Living Guide to Applying AI](https://the-ai-alliance.github.io/applying-ai-guide/){:target="lgaai"} | [repo](https://github.com/The-AI-Alliance/applying-ai-guide/){:target="lgaai-repo"} | N/A | [issues](https://github.com/The-AI-Alliance/applying-ai-guide/issues){:target="lgaai-issues"} |
+| [Gofannon](https://the-ai-alliance.github.io/gofannon/){:target="gof"} | [repo](https://github.com/The-AI-Alliance/gofannon/){:target="gof-repo"} | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fgofannon%22){:target="gof-dashboard"} | [issues](https://github.com/The-AI-Alliance/gofannon/issues){:target="gof-issues"} |
+| Proscenium | [repo](https://github.com/The-AI-Alliance/proscenium/){:target="pro-repo"} | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fproscenium%22){:target="pro-dashboard"} | [issues](https://github.com/The-AI-Alliance/proscenium/issues){:target="pro-issues"} |
 | [AI Application Testing for Developers](https://the-ai-alliance.github.io/ai-application-testing/){:target="aiatd"} | [repo](https://github.com/The-AI-Alliance/ai-application-testing/){:target="aiatd-repo"} | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/31){:target="aiatd-dashboard"} | [issues](https://github.com/The-AI-Alliance/ai-application-testing/issues){:target="aiatd-issues"} |
 
 ### [FA4: Diverse Hardware Enablement](https://thealliance.ai/focus-areas/hardware-enablement){:target="dhe"} 
