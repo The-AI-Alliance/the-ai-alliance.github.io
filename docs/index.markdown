@@ -4,6 +4,11 @@ title: Home
 nav_order: 10
 has_children: false
 ---
+<style>
+  table {
+    width: 100%;
+  }
+</style>
 
 # AI Alliance GitHub Organization
 
