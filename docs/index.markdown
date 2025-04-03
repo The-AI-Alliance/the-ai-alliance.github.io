@@ -13,7 +13,7 @@ has_children: false
 # AI Alliance GitHub Organization
 
 | **Authors**     | [AI Alliance Team](https://thealliance.ai/){:target="ai-alliance"} |
-| **Last Update** | V0.1.4, 2025-02-28 |
+| **Last Update** | V0.1.5, 2025-04-02 |
 
 
 > **Tip:** Use the search box at the top of this page to find specific content.
@@ -26,40 +26,211 @@ The projects in this organization include the following:
 
 ### [Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety){:target="ts"}
 
-| **Project/Initiative** | **Description** | **Repo** | **Dashboard** | **Issues** | **Discussions** |
-| :--------------------- | :-------------- | :------- | :------------ | :--------- | :-------------- |
-| [Trust and Safety Evaluations Initiative](https://the-ai-alliance.github.io/trust-safety-evals/){:target="tsei"} | TSEI seeks to define the _global_ taxonomy of evaluations (from safety to performance to efficacy), catalog available implementations of them, and provide a reference stack of industry-standard tools to run the evaluations. Projects: 1) [Taxonomy](https://github.com/orgs/The-AI-Alliance/projects/23/views/1?filterQuery=label%3Ataxonomy){:target="tsei-dashboard"}, 2) [Evaluation implementations](https://github.com/orgs/The-AI-Alliance/projects/23/views/1?filterQuery=label%3Aevaluators){:target="tsei-dashboard"}, 3) [Reference Runtime Stack](https://github.com/orgs/The-AI-Alliance/projects/23/views/1?filterQuery=label%3A%22reference+stack%22){:target="tsei-dashboard"} (includes [lm-evaluation-harness](https://www.eleuther.ai/projects/large-language-model-evaluation){:target="lm-eval"}, [unitxt](https://www.unitxt.ai/){:target="unitxt"}, and other components) | [repo](https://github.com/The-AI-Alliance/trust-safety-evals){:target="tsei-repo"} | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/23){:target="tsei-dashboard"} | [issues](https://github.com/The-AI-Alliance/trust-safety-evals/issues){:target="tsei-issues"} | [discussions](https://github.com/The-AI-Alliance/trust-safety-evals/discussions){:target="tsei-discussions"} |
-| [Ranking AI Safety Priorities by Domain](https://the-ai-alliance.github.io/ranking-safety-priorities/){:target="ranking"} | What are the most important safety concerns for your specific domain and use cases? This project explores these questions in several industries, healthcare, finance, education, and legal, with more to come. | [repo](https://github.com/The-AI-Alliance/ranking-safety-priorities){:target="ranking-repo"} | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/32){:target="ranking-dashboard"} | [issues](https://github.com/The-AI-Alliance/ranking-safety-priorities/issues){:target="ranking-issues"} | [discussions](https://github.com/The-AI-Alliance/ranking-safety-priorities/discussions){:target="ranking-discussions"} |
-| [The AI Trust and Safety User Guide](https://the-ai-alliance.github.io/trust-safety-user-guide/){:target="ts-ug"} | Introduction to T&S with guidance from diverse experts. | [repo](https://github.com/The-AI-Alliance/trust-safety-user-guide){:target="ts-ug-repo"} | N/A | [issues](https://github.com/The-AI-Alliance/trust-safety-user-guide/issues){:target="ts-ug-issues"} | [discussions](https://github.com/The-AI-Alliance/trust-safety-user-guide/discussions){:target="ts-ug-discussions"} |
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th style="text-align: left"><strong>Project/Initiative</strong></th>
+        <th style="text-align: left"><strong>Description</strong></th>
+        <th style="text-align: left"><strong>Repo</strong></th>
+        <th style="text-align: left"><strong>Dashboard</strong></th>
+        <th style="text-align: left"><strong>Issues</strong></th>
+        <th style="text-align: left"><strong>Discussions</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align: left"><a href="https://the-ai-alliance.github.io/trust-safety-evals/" target="tsei">Trust and Safety Evaluations Initiative</a></td>
+        <td style="text-align: left">TSEI seeks to define the <em>global</em> taxonomy of evaluations (from safety to performance to efficacy), catalog available implementations of them, and provide a reference stack of industry-standard tools to run the evaluations. Projects: 
+          <ul>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/23/views/1?filterQuery=label%3Ataxonomy" target="tsei-dashboard">Taxonomy</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/23/views/1?filterQuery=label%3Aevaluators" target="tsei-dashboard">Evaluation implementations</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/23/views/1?filterQuery=label%3A%22reference+stack%22" target="tsei-dashboard">Reference Runtime Stack</a> (includes <a href="https://www.eleuther.ai/projects/large-language-model-evaluation" target="lm-eval">lm-evaluation-harness</a>, <a href="https://www.unitxt.ai/" target="unitxt">unitxt</a>, and other components)
+            </li>
+          </ul>
+        </td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/trust-safety-evals" target="tsei-repo">repo</a></td>
+        <td style="text-align: left"><a href="https://github.com/orgs/The-AI-Alliance/projects/23" target="tsei-dashboard">dashboard</a></td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/trust-safety-evals/issues" target="tsei-issues">issues</a></td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/trust-safety-evals/discussions" target="tsei-discussions">discussions</a></td>
+      </tr>
+      <tr>
+        <td style="text-align: left"><a href="https://the-ai-alliance.github.io/ranking-safety-priorities/" target="ranking">Ranking AI Safety Priorities by Domain</a></td>
+        <td style="text-align: left">What are the most important safety concerns for your specific domain and use cases? This project explores these questions in several industries, healthcare, finance, education, and legal, with more to come.</td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/ranking-safety-priorities" target="ranking-repo">repo</a></td>
+        <td style="text-align: left"><a href="https://github.com/orgs/The-AI-Alliance/projects/32" target="ranking-dashboard">dashboard</a></td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/ranking-safety-priorities/issues" target="ranking-issues">issues</a></td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/ranking-safety-priorities/discussions" target="ranking-discussions">discussions</a></td>
+      </tr>
+      <tr>
+        <td style="text-align: left"><a href="https://the-ai-alliance.github.io/trust-safety-user-guide/" target="ts-ug">The AI Trust and Safety User Guide</a></td>
+        <td style="text-align: left">Introduction to T&amp;S with guidance from diverse experts.</td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/trust-safety-user-guide" target="ts-ug-repo">repo</a></td>
+        <td style="text-align: left">N/A</td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/trust-safety-user-guide/issues" target="ts-ug-issues">issues</a></td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/trust-safety-user-guide/discussions" target="ts-ug-discussions">discussions</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
 ### [Applications and Tools](https://thealliance.ai/focus-areas/applications-and-tools){:target="at"}
 
-| **Project/Initiative** | **Repo** | **Dashboard** | **Issues** | **Discussions** |
-| :--------------------- | :------- | :------------ | :--------- | :-------------- |
-| [The Living Guide to Applying AI](https://the-ai-alliance.github.io/applying-ai-guide/){:target="lgaai"} | [repo](https://github.com/The-AI-Alliance/applying-ai-guide/){:target="lgaai-repo"} | N/A | [issues](https://github.com/The-AI-Alliance/applying-ai-guide/issues){:target="lgaai-issues"} | [discussions](https://github.com/The-AI-Alliance/applying-ai-guide/discussions){:target="lgaai-discussions"} |
-| [Gofannon](https://the-ai-alliance.github.io/gofannon/){:target="gof"} | [repo](https://github.com/The-AI-Alliance/gofannon/){:target="gof-repo"} | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fgofannon%22){:target="gof-dashboard"} | [issues](https://github.com/The-AI-Alliance/gofannon/issues){:target="gof-issues"} | [discussions](https://github.com/The-AI-Alliance/gofannon/discussions){:target="gof-discussions"} |
-| Proscenium | [repo](https://github.com/The-AI-Alliance/proscenium/){:target="pro-repo"} | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fproscenium%22){:target="pro-dashboard"} | [issues](https://github.com/The-AI-Alliance/proscenium/issues){:target="pro-issues"} | [discussions](https://github.com/The-AI-Alliance/proscenium/discussions){:target="pro-discussions"} |
-| [AI Application Testing for Developers](https://the-ai-alliance.github.io/ai-application-testing/){:target="aiatd"} | [repo](https://github.com/The-AI-Alliance/ai-application-testing/){:target="aiatd-repo"} | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/31){:target="aiatd-dashboard"} | [issues](https://github.com/The-AI-Alliance/ai-application-testing/issues){:target="aiatd-issues"} | [discussions](https://github.com/The-AI-Alliance/ai-application-testing/discussions){:target="aiatd-discussions"} |
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th style="text-align: left"><strong>Project/Initiative</strong></th>
+        <th style="text-align: left"><strong>Description</strong></th>
+        <th style="text-align: left"><strong>Repo</strong></th>
+        <th style="text-align: left"><strong>Dashboard</strong></th>
+        <th style="text-align: left"><strong>Issues</strong></th>
+        <th style="text-align: left"><strong>Discussions</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align: left"><a href="https://the-ai-alliance.github.io/applying-ai-guide/" target="lgaai">The Living Guide to Applying AI</a></td>
+        <td style="text-align: left">Tips from experts on using AI for various applications, including popular <i>design patterns</i>.</td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/applying-ai-guide/" target="lgaai-repo">repo</a></td>
+        <td style="text-align: left">N/A</td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/applying-ai-guide/issues" target="lgaai-issues">issues</a></td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/applying-ai-guide/discussions" target="lgaai-discussions">discussions</a></td>
+      </tr>
+      <tr>
+        <td style="text-align: left"><a href="https://the-ai-alliance.github.io/gofannon/" target="gof">Gofannon</a></td>
+        <td style="text-align: left">A repository of functions consumable by other agent frameworks.</td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/gofannon/" target="gof-repo">repo</a></td>
+        <td style="text-align: left"><a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fgofannon%22" target="gof-dashboard">dashboard</a></td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/gofannon/issues" target="gof-issues">issues</a></td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/gofannon/discussions" target="gof-discussions">discussions</a></td>
+      </tr>
+      <tr>
+        <td style="text-align: left">Proscenium</td>
+        <td style="text-align: left">A lightweight, composable library and several demo applications.</td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/proscenium/" target="pro-repo">repo</a></td>
+        <td style="text-align: left"><a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fproscenium%22" target="pro-dashboard">dashboard</a></td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/proscenium/issues" target="pro-issues">issues</a></td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/proscenium/discussions" target="pro-discussions">discussions</a></td>
+      </tr>
+      <tr>
+        <td style="text-align: left"><a href="https://the-ai-alliance.github.io/ai-application-testing/" target="aiatd">AI Application Testing for Developers</a></td>
+        <td style="text-align: left">If you are a software developer, you are accustomed to writing deterministic tests. What do you do when generative models aren't deterministic?</td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/ai-application-testing/" target="aiatd-repo">repo</a></td>
+        <td style="text-align: left"><a href="https://github.com/orgs/The-AI-Alliance/projects/31" target="aiatd-dashboard">dashboard</a></td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/ai-application-testing/issues" target="aiatd-issues">issues</a></td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/ai-application-testing/discussions" target="aiatd-discussions">discussions</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ### [Diverse Hardware Enablement](https://thealliance.ai/focus-areas/hardware-enablement){:target="dhe"} 
 
-| **Project/Initiative** | **Repo** | **Dashboard** | **Issues** | **Discussions** |
-| :--------------------- | :------- | :------------ | :--------- | :-------------- |
-| [The AI Accelerator Software Ecosystem Guide](https://the-ai-alliance.github.io/ai-accelerator-software-ecosystem-guide/){:target="aiaseg"} | [repo](https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide){:target="aiaseg-repo"} | N/A | [issues](https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide/issues){:target="aiaseg-issues"} | [discussions](https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide/discussions){:target="aiaseg-discussions"} |
-
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th style="text-align: left"><strong>Project/Initiative</strong></th>
+        <th style="text-align: left"><strong>Description</strong></th>
+        <th style="text-align: left"><strong>Repo</strong></th>
+        <th style="text-align: left"><strong>Dashboard</strong></th>
+        <th style="text-align: left"><strong>Issues</strong></th>
+        <th style="text-align: left"><strong>Discussions</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align: left"><a href="https://the-ai-alliance.github.io/ai-accelerator-software-ecosystem-guide/" target="aiaseg">The AI Accelerator Software Ecosystem Guide</a></td>
+        <td style="text-align: left">A guide to the most common AI accelerators and the software stacks they use to integrate with tools you know, like PyTorch.</td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide" target="aiaseg-repo">repo</a></td>
+        <td style="text-align: left">N/A</td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide/issues" target="aiaseg-issues">issues</a></td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide/discussions" target="aiaseg-discussions">discussions</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ### [Open Models and Datasets](https://thealliance.ai/focus-areas/foundation-models-datasets){:target="omd"} 
 
-| **Project/Initiative** | **Description** | **Repo** | **Dashboard** | **Issues** | **Discussions** |
-| :--------------------- | :-------------- | :------- | :------------ | :--------- | :-------------- |
-| [The Open, Trusted Data Initiative](https://the-ai-alliance.github.io/open-trusted-data-initiative/){:target="otdi"} | _Open data_ has clear license for use, with clear provenance and governance. OTDI seeks to clarify the criteria for openness and catalog the world's datasets that meet the criteria. Projects: 1) [Define Openness Criteria](https://github.com/orgs/The-AI-Alliance/projects/28/views/1?filterQuery=label%3A%22dataset+requirements%22){:target="otdi-dashboard"}, 2) [Data Pipelines to Validate Datasets](https://github.com/orgs/The-AI-Alliance/projects/28/views/1?filterQuery=label%3A%22data+pipelines%22){:target="otdi-dashboard"}, 3) [Open Dataset Catalog](https://github.com/orgs/The-AI-Alliance/projects/28/views/1?filterQuery=label%3A%22dataset+catalog%22){:target="otdi-dashboard"} | [repo](https://github.com/The-AI-Alliance/open-trusted-data-initiative){:target="otdi-repo"} | [dashboard](https://github.com/orgs/The-AI-Alliance/projects/28){:target="otdi-dashboard"} | [issues](https://github.com/The-AI-Alliance/open-trusted-data-initiative/issues){:target="otdi-issues"} | [discussions](https://github.com/The-AI-Alliance/open-trusted-data-initiative/discussions){:target="otdi-discussions"} |
-| [The Open, Trusted Model Initiative](https://the-ai-alliance.github.io/open-trusted-model-initiative/){:target="otmi"} | Facilitate the creation of open models in diverse science and technology domains, and for applications like time series, drug discovery, etc. | [repo](https://github.com/The-AI-Alliance/open-trusted-model-initiative){:target="otmi-repo"} | N/A | [issues](https://github.com/The-AI-Alliance/open-trusted-model-initiative/issues){:target="otmi-issues"} | [discussions](https://github.com/The-AI-Alliance/open-trusted-model-initiative/discussions){:target="otmi-discussions"} |
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th style="text-align: left"><strong>Project/Initiative</strong></th>
+        <th style="text-align: left"><strong>Description</strong></th>
+        <th style="text-align: left"><strong>Repo</strong></th>
+        <th style="text-align: left"><strong>Dashboard</strong></th>
+        <th style="text-align: left"><strong>Issues</strong></th>
+        <th style="text-align: left"><strong>Discussions</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align: left"><a href="https://the-ai-alliance.github.io/open-trusted-data-initiative/" target="otdi">The Open, Trusted Data Initiative</a></td>
+        <td style="text-align: left"><em>Open data</em> has clear license for use, with clear provenance and governance. OTDI seeks to clarify the criteria for openness and catalog the world’s datasets that meet the criteria. Projects: 
+          <ul>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/28/views/1?filterQuery=label%3A%22dataset+requirements%22" target="otdi-dashboard">Define Openness Criteria</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/28/views/1?filterQuery=label%3A%22data+pipelines%22" target="otdi-dashboard">Data Pipelines to Validate Datasets</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/28/views/1?filterQuery=label%3A%22dataset+catalog%22" target="otdi-dashboard">Open Dataset Catalog</a>
+            </li>
+          </ul>
+        </td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/open-trusted-data-initiative" target="otdi-repo">repo</a></td>
+        <td style="text-align: left"><a href="https://github.com/orgs/The-AI-Alliance/projects/28" target="otdi-dashboard">dashboard</a></td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/open-trusted-data-initiative/issues" target="otdi-issues">issues</a></td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/open-trusted-data-initiative/discussions" target="otdi-discussions">discussions</a></td>
+      </tr>
+      <tr>
+        <td style="text-align: left"><a href="https://the-ai-alliance.github.io/open-trusted-model-initiative/" target="otmi">The Open, Trusted Model Initiative</a></td>
+        <td style="text-align: left">Facilitate the creation of open models in diverse science and technology domains, and for applications like time series, drug discovery, etc.</td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/open-trusted-model-initiative" target="otmi-repo">repo</a></td>
+        <td style="text-align: left">N/A</td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/open-trusted-model-initiative/issues" target="otmi-issues">issues</a></td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/open-trusted-model-initiative/discussions" target="otmi-discussions">discussions</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ### [Advocacy](https://thealliance.ai/focus-areas/advocacy){:target="adv"}
 
-| **Project/Initiative** | **Repo** | **Dashboard** | **Issues** | **Discussions** |
-| :--------------------- | :------- | :------------ | :--------- | :-------------- |
-| [AAAI 25: Workshop on Open-Source AI for Mainstream Use](https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/){:target="aaai25"} | [repo](https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use){:target="aaai25-repo"} | N/A | [issues](https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/issues){:target="aaai25-issues"} | [discussions](https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/discussions){:target="aaai25-discussions"} |
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th style="text-align: left"><strong>Project/Initiative</strong></th>
+        <th style="text-align: left"><strong>Description</strong></th>
+        <th style="text-align: left"><strong>Repo</strong></th>
+        <th style="text-align: left"><strong>Dashboard</strong></th>
+        <th style="text-align: left"><strong>Issues</strong></th>
+        <th style="text-align: left"><strong>Discussions</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align: left">AAAI 25: Workshop on Open-Source AI for Mainstream Use: <a href="https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/" target="aaai25">Website</a></td>
+        <td style="text-align: left">A workshop at <a href="https://aaai.org/conference/aaai/aaai-25/" target="aaai">AAAI 25</a> that explored practical challenges using AI.</td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use" target="aaai25-repo">repo</a></td>
+        <td style="text-align: left">N/A</td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/issues" target="aaai25-issues">issues</a></td>
+        <td style="text-align: left"><a href="https://github.com/The-AI-Alliance/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/discussions" target="aaai25-discussions">discussions</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ## Additional Links
 
@@ -79,6 +250,7 @@ The projects in this organization include the following:
 
 | Version  | Date       |
 | :------- | :--------- |
+| V0.1.5   | 2025-04-02 |
 | V0.1.4   | 2025-02-28 |
 | V0.1.3   | 2025-01-15 |
 | V0.1.2   | 2025-01-08 |
