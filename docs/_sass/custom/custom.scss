@@ -1,3 +1,16 @@
 td {
 	vertical-align: top;
 }
+
+th {
+	background-color: #EEECE1;
+	white-space: nowrap;
+	text-align: left;
+	font-weight: bold;
+}
+
+td.project-title {
+	background-color: #F1FBEA; /* #FBF0FA; */
+	text-align: left;
+	font-weight: bold;
+}
