@@ -58,16 +58,19 @@ The projects in this organization include the following:
           </ul>
         </td>
         <td>
-          TSEI seeks to define the <em>global</em> taxonomy of evaluations (from safety to performance to efficacy), catalog available implementations of them, and provide a reference stack of industry-standard tools to run the evaluations. Projects: 
+          TSEI seeks to define the <em>global</em> taxonomy of evaluations (from safety to performance to efficacy), catalog available implementations of them, and provide a reference stack of industry-standard tools to run the evaluations. Our projects: 
           <ul>
             <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/23/views/1?filterQuery=label%3Ataxonomy" target="tsei-dashboard">Taxonomy</a>
+              <strong>Taxonomy:</strong> <a href="https://the-ai-alliance.github.io/trust-safety-evals/taxonomy/taxonomy/" target="tsei-taxonomy">details</a>, <a href="https://github.com/orgs/The-AI-Alliance/projects/23/views/1?filterQuery=label%3Ataxonomy" target="tsei-dashboard">current work</a>
             </li>
             <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/23/views/1?filterQuery=label%3Aevaluators" target="tsei-dashboard">Evaluation implementations</a>
+              <strong>Evaluation implementations:</strong> <a href="https://the-ai-alliance.github.io/trust-safety-evals/evaluators/evaluators/" target="tsei-evaluators">details</a>, <a href="https://github.com/orgs/The-AI-Alliance/projects/23/views/1?filterQuery=label%3Aevaluators" target="tsei-dashboard">current work</a>
             </li>
             <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/23/views/1?filterQuery=label%3A%22reference+stack%22" target="tsei-dashboard">Reference Runtime Stack</a> (includes <a href="https://www.eleuther.ai/projects/large-language-model-evaluation" target="lm-eval">lm-evaluation-harness</a>, <a href="https://www.unitxt.ai/" target="unitxt">unitxt</a>, and other components)
+              <strong>Leaderboards:</strong> <a href="https://the-ai-alliance.github.io/trust-safety-evals/leaderboards/leaderboards/" target="tsei-leaderboards">details</a>, <a href="https://github.com/orgs/The-AI-Alliance/projects/23/views/1?filterQuery=label%3Aleaderboards" target="tsei-dashboard">current work</a>
+            </li>
+            <li>
+              <strong>Reference Runtime Stack:</strong> <a href="https://the-ai-alliance.github.io/trust-safety-evals/ref-stack/ref-stack/" target="tsei-ref-stack">details</a>, <a href="https://github.com/orgs/The-AI-Alliance/projects/23/views/1?filterQuery=label%3A%22reference+stack%22" target="tsei-dashboard">current work</a> (includes <a href="https://www.eleuther.ai/projects/large-language-model-evaluation" target="lm-eval">lm-evaluation-harness</a>, <a href="https://www.unitxt.ai/" target="unitxt">unitxt</a>, and other components)
             </li>
           </ul>
         </td>
@@ -313,16 +316,19 @@ The projects in this organization include the following:
           </ul>
         </td>
         <td>
-          <em>Open data</em> has clear license for use, with clear provenance and governance. OTDI seeks to clarify the criteria for openness and catalog the world’s datasets that meet the criteria. Projects: 
+          <em>Open data</em> has clear license for use, across a wide range of topic areas, with clear provenance and governance. OTDI seeks to clarify the criteria for openness and catalog the world’s datasets that meet the criteria. Our projects: 
           <ul>
             <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/28/views/1?filterQuery=label%3A%22dataset+requirements%22" target="otdi-dashboard">Define Openness Criteria</a>
+              <strong>Define Openness Criteria:</strong> <a href="https://the-ai-alliance.github.io/open-trusted-data-initiative/dataset-requirements/" target="otdi-criteria">details</a>, <a href="https://github.com/orgs/The-AI-Alliance/projects/28/views/1?filterQuery=label%3A%22dataset+requirements%22" target="otdi-dashboard">current work</a>
             </li>
             <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/28/views/1?filterQuery=label%3A%22data+pipelines%22" target="otdi-dashboard">Data Pipelines to Validate Datasets</a>
+              <strong>Find Diverse Datasets:</strong> <a href="https://the-ai-alliance.github.io/open-trusted-data-initiative/contributing/#what-kinds-of-datasets-do-we-want" target="otdi-diverse-data">details</a>, <a href="https://github.com/orgs/The-AI-Alliance/projects/28/views/1?filterQuery=label%3A%22diverse+datasets%22" target="otdi-dashboard">current work</a>
             </li>
             <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/28/views/1?filterQuery=label%3A%22dataset+catalog%22" target="otdi-dashboard">Open Dataset Catalog</a>
+              <strong>Data Pipelines to Validate Datasets:</strong> <a href="https://the-ai-alliance.github.io/open-trusted-data-initiative/our-processing/" target="otdi-pipelines">details</a>, <a href="https://github.com/orgs/The-AI-Alliance/projects/28/views/1?filterQuery=label%3A%22data+pipelines%22" target="otdi-dashboard">current work</a>
+            </li>
+            <li>
+              <strong>Open Dataset Catalog:</strong> <a href="https://the-ai-alliance.github.io/open-trusted-data-initiative/catalog/" target="otdi-catalog">details</a>, <a href="https://github.com/orgs/The-AI-Alliance/projects/28/views/1?filterQuery=label%3A%22dataset+catalog%22" target="otdi-dashboard">current work</a>
             </li>
           </ul>
         </td>
