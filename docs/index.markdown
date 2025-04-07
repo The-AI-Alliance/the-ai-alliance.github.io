@@ -13,7 +13,7 @@ has_children: false
 # AI Alliance GitHub Organization
 
 | **Authors**     | [AI Alliance Team](https://thealliance.ai/){:target="ai-alliance"} |
-| **Last Update** | V0.1.5, 2025-04-02 |
+| **Last Update** | V0.1.6, 2025-04-07 |
 
 
 > **Tip:** Use the search box at the top of this page to find specific content.
@@ -30,7 +30,7 @@ The projects in this organization include the following:
   <table>
     <thead>
       <tr>
-        <th>Project/Initiative</th>
+        <th>Links</th>
         <th>Description</th>
       </tr>
     </thead>
@@ -131,7 +131,7 @@ The projects in this organization include the following:
   <table>
     <thead>
       <tr>
-        <th>Project/Initiative</th>
+        <th>Links</th>
         <th>Description</th>
       </tr>
     </thead>
@@ -247,7 +247,7 @@ The projects in this organization include the following:
   <table>
     <thead>
       <tr>
-        <th>Project/Initiative</th>
+        <th>Links</th>
         <th>Description</th>
       </tr>
     </thead>
@@ -285,7 +285,7 @@ The projects in this organization include the following:
   <table>
     <thead>
       <tr>
-        <th>Project/Initiative</th>
+        <th>Links</th>
         <th>Description</th>
       </tr>
     </thead>
@@ -360,7 +360,7 @@ The projects in this organization include the following:
   <table>
     <thead>
       <tr>
-        <th>Project/Initiative</th>
+        <th>Links</th>
         <th>Description</th>
       </tr>
     </thead>
@@ -408,6 +408,7 @@ The projects in this organization include the following:
 
 | Version  | Date       |
 | :------- | :--------- |
+| V0.1.6   | 2025-04-07 |
 | V0.1.5   | 2025-04-02 |
 | V0.1.4   | 2025-02-28 |
 | V0.1.3   | 2025-01-15 |
