@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: AI Alliance GitHub Organizations
+title: AI Alliance GitHub Organization
 email: contact@thealliance.ai
 description: >- # this means to ignore newlines until "baseurl:"
-  The website for the AI Alliance project, AI Alliance GitHub Organizations.
+  The website for the project repositories of the AI Alliance.
 baseurl: "" # the subpath of your site.
 url: "https://the-ai-alliance.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
