@@ -22,9 +22,11 @@ has_children: false
 
 Welcome to the **The AI Alliance GitHub Organization**, where the Alliance members collaborate on technical projects, AI technology guides, and related projects. See [about us]({{site.baseurl}}/about/) for more information about The AI Alliance.
 
-The projects in this organization include the following:
+The projects in this organization are organized into _focus areas_:
 
-### [Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety){:target="ts"}
+### [Focus Area: Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety){:target="ts"}
+
+How do we know that applications built with AI are _trustworthy_, that they perform as required, in particular that they are _safe_, free of harmful outputs?
 
 <div class="table-wrapper">
   <table>
@@ -128,7 +130,9 @@ The projects in this organization include the following:
   </table>
 </div>
 
-### [Applications and Tools](https://thealliance.ai/focus-areas/applications-and-tools){:target="at"}
+### [Focus Area: Applications and Tools](https://thealliance.ai/focus-areas/applications-and-tools){:target="at"}
+
+Real-world use of AI involves more than just models. What application patterns best complement the strengths and weaknesses of models? Are there domain-specific considerations?
 
 <div class="table-wrapper">
   <table>
@@ -244,7 +248,9 @@ The projects in this organization include the following:
   </table>
 </div>
 
-### [Diverse Hardware Enablement](https://thealliance.ai/focus-areas/hardware-enablement){:target="dhe"} 
+### [Focus Area: Diverse Hardware Enablement](https://thealliance.ai/focus-areas/hardware-enablement){:target="dhe"} 
+
+While NVIDIA GPUs are the dominant AI accelerators, alternatives are useful for different price vs. performance trade offs, including deployments to _edge devices_, like phones. How do we ensure that the software stack we use supports different accelerator options?
 
 <div class="table-wrapper">
   <table>
@@ -282,7 +288,9 @@ The projects in this organization include the following:
   </table>
 </div>
 
-### [Open Models and Datasets](https://thealliance.ai/focus-areas/foundation-models-datasets){:target="omd"} 
+### [Focus Area: Open Models and Datasets](https://thealliance.ai/focus-areas/foundation-models-datasets){:target="omd"} 
+
+Datasets with clear license for use, backed by unambiguous provenance and governance controls, are needed to train and tune models. A variety of models are needed, not just for English text, but multilingual, multimodal, and domain specific, like models for molecular discovery, geospatial, and time series.
 
 <div class="table-wrapper">
   <table>
@@ -360,7 +368,9 @@ The projects in this organization include the following:
   </table>
 </div>
 
-### [Advocacy](https://thealliance.ai/focus-areas/advocacy){:target="adv"}
+### [Focus Area: Advocacy](https://thealliance.ai/focus-areas/advocacy){:target="adv"}
+
+Advocacy is about educating the public, policy officials, and others about the benefits of openness for AI, as well as the implications for safety and reliability.
 
 <div class="table-wrapper">
   <table>
