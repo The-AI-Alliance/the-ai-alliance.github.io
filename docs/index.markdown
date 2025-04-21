@@ -171,7 +171,7 @@ Real-world use of AI involves more than just models. What application patterns b
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          Proscenium
+          <a href="https://the-ai-alliance.github.io/proscenium/" target="proscenium">Proscenium</a>
         </td>
       </tr>
       <tr>
