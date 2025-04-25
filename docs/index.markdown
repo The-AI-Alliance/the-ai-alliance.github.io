@@ -146,7 +146,7 @@ How do we know that applications built with AI are _trustworthy_, that they perf
           </ul>
         </td>
         <td>
-           Unitxt is a Python library for enterprise-grade evaluation of AI performance, offering the world's largest catalog of tools and data for end-to-end AI benchmarking. (Principle developer: <a href="https://research.ibm.com/" target="ibm-research">IBM Research</a>)
+           Unitxt is a Python library for enterprise-grade evaluation of AI performance, offering the world's largest catalog of tools and data for end-to-end AI benchmarking. (Principal developer: <a href="https://research.ibm.com/" target="ibm-research">IBM Research</a>)
         </td>
       </tr>
     </tbody>
@@ -281,7 +281,7 @@ Real-world use of AI involves more than just models. What application patterns b
           </ul>
         </td>
         <td>
-          Domain Expert Agents (DXA) for industrial AI. (Principle developer: <a href="https://aitomatic.com/" target="aitomatic">Aitomatic</a>)
+          Domain Expert Agents (DXA) for industrial AI. (Principal developer: <a href="https://aitomatic.com/" target="aitomatic">Aitomatic</a>)
         </td>
       </tr>
       <tr>
@@ -304,7 +304,7 @@ Real-world use of AI involves more than just models. What application patterns b
           </ul>
         </td>
         <td>
-          Docling simplifies document processing, parsing diverse formats — including advanced PDF understanding — and providing seamless integrations with the gen AI ecosystem. (Principle developer: <a href="https://research.ibm.com/" target="ibm-research">IBM Research</a>)
+          Docling simplifies document processing, parsing diverse formats — including advanced PDF understanding — and providing seamless integrations with the gen AI ecosystem. (Principal developer: <a href="https://research.ibm.com/" target="ibm-research">IBM Research</a>)
         </td>
       </tr>
     </tbody>
@@ -416,7 +416,7 @@ Datasets with clear license for use, backed by unambiguous provenance and govern
           Several AI Alliance work groups are collaborating on the development of domain-specific models:
           <ul>
             <li>
-              <a href="https://www.semikong.ai/" target="semikong">Semikong</a> - The world's first open LLM tuned specifically for the semiconductor industry. (Principle developers: <a href="https://aitomatic.com/" target="aitomatic">Aitomatic</a>, <a href="https://www.tel.com/" target="tel">Tokyo Electron Ltd.</a>, <a href="https://fptsoftware.com/" target="fpt">FPT Software</a>, and  <a href="https://thealliance.ai" target="aia">The AI Alliance</a>)
+              <a href="https://www.semikong.ai/" target="semikong">Semikong</a> - The world's first open LLM tuned specifically for the semiconductor industry. (Principal developers: <a href="https://aitomatic.com/" target="aitomatic">Aitomatic</a>, <a href="https://www.tel.com/" target="tel">Tokyo Electron Ltd.</a>, <a href="https://fptsoftware.com/" target="fpt">FPT Software</a>, and  <a href="https://thealliance.ai" target="aia">The AI Alliance</a>)
             </li>
             <li>
               Llamarine (coming soon!) - An LLM tuned specifically for the needs of the maritime industry. 
@@ -467,7 +467,7 @@ Datasets with clear license for use, backed by unambiguous provenance and govern
           </ul>
         </td>
         <td>
-          TerraTorch is a library based on <a href="https://lightning.ai/docs/pytorch/stable/" target="lightning">PyTorch Lightning</a> and the <a href="https://github.com/microsoft/torchgeo" target="torchgeo">TorchGeo domain library</a> for geospatial data. (Principle developer: <a href="https://research.ibm.com/" target="ibm-research">IBM Research</a>)
+          TerraTorch is a library based on <a href="https://lightning.ai/docs/pytorch/stable/" target="lightning">PyTorch Lightning</a> and the <a href="https://github.com/microsoft/torchgeo" target="torchgeo">TorchGeo domain library</a> for geospatial data. (Principal developer: <a href="https://research.ibm.com/" target="ibm-research">IBM Research</a>)
         </td>
       </tr>
       <tr>
@@ -487,7 +487,7 @@ Datasets with clear license for use, backed by unambiguous provenance and govern
           </ul>
         </td>
         <td>
-          GEO-Bench is a General Earth Observation benchmark for evaluating the performance of large pre-trained models on geospatial data. (Principle developer: <a href="https://servicenow.com/" target="servicenow">ServiceNow</a>)
+          GEO-Bench is a General Earth Observation benchmark for evaluating the performance of large pre-trained models on geospatial data. (Principal developer: <a href="https://servicenow.com/" target="servicenow">ServiceNow</a>)
         </td>
       </tr>
   
