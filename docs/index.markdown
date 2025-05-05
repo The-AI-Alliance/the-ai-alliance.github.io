@@ -15,7 +15,6 @@ has_children: false
 | **Authors**     | [AI Alliance Team](https://thealliance.ai/){:target="ai-alliance"} |
 | **Last Update** | V0.1.7, 2025-04-23 |
 
-
 > **Tip:** Use the search box at the top of this page to find specific content.
 
 ## The AI Alliance Projects
@@ -101,6 +100,32 @@ How do we know that applications built with AI are _trustworthy_, that they perf
         </td>
         <td>
           What are the most important safety concerns for your specific domain and use cases? This project explores these questions in several industries, healthcare, finance, education, and legal, with more to come.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/red-teaming-work-group/" target="ranking">Red Teaming Work Group</a> <img src="{{site.baseurl}}/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/red-teaming-work-group" target="ranking-repo">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/32" target="ranking-dashboard">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/red-teaming-work-group/issues" target="ranking-issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/red-teaming-work-group/discussions" target="ranking-discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Red Teaming is a group activity that seeks to discover vulnerabilities in systems that could be exploited to make them behave in undesirable ways. Generative AI introduces new potential vulnerabilities, especially through prompts. The work of this group of experts consists of educational material and tools for doing red teaming work.
         </td>
       </tr>
       <tr>
