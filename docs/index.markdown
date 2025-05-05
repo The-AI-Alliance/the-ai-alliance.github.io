@@ -104,23 +104,23 @@ How do we know that applications built with AI are _trustworthy_, that they perf
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/red-teaming-work-group/" target="ranking">Red Teaming Work Group</a> <img src="{{site.baseurl}}/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/red-teaming-work-group/" target="red-teaming">Red Teaming Work Group</a> <img src="{{site.baseurl}}/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
         <td>
           <ul>
             <li>
-              <a href="https://github.com/The-AI-Alliance/red-teaming-work-group" target="ranking-repo">repo</a>
+              <a href="https://github.com/The-AI-Alliance/red-teaming-work-group" target="red-teaming-repo">repo</a>
             </li>
             <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/37" target="ranking-dashboard">dashboard</a>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/37" target="red-teaming-dashboard">dashboard</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/red-teaming-work-group/issues" target="ranking-issues">issues</a>
+              <a href="https://github.com/The-AI-Alliance/red-teaming-work-group/issues" target="red-teaming-issues">issues</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/red-teaming-work-group/discussions" target="ranking-discussions">discussions</a>
+              <a href="https://github.com/The-AI-Alliance/red-teaming-work-group/discussions" target="red-teaming-discussions">discussions</a>
             </li>
           </ul>
         </td>
