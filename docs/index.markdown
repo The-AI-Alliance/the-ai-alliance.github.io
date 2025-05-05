@@ -114,7 +114,7 @@ How do we know that applications built with AI are _trustworthy_, that they perf
               <a href="https://github.com/The-AI-Alliance/red-teaming-work-group" target="ranking-repo">repo</a>
             </li>
             <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/32" target="ranking-dashboard">dashboard</a>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/37" target="ranking-dashboard">dashboard</a>
             </li>
             <li>
               <a href="https://github.com/The-AI-Alliance/red-teaming-work-group/issues" target="ranking-issues">issues</a>
