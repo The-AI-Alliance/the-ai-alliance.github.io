@@ -245,6 +245,29 @@ Real-world use of AI involves more than just models. What application patterns b
       </tr>
       <tr>
         <td class="project-title" colspan="2">
+          Llama Stack Example App <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/llama-stack-example" target="lsea-repo">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/llama-stack-example/issues" target="lsea-issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/llama-stack-example/discussions target="lsea-discussions"">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          A deployable, domain-specific application demonstrating the use of <a href="https://github.com/meta-llama/llama-stack">Llama Stack</a>.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/applying-ai-guide/" target="lgaai">The Living Guide to Applying AI</a> <img src="{{site.baseurl}}/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
