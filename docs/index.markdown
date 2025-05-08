@@ -258,12 +258,12 @@ Real-world use of AI involves more than just models. What application patterns b
               <a href="https://github.com/The-AI-Alliance/llama-stack-example/issues" target="lsea-issues">issues</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/llama-stack-example/discussions target="lsea-discussions"">discussions</a>
+              <a href="https://github.com/The-AI-Alliance/llama-stack-example/discussions" target="lsea-discussions">discussions</a>
             </li>
           </ul>
         </td>
         <td>
-          A deployable, domain-specific application demonstrating the use of <a href="https://github.com/meta-llama/llama-stack">Llama Stack</a>.
+          A deployable, domain-specific application demonstrating the use of <a href="https://github.com/meta-llama/llama-stack" target="ls">Llama Stack</a>.
         </td>
       </tr>
       <tr>
