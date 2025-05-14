@@ -27,6 +27,8 @@ The following projects are organized into _focus areas_ and include projects own
 
 How do we know that applications built with AI are _trustworthy_, that they perform as required, in particular that they are _safe_, free of harmful outputs?
 
+Trust actually has a broad interpretation. Increasingly, organizations moving from proofs of concept to production are not only concerned about evaluating their chosen models and applications for safety, but also for general _alignment_; do they actually perform well for the specific use cases implemented? This focus area is now exploring these areas of evaluation, in general terms and for specific domains.
+
 <div class="table-wrapper">
   <table>
     <thead>
