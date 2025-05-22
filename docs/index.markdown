@@ -19,9 +19,15 @@ has_children: false
 
 ## The AI Alliance Projects
 
-Welcome to the **The AI Alliance GitHub Organization**, where the Alliance members collaborate on technical projects, AI technology guides, and related projects. See [about us]({{site.baseurl}}/about/) for more information about **The AI Alliance**.
+Welcome to the GitHub organization for the [AI Alliance](https://thealliance.ai){:target="_blank"}, a community of technology creators, developers, and adopters collaborating to advance safe, responsible, and effective AI rooted in open innovation. Here, Alliance members collaborate on technical initiatives, AI technology guides, and related projects. 
 
-The following projects are organized into _focus areas_ and include projects owned and developed by the AI Alliance (indicated with the <img src="{{site.baseurl}}/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/> icon) and several other projects with active AI Alliance participation.
+The AI Alliance is focused on accelerating and disseminating open innovation across the AI technology landscape to improve foundational capabilities, safety, security and trust in AI, and to responsibly maximize benefits to people and society everywhere.
+
+See [about us]({{site.baseurl}}/about/) for more information about **The AI Alliance**.
+
+## Focus Areas
+
+The AI Alliance initiatives are organized into _focus areas_ to cover the fundamental aspects of applying AI that cut across domains. The initiatives include projects owned and developed by the AI Alliance (indicated with the ![AI Alliance icon](https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png) icon) and several other projects with active AI Alliance participation.
 
 ### [Focus Area: Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety){:target="ts"}
 
@@ -180,7 +186,7 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
   </table>
 </div>
 
-### [Focus Area: Applications and Tools](https://thealliance.ai/focus-areas/applications-and-tools){:target="at"}
+### [Focus Area: Agents, Applications, and Tools](https://thealliance.ai/focus-areas/applications-and-tools){:target="at"}
 
 Real-world use of AI involves more than just models. What application patterns best complement the strengths and weaknesses of models? Are there domain-specific considerations?
 
@@ -193,6 +199,32 @@ Real-world use of AI involves more than just models. What application patterns b
       </tr>
     </thead>
     <tbody>
+       <tr>
+        <td class="project-title" colspan="2">
+          <target="gof">AllyCat</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/AllyCat/" target="pro-repo">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/36/views/1" target="pro-dashboard">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/AllyCat/issues" target="pro-issues">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/AllyCat/discussions" target="pro-discussions">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          End to end RAG application that scrapes your website so you can ask it questions. 
+        </td>
+      </tr>
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/gofannon/" target="gof">Gofannon</a> <img src="{{site.baseurl}}/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
@@ -540,32 +572,6 @@ Datasets with clear license for use, backed by unambiguous provenance and govern
           GEO-Bench is a General Earth Observation benchmark for evaluating the performance of large pre-trained models on geospatial data. (Principal developer: <a href="https://servicenow.com/" target="servicenow">ServiceNow</a>)
         </td>
       </tr>
-  
-      <!--
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/open-trusted-model-initiative/" target="otmi">The Open, Trusted Model Initiative</a> <img src="{{site.baseurl}}/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/open-trusted-model-initiative" target="otmi-repo">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/open-trusted-model-initiative/issues" target="otmi-issues">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/open-trusted-model-initiative/discussions" target="otmi-discussions">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          Facilitate the creation of open models in diverse science and technology domains, and for applications like time series, drug discovery, etc.
-        </td>
-      </tr>
-      -->
     </tbody>
   </table>
 </div>
@@ -621,24 +627,3 @@ Advocacy is about educating the public, policy officials, and others about the b
 * The [AI Alliance website](https://thealliance.ai){:target="aia"}: About the AI Alliance, our goals and initiatives.
   * Learn more about [getting involved](https://thealliance.ai/community){:target="aia-community"}.
 
-
-## Version History
-
-| Version  | Date       |
-| :------- | :--------- |
-| V0.1.7   | 2025-04-23 |
-| V0.1.6   | 2025-04-07 |
-| V0.1.5   | 2025-04-02 |
-| V0.1.4   | 2025-02-28 |
-| V0.1.3   | 2025-01-15 |
-| V0.1.2   | 2025-01-08 |
-| V0.1.1   | 2024-11-15 |
-| V0.1.0   | 2024-11-05 |
-
-<!-- 
-Use the following construct to automatically show a table of
-contents (ToC) for the child pages.
-For this page, you already have a "manual" ToC in the bullet 
-lists above.
--->
-<!-- {:toc} -->
