@@ -201,23 +201,23 @@ Real-world use of AI involves more than just models. What application patterns b
     <tbody>
        <tr>
         <td class="project-title" colspan="2">
-          <target="gof">AllyCat</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://github.com/The-AI-Alliance/AllyCat/" target="ac">AllyCat</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
         <td>
           <ul>
             <li>
-              <a href="https://github.com/The-AI-Alliance/AllyCat/" target="pro-repo">repo</a>
+              <a href="https://github.com/The-AI-Alliance/AllyCat/" target="ac-repo">repo</a>
             </li>
             <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/36/views/1" target="pro-dashboard">dashboard</a>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/36/views/1" target="ac-dashboard">dashboard</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/AllyCat/issues" target="pro-issues">issues</a>
+              <a href="https://github.com/The-AI-Alliance/AllyCat/issues" target="ac-issues">issues</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/AllyCat/discussions" target="pro-discussions">discussions</a>
+              <a href="https://github.com/The-AI-Alliance/AllyCat/discussions" target="ac-discussions">discussions</a>
             </li>
           </ul>
         </td>
