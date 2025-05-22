@@ -25,6 +25,11 @@ The AI Alliance is focused on accelerating and disseminating open innovation acr
 
 See [about us]({{site.baseurl}}/about/) for more information about **The AI Alliance**.
 
+<!-- 
+WARNING: Don't remove the next comment or the "focus areas: end" comment below. 
+They are used for automated copying of this content to the-ai-alliance.github.com repo.
+-->
+<!-- focus areas: start -->
 ## Focus Areas
 
 The AI Alliance initiatives are organized into _focus areas_ to cover the fundamental aspects of applying AI that cut across domains. The initiatives include projects owned and developed by the AI Alliance (indicated with the ![AI Alliance icon](https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png) icon) and several other projects with active AI Alliance participation.
@@ -613,6 +618,8 @@ Advocacy is about educating the public, policy officials, and others about the b
     </tbody>
   </table>
 </div>
+<!-- focus areas: end -->
+<!-- WARNING: Don't remove the previous comment! See notes above. -->
 
 ## Additional Links
 
