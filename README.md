@@ -16,6 +16,13 @@ make view-local
 
 It will bootstrap other dependencies, like `jekyll` and launch the website at URL http://127.0.0.1:4000/.
 
+## Contents of This Repo
+
+| Directory | Description |
+| :-------- | :---------- |
+| `docs` | The GitHub Pages for this website. |
+| `copy-from-github-readme` | A tool to copy the focus area tables from [`.github/profile/README.md`](https://github.com/The-AI-Alliance/.github/blob/main/profile/README.md) to `docs/index.markdown`, adding `target="_blank"` to anchors, etc. This needs to be run manually on occasion. See [copy-from-github-readme](copy-from-github-readme) for details. |
+
 ## Getting Involved
 
 We welcome contributions as PRs. Please see our [Alliance community repo](https://github.com/The-AI-Alliance/community/) for general information about contributing to any of our projects. This section provides some specific details you need to know.
