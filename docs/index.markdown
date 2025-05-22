@@ -12,7 +12,7 @@ has_children: false
 
 # AI Alliance GitHub Organization
 
-| **Authors**     | [AI Alliance Team](https://thealliance.ai/){:target="ai-alliance"} |
+| **Authors**     | [AI Alliance Team](https://thealliance.ai/){:target="_blank"} |
 | **Last Update** | V0.1.7, 2025-04-23 |
 
 > **Tip:** Use the search box at the top of this page to find specific content.
@@ -29,7 +29,7 @@ See [about us]({{site.baseurl}}/about/) for more information about **The AI Alli
 
 The AI Alliance initiatives are organized into _focus areas_ to cover the fundamental aspects of applying AI that cut across domains. The initiatives include projects owned and developed by the AI Alliance (indicated with the ![AI Alliance icon](https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png) icon) and several other projects with active AI Alliance participation.
 
-### [Focus Area: Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety){:target="ts"}
+### [Focus Area: Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety){:target="_blank"}
 
 How do we know that applications built with AI are _trustworthy_, that they perform as required, in particular that they are _safe_, free of harmful outputs?
 
@@ -186,7 +186,7 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
   </table>
 </div>
 
-### [Focus Area: Agents, Applications, and Tools](https://thealliance.ai/focus-areas/applications-and-tools){:target="at"}
+### [Focus Area: Agents, Applications, and Tools](https://thealliance.ai/focus-areas/applications-and-tools){:target="_blank"}
 
 Real-world use of AI involves more than just models. What application patterns best complement the strengths and weaknesses of models? Are there domain-specific considerations?
 
@@ -393,7 +393,7 @@ Real-world use of AI involves more than just models. What application patterns b
   </table>
 </div>
 
-### [Focus Area: Diverse Hardware Enablement](https://thealliance.ai/focus-areas/hardware-enablement){:target="dhe"} 
+### [Focus Area: Diverse Hardware Enablement](https://thealliance.ai/focus-areas/hardware-enablement){:target="_blank"} 
 
 While NVIDIA GPUs are the dominant AI accelerators, alternatives are useful for different price vs. performance trade offs, including deployments to _edge devices_, like phones. How do we ensure that the software stack we use supports different accelerator options?
 
@@ -433,7 +433,7 @@ While NVIDIA GPUs are the dominant AI accelerators, alternatives are useful for 
   </table>
 </div>
 
-### [Focus Area: Open Models and Datasets](https://thealliance.ai/focus-areas/foundation-models-datasets){:target="omd"} 
+### [Focus Area: Open Models and Datasets](https://thealliance.ai/focus-areas/foundation-models-datasets){:target="_blank"} 
 
 Datasets with clear license for use, backed by unambiguous provenance and governance controls, are needed to train and tune models. A variety of models are needed, not just for English text, but multilingual, multimodal, and domain specific, like models for molecular discovery, geospatial, and time series.
 
@@ -576,7 +576,7 @@ Datasets with clear license for use, backed by unambiguous provenance and govern
   </table>
 </div>
 
-### [Focus Area: Advocacy](https://thealliance.ai/focus-areas/advocacy){:target="adv"}
+### [Focus Area: Advocacy](https://thealliance.ai/focus-areas/advocacy){:target="_blank"}
 
 Advocacy is about educating the public, policy officials, and others about the benefits of openness for AI, as well as the implications for safety and reliability.
 
@@ -621,9 +621,9 @@ Advocacy is about educating the public, policy officials, and others about the b
 
 ## For More Information
 
-* The [AI Alliance GitHub Organization](https://github.com/The-AI-Alliance/){:target="org"}
-  * This documentation's [GitHub repo](https://github.com/The-AI-Alliance/the-ai-alliance.github.io){:target="repo"}
-  * The [microsite template](https://github.com/The-AI-Alliance/microsite-template){:target="template"}: The template used for Alliance projects, including all the websites listed above. See the [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md){:target="template-readme"} for instructions.
-* The [AI Alliance website](https://thealliance.ai){:target="aia"}: About the AI Alliance, our goals and initiatives.
-  * Learn more about [getting involved](https://thealliance.ai/community){:target="aia-community"}.
+* The [AI Alliance GitHub Organization](https://github.com/The-AI-Alliance/){:target="_blank"}
+  * This documentation's [GitHub repo](https://github.com/The-AI-Alliance/the-ai-alliance.github.io){:target="_blank"}
+  * The [microsite template](https://github.com/The-AI-Alliance/microsite-template){:target="_blank"}: The template used for Alliance projects, including all the websites listed above. See the [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md){:target="_blank"} for instructions.
+* The [AI Alliance website](https://thealliance.ai){:target="_blank"}: About the AI Alliance, our goals and initiatives.
+  * Learn more about [getting involved](https://thealliance.ai/community){:target="_blank"}.
 
