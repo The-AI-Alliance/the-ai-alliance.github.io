@@ -25,14 +25,9 @@ The AI Alliance is focused on accelerating and disseminating open innovation acr
 
 See [about us]({{site.baseurl}}/about/) for more information about **The AI Alliance**.
 
-<!-- 
-WARNING: Don't remove the next comment or the "focus areas: end" comment below. 
-They are used for automated copying of this content to the-ai-alliance.github.com repo.
--->
-<!-- focus areas: start -->
 ## Focus Areas
 
-The AI Alliance initiatives are organized into _focus areas_ to cover the fundamental aspects of applying AI that cut across domains. The initiatives include projects owned and developed by the AI Alliance (indicated with the ![AI Alliance icon](https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png) icon) and several other projects with active AI Alliance participation.
+The AI Alliance initiatives are organized into _focus areas_ to cover the fundamental aspects of applying AI that cut across domains. The initiatives include projects owned and developed by the AI Alliance (indicated with the <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/> icon) and several other projects with active AI Alliance participation.
 
 ### [Focus Area: Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety){:target="_blank"}
 
@@ -51,7 +46,7 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/trust-safety-evals/" target="_blank">Trust and Safety Evaluations Initiative</a> <img src="{{site.baseurl}}/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/trust-safety-evals/" target="_blank">Trust and Safety Evaluations Initiative</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -91,7 +86,7 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/ranking-safety-priorities/" target="_blank">Ranking AI Safety Priorities by Domain</a> <img src="{{site.baseurl}}/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/ranking-safety-priorities/" target="_blank">Ranking AI Safety Priorities by Domain</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -117,7 +112,7 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/red-teaming-work-group/" target="_blank">Red Teaming Work Group</a> <img src="{{site.baseurl}}/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/red-teaming-work-group/" target="_blank">Red Teaming Work Group</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -143,7 +138,7 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/trust-safety-user-guide/" target="_blank">The AI Trust and Safety User Guide</a> <img src="{{site.baseurl}}/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/trust-safety-user-guide/" target="_blank">The AI Trust and Safety User Guide</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -232,7 +227,7 @@ Real-world use of AI involves more than just models. What application patterns b
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/gofannon/" target="_blank">Gofannon</a> <img src="{{site.baseurl}}/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/gofannon/" target="_blank">Gofannon</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -258,7 +253,7 @@ Real-world use of AI involves more than just models. What application patterns b
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/proscenium/" target="_blank">Proscenium</a> <img src="{{site.baseurl}}/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/proscenium/" target="_blank">Proscenium</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -307,7 +302,7 @@ Real-world use of AI involves more than just models. What application patterns b
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/applying-ai-guide/" target="_blank">The Living Guide to Applying AI</a> <img src="{{site.baseurl}}/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/applying-ai-guide/" target="_blank">The Living Guide to Applying AI</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -330,7 +325,7 @@ Real-world use of AI involves more than just models. What application patterns b
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">AI Application Testing for Developers</a> <img src="{{site.baseurl}}/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">AI Application Testing for Developers</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -356,7 +351,7 @@ Real-world use of AI involves more than just models. What application patterns b
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          OpenDXA (coming soon!) <img src="{{site.baseurl}}/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          OpenDXA (coming soon!) <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -413,7 +408,7 @@ While NVIDIA GPUs are the dominant AI accelerators, alternatives are useful for 
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/ai-accelerator-software-ecosystem-guide/" target="_blank">The AI Accelerator Software Ecosystem Guide</a> <img src="{{site.baseurl}}/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/ai-accelerator-software-ecosystem-guide/" target="_blank">The AI Accelerator Software Ecosystem Guide</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -453,7 +448,7 @@ Datasets with clear license for use, backed by unambiguous provenance and govern
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/open-trusted-data-initiative/" target="_blank">The Open, Trusted Data Initiative</a> <img src="{{site.baseurl}}/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/open-trusted-data-initiative/" target="_blank">The Open, Trusted Data Initiative</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -596,7 +591,7 @@ Advocacy is about educating the public, policy officials, and others about the b
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/" target="_blank">AAAI 25: Workshop on Open-Source AI for Mainstream Use</a> <img src="{{site.baseurl}}/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/AAAI-25-Workshop-on-Open-Source-AI-for-Mainstream-Use/" target="_blank">AAAI 25: Workshop on Open-Source AI for Mainstream Use</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -618,8 +613,6 @@ Advocacy is about educating the public, policy officials, and others about the b
     </tbody>
   </table>
 </div>
-<!-- focus areas: end -->
-<!-- WARNING: Don't remove the previous comment! See notes above. -->
 
 ## Additional Links
 
@@ -633,4 +626,3 @@ Advocacy is about educating the public, policy officials, and others about the b
   * The [microsite template](https://github.com/The-AI-Alliance/microsite-template){:target="_blank"}: The template used for Alliance projects, including all the websites listed above. See the [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md){:target="_blank"} for instructions.
 * The [AI Alliance website](https://thealliance.ai){:target="_blank"}: About the AI Alliance, our goals and initiatives.
   * Learn more about [getting involved](https://thealliance.ai/community){:target="_blank"}.
-
