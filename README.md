@@ -63,15 +63,15 @@ For internal cross-references, use the conventional `[title]({{site.baseurl}}/re
 > [!WARNING]
 > the `{{site.baseurl}}/` prefix is _essential_, because this _prefix_ will be different for local execution vs. published serving.
 
-For external links, add a `target="_blank"` tag with the following syntax:
+For external links, add a `target` tag using the following syntax, which works for GitHub Markdown and GitHub Pages.
 
 ```markdown
-[title]({{site.baseurl}}/relative_URL){:target="_blank"}
+[title]({{site.baseurl}}/relative_URL){:target="_target"}
 ```
 
-The `target` value is arbitrary. Using `_blank` is simply and causes _most_ browsers to open a unique tab for each link. _The exception is Firefox_, where the _same_ tab is used for every URL (unfortunately). use whatever you want. If you care about that issue, then use a custom value for each `target`. Also, [our stylesheet](https://github.com/The-AI-Alliance/the-ai-alliance.github.io/blob/main/docs/_includes/css/custom.scss.liquid) is configured to put the little up-and-to-the-right arrows after every link that isn't relative, i.e., links that start with `http` or `https`. This provides a visual clue that a new tab will be opened.
+The `target` value is arbitrary; use whatever you want. While this is a little more tedious to type, it is usually better for users so they don't lose their place in this site. Also, [our stylesheet](https://github.com/The-AI-Alliance/the-ai-alliance.github.io/blob/main/docs/_includes/css/custom.scss.liquid) is configured to put the little up-and-to-the-right arrows after every link that isn't relative, i.e., links that start with `http` or `https`. This provides a visual clue that a new tab will be opened.
 
-> **TIP:** There is a script included in the repo, `check-external-links.sh`, that will look for external URLs that are missing the `{:target="foo"}` annotations. Run this periodically to check for missing targets.
+> **TIP:** There is a script included in the repo, `check-external-links.sh`, that will look for external URLs that are missing the `{:target="foo"}` annotations.
 
 #### Emojis
 
