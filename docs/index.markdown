@@ -528,6 +528,32 @@ Datasets with clear license for use, backed by unambiguous provenance and govern
       </tr>
       <tr>
         <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/pdf-parsing-for-science/" target="_blank">Parsing PDFs to Build AI Datasets for Science</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/pdf-parsing-for-science" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/39" target="_blank">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/pdf-parsing-for-science/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/pdf-parsing-for-science/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          There is a need for domain-specific datasets for tuning special-purpose models and use in data-heavy application patterns like RAG. In many technical domains, much of the expertise is published in the open, but difficult to exploit as AI training data. For example, while text extraction from PDFs is already common, extracting information from the tables and images in technical PDFs, and associating that information with the surrounding text, is not yet widespread. This project aims to solve this problem by applying the recently-developed <a href="https://docling-project.github.io/docling/" target="_blank">Docling</a> tool to parse PDF datasets and create new datasets in formats that preserve this rich content, yet are easier to exploit in model training, tuning, etc. The project will start with the <a href="https://huggingface.co/datasets/PleIAs/Math-PDF" target="_blank">Math-PDF</a> dataset of PDFs published recently by <a href="https://pleias.fr/" target="_blank">PleIAs</a>.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
           <a href="https://github.com/IBM/terratorch" target="_blank">TerraTorch</a>
         </td>
       </tr>
