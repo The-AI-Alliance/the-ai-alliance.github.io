@@ -13,7 +13,7 @@ has_children: false
 # AI Alliance GitHub Organization
 
 | **Authors**     | [AI Alliance Team](https://thealliance.ai/){:target="_blank"} |
-| **Last Update** | V0.1.7, 2025-04-23 |
+| **Last Update** | V0.1.8, 2025-06-03 |
 
 > **Tip:** Use the search box at the top of this page to find specific content.
 
