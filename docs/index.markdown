@@ -13,7 +13,7 @@ has_children: false
 # AI Alliance GitHub Organization
 
 | **Authors**     | [AI Alliance Team](https://thealliance.ai/){:target="_blank"} |
-| **Last Update** | V0.1.9, 2025-06-10 |
+| **Last Update** | V0.2.0, 2025-06-14 |
 
 > **Tip:** Use the search box at the top of this page to find specific content.
 
@@ -87,6 +87,32 @@ The Open Agent Lab builds with open weight models from our members, including **
       </tr>
       <tr>
         <td class="project-title" colspan="2">
+          <a href="https://github.com/The-AI-Alliance/agent-lab-ui/" target="_blank">Agent Lab UI</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/agent-lab-ui/" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/agent-lab-ui/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/agent-lab-ui/discussions" target="_blank">discussions</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/agent-lab-ui/wiki" target="_blank">wiki</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          AgentLabUI is a web-based interface designed to simplify the creation, management, and deployment of AI agents. It supports integration with Gofannon tools, enabling developers and researchers to rapidly prototype and experiment with sophisticated AI agent architectures.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/gofannon/" target="_blank">Gofannon</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
@@ -95,9 +121,6 @@ The Open Agent Lab builds with open weight models from our members, including **
           <ul>
             <li>
               <a href="https://github.com/The-AI-Alliance/gofannon/" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fgofannon%22" target="_blank">dashboard</a>
             </li>
             <li>
               <a href="https://github.com/The-AI-Alliance/gofannon/issues" target="_blank">issues</a>
@@ -542,7 +565,7 @@ Datasets with clear license for use, backed by unambiguous provenance and govern
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/open-trusted-model-initiative/" target="_blank">Open Models</a>
+          <a href="https://thealliance.ai/focus-areas/foundation-models-datasets" target="_blank">Open Models</a>
         </td>
       </tr>
       <tr>
