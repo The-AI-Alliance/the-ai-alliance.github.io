@@ -10,12 +10,16 @@ has_children: false
   }
 </style>
 
+{% comment %}
+> **Tip:** Use the search box at the top of this page to find specific content.
+{% endcomment %}
+
 # AI Alliance GitHub Organization
 
-| **Authors**     | [AI Alliance Team](https://thealliance.ai/){:target="_blank"} |
-| **Last Update** | V0.2.0, 2025-06-14 |
+> **The AI Alliance Events**
+>
+> Come meet us and learn about AI! See our [full list](https://thealliance.ai/events) of Alliance-sponsored and third-party Ai events.
 
-> **Tip:** Use the search box at the top of this page to find specific content.
 
 ## The AI Alliance Projects
 
@@ -702,3 +706,7 @@ Datasets with clear license for use, backed by unambiguous provenance and govern
   * The [microsite template](https://github.com/The-AI-Alliance/microsite-template){:target="_blank"}: The template used for Alliance projects, including all the websites listed above. See the [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md){:target="_blank"} for instructions.
 * The [AI Alliance website](https://thealliance.ai){:target="_blank"}: About the AI Alliance, our goals and initiatives.
   * Learn more about [getting involved](https://thealliance.ai/community){:target="_blank"}.
+
+
+| **Authors**     | [AI Alliance Team](https://thealliance.ai/){:target="_blank"} |
+| **Last Update** | V0.2.0, 2025-06-14 |
