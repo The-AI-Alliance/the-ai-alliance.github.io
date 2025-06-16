@@ -18,7 +18,7 @@ has_children: false
 
 > **The AI Alliance Events**
 >
-> Come meet us and learn about AI! See our [full list](https://thealliance.ai/events) of Alliance-sponsored and third-party Ai events.
+> Come meet us and learn about AI! See our [full list](https://thealliance.ai/events) of Alliance-sponsored and third-party AI events.
 
 
 ## The AI Alliance Projects
