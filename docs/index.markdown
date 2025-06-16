@@ -18,7 +18,7 @@ has_children: false
 
 > **The AI Alliance Events**
 >
-> Come meet us and learn about AI! See our [full list](https://thealliance.ai/events) of Alliance-sponsored and third-party AI events.
+> Come meet us and learn about AI! See our [full list](https://github.com/The-AI-Alliance/community/tree/main/events) of Alliance-sponsored and third-party AI events.
 
 
 ## The AI Alliance Projects
@@ -701,6 +701,7 @@ Datasets with clear license for use, backed by unambiguous provenance and govern
 
 ## For More Information
 
+* The [full list](https://github.com/The-AI-Alliance/community/tree/main/events) of Alliance-sponsored and third-party AI events.
 * The [AI Alliance GitHub Organization](https://github.com/The-AI-Alliance/){:target="_blank"}
   * This documentation's [GitHub repo](https://github.com/The-AI-Alliance/the-ai-alliance.github.io){:target="_blank"}
   * The [microsite template](https://github.com/The-AI-Alliance/microsite-template){:target="_blank"}: The template used for Alliance projects, including all the websites listed above. See the [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md){:target="_blank"} for instructions.
