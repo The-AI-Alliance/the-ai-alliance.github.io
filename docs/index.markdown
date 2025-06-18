@@ -16,14 +16,15 @@ has_children: false
 
 # AI Alliance GitHub Organization
 
-> **The AI Alliance Events**
+> **Quick Links**
 >
-> Come meet us and learn about AI! See our [full list](https://github.com/The-AI-Alliance/community/tree/main/events) of Alliance-sponsored and third-party AI events.
-
+> * [AI Alliance events](https://github.com/The-AI-Alliance/community/tree/main/events){:target="_blank"}
+> * [AI Alliance GitHub organization](https://github.com/The-AI-Alliance/){:target="_blank"} and [repos](https://github.com/orgs/The-AI-Alliance/repositories){:target="_blank"}
+> * [AI Alliance main website](https://thealliance.ai){:target="_blank"}
 
 ## The AI Alliance Projects
 
-Welcome to the GitHub organization for the [AI Alliance](https://thealliance.ai){:target="_blank"}, a community of technology creators, developers, and adopters collaborating to advance safe, responsible, and effective AI rooted in open innovation. Here, Alliance members collaborate on technical initiatives, AI technology guides, and related projects. 
+Welcome to the GitHub organization for the [AI Alliance](https://thealliance.ai){:target="_blank"}, a community of technology creators, developers, and adopters collaborating to advance safe, responsible, and effective AI rooted in open innovation. Here, Alliance members collaborate on technical initiatives, AI technology guides, and related projects.
 
 The AI Alliance is focused on accelerating and disseminating open innovation across the AI technology landscape to improve foundational capabilities, safety, security and trust in AI, and to responsibly maximize benefits to people and society everywhere.
 
@@ -37,7 +38,7 @@ See [about us]({{site.baseurl}}/about/) for more information about **The AI Alli
 
 The Open Agent Lab is a collaborative community, open source projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
 
-We are especially focused on domain-speciic challenges with work groups in: 
+We are especially focused on domain-speciic challenges with work groups in:
 
 **Industrial AI:** check out [SemiKong](https://github.com/aitomatic/semikong){:target="_blank"} a foundation model for semiconductor process agents.
 
@@ -48,9 +49,9 @@ We are especially focused on domain-speciic challenges with work groups in:
 **Chemistry and Materials:** take a look at new science foundation models for [molecular analysis](https://huggingface.co/ibm-research/materials.smi-ted){:target="_blank"}.
 
 **(Coming soon.)** Finance, Health, and Time Series domain work groups.
-  
+
 The Open Agent Lab builds with open weight models from our members, including **Llama, Granite, AI2, ServiceNow,** and more.
-  
+
 
 ### Agent Projects
 
@@ -86,7 +87,7 @@ The Open Agent Lab builds with open weight models from our members, including **
           </ul>
         </td>
         <td>
-          (Beginner friendly!) Get started with a simple and fun end to end RAG application that scrapes your website so you can ask it questions. 
+          (Beginner friendly!) Get started with a simple and fun end to end RAG application that scrapes your website so you can ask it questions.
         </td>
       </tr>
       <tr>
@@ -310,7 +311,7 @@ The Open Agent Lab builds with open weight models from our members, including **
 
 ### [Llama Stack](https://github.com/meta-llama/llama-stack){:target="_blank"}
 
-(coming soon to AI Alliance) The Llama Stack project from Meta provides standardized APIs, component abstractions, and integrations with other open source tools and managed services to help develoeprs build and deploy AI applications and agents. 
+(coming soon to AI Alliance) The Llama Stack project from Meta provides standardized APIs, component abstractions, and integrations with other open source tools and managed services to help develoeprs build and deploy AI applications and agents.
 
 We are organizing several reference implementations of agents on Llama Stack in the [Llama Stack Lab](https://github.com/The-AI-Alliance/llama-stack-lab){:target="_blank"} part of the Open Agent Lab.
 
@@ -353,7 +354,7 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
           </ul>
         </td>
         <td>
-          TSEI seeks to define the <em>global</em> taxonomy of evaluations (from safety to performance to efficacy), catalog available implementations of them, and provide a reference stack of industry-standard tools to run the evaluations. Our projects: 
+          TSEI seeks to define the <em>global</em> taxonomy of evaluations (from safety to performance to efficacy), catalog available implementations of them, and provide a reference stack of industry-standard tools to run the evaluations. Our projects:
           <ul>
             <li>
               <strong>Taxonomy:</strong> <a href="https://the-ai-alliance.github.io/trust-safety-evals/taxonomy/taxonomy/" target="_blank">details</a>, <a href="https://github.com/orgs/The-AI-Alliance/projects/23/views/1?filterQuery=label%3Ataxonomy" target="_blank">current work</a>
@@ -474,7 +475,7 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
 
 
 
-### [Deployment and Scaling](https://thealliance.ai/focus-areas/hardware-enablement){:target="_blank"} 
+### [Deployment and Scaling](https://thealliance.ai/focus-areas/hardware-enablement){:target="_blank"}
 
 Deploying and scaling AI systems, especially to the growing diversity of hardware accelerators for AI, and efficently scaling from PoCs and single node deployments to large numbers of users and distributed deployments are a key set of challenges.
 
@@ -514,7 +515,7 @@ Deploying and scaling AI systems, especially to the growing diversity of hardwar
   </table>
 </div>
 
-### [Open Trusted Data and Models](https://thealliance.ai/focus-areas/foundation-models-datasets){:target="_blank"} 
+### [Open Trusted Data and Models](https://thealliance.ai/focus-areas/foundation-models-datasets){:target="_blank"}
 
 Datasets with clear license for use, backed by unambiguous provenance and governance controls, are needed to train and tune models. A variety of models are needed, not just for English text, but multilingual, multimodal, and domain specific, like models for molecular discovery, geospatial, and time series.
 
@@ -550,7 +551,7 @@ Datasets with clear license for use, backed by unambiguous provenance and govern
           </ul>
         </td>
         <td>
-          <em>Open data</em> has clear license for use, across a wide range of topic areas, with clear provenance and governance. OTDI seeks to clarify the criteria for openness and catalog the world’s datasets that meet the criteria. Our projects: 
+          <em>Open data</em> has clear license for use, across a wide range of topic areas, with clear provenance and governance. OTDI seeks to clarify the criteria for openness and catalog the world’s datasets that meet the criteria. Our projects:
           <ul>
             <li>
               <strong>Open Dataset Catalog:</strong> <a href="https://the-ai-alliance.github.io/open-trusted-data-initiative/catalog/catalog/" target="_blank">details</a>, <a href="https://github.com/orgs/The-AI-Alliance/projects/28/views/1?filterQuery=label%3A%22dataset+catalog%22" target="_blank">current work</a>
@@ -582,10 +583,10 @@ Datasets with clear license for use, backed by unambiguous provenance and govern
               <a href="https://www.semikong.ai/" target="_blank">Semikong</a> - The world's first open LLM tuned specifically for the semiconductor industry. (Principal developers: <a href="https://aitomatic.com/" target="_blank">Aitomatic</a>, <a href="https://www.tel.com/" target="_blank">Tokyo Electron Ltd.</a>, <a href="https://fptsoftware.com/" target="_blank">FPT Software</a>, and  <a href="https://thealliance.ai" target="_blank">The AI Alliance</a>)
             </li>
             <li>
-              Llamarine (coming soon!) - An LLM tuned specifically for the needs of the maritime industry. 
+              Llamarine (coming soon!) - An LLM tuned specifically for the needs of the maritime industry.
             </li>
             <li>
-              <a href="https://thealliance.ai/working-groups/materials-and-chemistry" target="_blank">Materials and Chemistry work group</a> (Several developers, including <a href="https://research.ibm.com/" target="_blank">IBM Research</a>): 
+              <a href="https://thealliance.ai/working-groups/materials-and-chemistry" target="_blank">Materials and Chemistry work group</a> (Several developers, including <a href="https://research.ibm.com/" target="_blank">IBM Research</a>):
               <ul>
                 <li>
                   <a href="https://huggingface.co/ibm/materials.smi-ted" target="_blank">smi-ted</a> - SMILES-based Transformer Encoder-Decoder (SMILES-TED) is an encoder-decoder model pre-trained on a curated dataset of 91 million SMILES samples sourced from PubChem, equivalent to 4 billion molecular tokens. SMI-TED supports various complex tasks, including quantum property prediction, with two main variants (289M and 8×289M).
