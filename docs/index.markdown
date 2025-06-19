@@ -397,6 +397,7 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
           What are the most important safety concerns for your specific domain and use cases? This project explores these questions in several industries, healthcare, finance, education, and legal, with more to come.
         </td>
       </tr>
+      <!-- --
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/red-teaming-work-group/" target="_blank">Red Teaming Work Group</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
@@ -423,6 +424,7 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
           Red Teaming is a group activity that seeks to discover vulnerabilities in systems that could be exploited to make them behave in undesirable ways. Generative AI introduces new potential vulnerabilities, especially through prompts. The work of this group of experts consists of educational material and tools for doing red teaming work.
         </td>
       </tr>
+      -->
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/trust-safety-user-guide/" target="_blank">The AI Trust and Safety User Guide</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
