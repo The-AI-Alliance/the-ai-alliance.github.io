@@ -162,7 +162,33 @@ The Open Agent Lab builds with open weight models from our members, including **
           </ul>
         </td>
         <td>
-          A lightweight, composable library and several demo applications.
+          Collaborative, Asynchronous Human/Agent Interactions.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/lapidarist/" target="_blank">Lapidarist</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/lapidarist/" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Flapidarist%22" target="_blank">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/lapidarist/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/lapidarist/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Document enrichment and knowledge structure (eg knowledge graph) extraction and resolution.
         </td>
       </tr>
       <tr>
@@ -212,6 +238,29 @@ The Open Agent Lab builds with open weight models from our members, including **
         </td>
         <td>
            A Model Context Protocol (MCP) Gateway. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE).  (Principal developer: <a href="https://ibm.com" target="_blank">IBM</a>)
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://github.com/enkryptai/secure-mcp-gateway" target="_blank">Enkrypt AI Secure MCP Gateway</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/enkryptai/secure-mcp-gateway" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/enkryptai/secure-mcp-gateway/issues" target="_blank">issues</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          A secure MCP gateway built with authentication, automatic tool discovery, caching, and guardrail enforcement.
+          It sits between your MCP client and MCP servers. So, by its nature, it also acts as an MCP server as well as an MCP client.
+          When your MCP client connects to the gateway, it acts as an MCP server. When the gateway connects to the actual MCP server, it acts as an MCP client.
+          (Principal developer: <a href="https://www.enkryptai.com/" target="_blank">Enkrypt AI</a>)
         </td>
       </tr>
       <tr>
@@ -710,7 +759,6 @@ Datasets with clear license for use, backed by unambiguous provenance and govern
   * The [microsite template](https://github.com/The-AI-Alliance/microsite-template){:target="_blank"}: The template used for Alliance projects, including all the websites listed above. See the [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md){:target="_blank"} for instructions.
 * The [AI Alliance website](https://thealliance.ai){:target="_blank"}: About the AI Alliance, our goals and initiatives.
   * Learn more about [getting involved](https://thealliance.ai/community){:target="_blank"}.
-
 
 | **Authors**     | [AI Alliance Team](https://thealliance.ai/){:target="_blank"} |
 | **Last Update** | V0.2.0, 2025-06-14 |
