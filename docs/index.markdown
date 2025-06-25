@@ -34,9 +34,9 @@ See [about us]({{site.baseurl}}/about/) for more information about **The AI Alli
 ## Focus Areas
 
 
-### [The Open Agent Lab: Collaborate, Experiment, and Build Domain-specific AI Agents with Open Source](https://thealliance.ai/focus-areas/applications-and-tools){:target="_blank"}
+### The Open Agent Lab: Collaborate, Experiment, and Build Domain-specific AI Agents with Open Source
 
-The Open Agent Lab is a collaborative community, open source projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
+The [Open Agent Lab](https://thealliance.ai/focus-areas/applications-and-tools){:target="_blank"} is a collaborative community, open source projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
 
 We are especially focused on domain-speciic challenges with work groups in:
 
@@ -54,6 +54,74 @@ The Open Agent Lab builds with open weight models from our members, including **
 
 
 ### Agent Projects
+
+These projects are divided into two tables, one table for projects related to [Model Context Protocol](https://modelcontextprotocol.io/introduction){:target="_blank"} (MCP) and a second table for the more general-purpose agent projects.
+
+#### Model Context Protocol
+
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th>Links</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://ibm.github.io/mcp-context-forge/" target="_blank">MCP Gateway</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/IBM/mcp-context-forge" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/IBM/projects/118" target="_blank">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/IBM/mcp-context-forge/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/IBM/mcp-context-forge/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+           A Model Context Protocol (MCP) Gateway. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE).  (Principal developer: <a href="https://ibm.com" target="_blank">IBM</a>)
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://github.com/enkryptai/secure-mcp-gateway" target="_blank">Enkrypt AI Secure MCP Gateway</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/enkryptai/secure-mcp-gateway" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/enkryptai/secure-mcp-gateway/issues" target="_blank">issues</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          A secure MCP gateway built with authentication, automatic tool discovery, caching, and guardrail enforcement.
+          It sits between your MCP client and MCP servers. So, by its nature, it also acts as an MCP server as well as an MCP client.
+          When your MCP client connects to the gateway, it acts as an MCP server. When the gateway connects to the actual MCP server, it acts as an MCP client. 
+          (Principal developer: <a href="https://www.enkryptai.com/" target="_blank">Enkrypt AI</a>)
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+#### General Purpose Agent Projects
 
 <div class="table-wrapper">
   <table>
@@ -211,56 +279,7 @@ The Open Agent Lab builds with open weight models from our members, including **
           </ul>
         </td>
         <td>
-          A deployable, domain-specific application demonstrating the use of <a href="https://github.com/meta-llama/llama-stack" target="_blank">Llama Stack</a>.
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://ibm.github.io/mcp-context-forge/" target="_blank">MCP Gateway</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/IBM/mcp-context-forge" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/IBM/projects/118" target="_blank">dashboard</a>
-            </li>
-            <li>
-              <a href="https://github.com/IBM/mcp-context-forge/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/IBM/mcp-context-forge/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-           A Model Context Protocol (MCP) Gateway. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE).  (Principal developer: <a href="https://ibm.com" target="_blank">IBM</a>)
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://github.com/enkryptai/secure-mcp-gateway" target="_blank">Enkrypt AI Secure MCP Gateway</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/enkryptai/secure-mcp-gateway" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/enkryptai/secure-mcp-gateway/issues" target="_blank">issues</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          A secure MCP gateway built with authentication, automatic tool discovery, caching, and guardrail enforcement.
-          It sits between your MCP client and MCP servers. So, by its nature, it also acts as an MCP server as well as an MCP client.
-          When your MCP client connects to the gateway, it acts as an MCP server. When the gateway connects to the actual MCP server, it acts as an MCP client.
-          (Principal developer: <a href="https://www.enkryptai.com/" target="_blank">Enkrypt AI</a>)
+          A deployable, domain-specific application demonstrating the use of <a href="https://github.com/meta-llama/llama-stack" target="_blank">Llama Stack</a>. See also the <a href="#llama-stack">Llama Stack</a> section below.
         </td>
       </tr>
       <tr>
@@ -288,32 +307,6 @@ The Open Agent Lab builds with open weight models from our members, including **
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">AI Application Testing for Developers</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/ai-application-testing/" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/31" target="_blank">dashboard</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/ai-application-testing/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/ai-application-testing/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          If you are a software developer, you are accustomed to writing deterministic tests. What do you do when generative models aren't deterministic?
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
           OpenDXA (coming soon!) <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
@@ -329,45 +322,21 @@ The Open Agent Lab builds with open weight models from our members, including **
           Domain Expert Agents (DXA) for industrial AI. (Principal developer: <a href="https://aitomatic.com/" target="_blank">Aitomatic</a>)
         </td>
       </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://docling-project.github.io/docling/" target="_blank">Docling</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/docling-project/docling/" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/docling-project/docling/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/docling-project/docling/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          Docling simplifies document processing, parsing diverse formats — including advanced PDF understanding — and providing seamless integrations with the gen AI ecosystem. (Principal developer: <a href="https://research.ibm.com/" target="_blank">IBM Research</a>)
-        </td>
-      </tr>
     </tbody>
   </table>
 </div>
 
 
+### Llama Stack
 
-### [Llama Stack](https://github.com/meta-llama/llama-stack){:target="_blank"}
+(coming soon to AI Alliance) The [Llama Stack](https://github.com/meta-llama/llama-stack){:target="_blank"} project from Meta provides standardized APIs, component abstractions, and integrations with other open source tools and managed services to help develoeprs build and deploy AI applications and agents.
 
-(coming soon to AI Alliance) The Llama Stack project from Meta provides standardized APIs, component abstractions, and integrations with other open source tools and managed services to help develoeprs build and deploy AI applications and agents.
-
-We are organizing several reference implementations of agents on Llama Stack in the [Llama Stack Lab](https://github.com/The-AI-Alliance/llama-stack-lab){:target="_blank"} part of the Open Agent Lab.
+We are organizing several reference implementations of agents on Llama Stack in the [Llama Stack Lab](https://github.com/The-AI-Alliance/llama-stack-lab){:target="_blank"} part of the Open Agent Lab. See also [Llama Stack Agents](#general-purpose-agent-projects) discussed under [General Purpose Agent Projects](#general-purpose-agent-projects) above.
 
 
-### [Evaluation and Safety](https://thealliance.ai/focus-areas/trust-and-safety){:target="_blank"}
+### Evaluation and Safety
 
-How do we know that applications built with AI are _trustworthy_, that they perform as required, in particular that they are _safe_, free of harmful outputs?
+How do we know that applications built with AI are _trustworthy_, that they perform as required, in particular that they are _safe_, free of harmful outputs? Our [Evaluation and Safety](https://thealliance.ai/focus-areas/trust-and-safety){:target="_blank"} projects and initiatives address these concerns.
 
 Trust actually has a broad interpretation. Increasingly, organizations moving from proofs of concept to production are not only concerned about evaluating their chosen models and applications for safety, but also for general _alignment_; do they actually perform well for the specific use cases implemented? This focus area is now exploring these areas of evaluation, in general terms and for specific domains.
 
@@ -444,6 +413,32 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
         </td>
         <td>
           What are the most important safety concerns for your specific domain and use cases? This project explores these questions in several industries, healthcare, finance, education, and legal, with more to come.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">AI Application Testing for Developers</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/ai-application-testing/" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/31" target="_blank">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/ai-application-testing/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/ai-application-testing/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          If you are a software developer, you are accustomed to writing deterministic tests. What do you do when generative models aren't deterministic? This project adapts AI evaluation techniques for the "last mile" of evaluation; how do you verify that an AI application correctly implements its specific requirements and use cases, beyond the general concerns of common evaluation? This project also aims to educate developers on how to use these techniques effectively in combination with the traditional tools they already know.
         </td>
       </tr>
       <!-- --
@@ -524,51 +519,9 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
   </table>
 </div>
 
+### Open Trusted Data and Models
 
-
-### [Deployment and Scaling](https://thealliance.ai/focus-areas/hardware-enablement){:target="_blank"}
-
-Deploying and scaling AI systems, especially to the growing diversity of hardware accelerators for AI, and efficently scaling from PoCs and single node deployments to large numbers of users and distributed deployments are a key set of challenges.
-
-<div class="table-wrapper">
-  <table>
-    <thead>
-      <tr>
-        <th>Links</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/ai-accelerator-software-ecosystem-guide/" target="_blank">The AI Accelerator Software Ecosystem Guide</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          A guide to the most common AI accelerators and the software stacks they use to integrate with tools you know, like PyTorch.
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-### [Open Trusted Data and Models](https://thealliance.ai/focus-areas/foundation-models-datasets){:target="_blank"}
-
-Datasets with clear license for use, backed by unambiguous provenance and governance controls, are needed to train and tune models. A variety of models are needed, not just for English text, but multilingual, multimodal, and domain specific, like models for molecular discovery, geospatial, and time series.
+The [Open Trusted Data and Models](https://thealliance.ai/focus-areas/foundation-models-datasets){:target="_blank"} focus area has projects to build a variety of multilingual, multimodal, and domain-specific models. Examples include models for molecular discovery, geospatial, and time series applications. This focus area is also cataloging, and in some cases building, datasets with clear license for use, backed by unambiguous provenance and governance controls, which are needed for model training, tuning, and other purposes.
 
 <div class="table-wrapper">
   <table>
@@ -682,7 +635,30 @@ Datasets with clear license for use, backed by unambiguous provenance and govern
           </ul>
         </td>
         <td>
-          There is a need for domain-specific datasets for tuning special-purpose models and use in data-heavy application patterns like RAG. In many technical domains, much of the expertise is published in the open, but difficult to exploit as AI training data. For example, while text extraction from PDFs is already common, extracting information from the tables and images in technical PDFs, and associating that information with the surrounding text, is not yet widespread. This project aims to solve this problem by applying the recently-developed <a href="https://docling-project.github.io/docling/" target="_blank">Docling</a> tool to parse PDF datasets and create new datasets in formats that preserve this rich content, yet are easier to exploit in model training, tuning, etc. The project will start with the <a href="https://huggingface.co/datasets/PleIAs/Math-PDF" target="_blank">Math-PDF</a> dataset of PDFs published recently by <a href="https://pleias.fr/" target="_blank">PleIAs</a>.
+          There is a need for domain-specific datasets for tuning special-purpose models and use in data-heavy application patterns like RAG. In many technical domains, much of the expertise is published in the open, but difficult to exploit as AI training data. For example, while text extraction from PDFs is already common, extracting information from the tables and images in technical PDFs, and associating that information with the surrounding text, is not yet widespread. This project aims to solve this problem by applying the recently-developed <a href="https://docling-project.github.io/docling/" target="_blank">Docling</a> tool to parse PDF datasets and create new datasets in formats that preserve this rich content, yet are easier to exploit in model training, tuning, etc. The project will start with the <a href="https://huggingface.co/datasets/PleIAs/Math-PDF" target="_blank">Math-PDF</a> dataset of PDFs published recently by <a href="https://pleias.fr/" target="_blank">PleIAs</a>. See also <em>Docling</em>, discussed next.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://docling-project.github.io/docling/" target="_blank">Docling</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/docling-project/docling/" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/docling-project/docling/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/docling-project/docling/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Docling simplifies document processing, parsing diverse formats — including advanced PDF understanding — and providing seamless integrations with the gen AI ecosystem. Docling is a key tool for the project <em>Parsing PDFs to Build AI Datasets for Science</em>, discussed above. (Principal developer: <a href="https://research.ibm.com/" target="_blank">IBM Research</a>)
         </td>
       </tr>
       <tr>
@@ -729,6 +705,46 @@ Datasets with clear license for use, backed by unambiguous provenance and govern
         </td>
         <td>
           GEO-Bench is a General Earth Observation benchmark for evaluating the performance of large pre-trained models on geospatial data. (Principal developer: <a href="https://servicenow.com/" target="_blank">ServiceNow</a>)
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+### Deployment and Scaling
+
+[Deploying and scaling AI systems](https://thealliance.ai/focus-areas/hardware-enablement){:target="_blank"}, especially to the growing diversity of hardware accelerators for AI, and efficiently scaling from PoCs and single node deployments to large numbers of users and distributed deployments are a key set of challenges.
+
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th>Links</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/ai-accelerator-software-ecosystem-guide/" target="_blank">The AI Accelerator Software Ecosystem Guide</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          A guide to the most common AI accelerators and the software stacks they use to integrate with tools you know, like PyTorch.
         </td>
       </tr>
     </tbody>
