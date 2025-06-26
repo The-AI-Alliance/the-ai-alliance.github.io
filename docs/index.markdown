@@ -22,7 +22,7 @@ has_children: false
 
 The AI Alliance is a global organization. However, localization matters and is key to representation. To ensure effectiveness, relevance, and impact across diverse markets and communities, regional chapters of the AI Alliance exist and more are planned:
 
-* [Japan](https://the-ai-alliance.github.io/japan/)
+* [Japan](https://the-ai-alliance.github.io/japan/){:target="_blank"}
 * India - coming soon!
 
 ## The AI Alliance Projects
