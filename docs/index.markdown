@@ -4,11 +4,6 @@ title: Home
 nav_order: 10
 has_children: false
 ---
-<style>
-  table {
-    width: 100%;
-  }
-</style>
 
 {% comment %}
 > **Tip:** Use the search box at the top of this page to find specific content.
@@ -22,6 +17,14 @@ has_children: false
 > * [AI Alliance GitHub organization](https://github.com/The-AI-Alliance/){:target="_blank"} and [repos](https://github.com/orgs/The-AI-Alliance/repositories){:target="_blank"}
 > * [AI Alliance main website](https://thealliance.ai){:target="_blank"}
 
+<!-- regional chapters: start -->
+## AI Alliance Regional Chapters 
+
+The AI Alliance is a global organization. However, localization matters and is key to representation. To ensure effectiveness, relevance, and impact across diverse markets and communities, regional chapters of the AI Alliance exist and more are planned:
+
+* [Japan](https://the-ai-alliance.github.io/japan/)
+* India - coming soon!
+
 ## The AI Alliance Projects
 
 Welcome to the GitHub organization for the [AI Alliance](https://thealliance.ai){:target="_blank"}, a community of technology creators, developers, and adopters collaborating to advance safe, responsible, and effective AI rooted in open innovation. Here, Alliance members collaborate on technical initiatives, AI technology guides, and related projects.
@@ -29,7 +32,6 @@ Welcome to the GitHub organization for the [AI Alliance](https://thealliance.ai)
 The AI Alliance is focused on accelerating and disseminating open innovation across the AI technology landscape to improve foundational capabilities, safety, security and trust in AI, and to responsibly maximize benefits to people and society everywhere.
 
 See [about us]({{site.baseurl}}/about/) for more information about **The AI Alliance**.
-
 
 ## Focus Areas
 
