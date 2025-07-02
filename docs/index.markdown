@@ -38,11 +38,11 @@ The AI Alliance is focused on accelerating and disseminating open innovation acr
 
 See [about us]({{site.baseurl}}/about/) for more information about **The AI Alliance**.
 
-## Focus Areas
+# Focus Areas
 
 <a id="open-agent-lab-description" class="anchor"></a>
 
-### The Open Agent Lab: Collaborate, Experiment, and Build Domain-specific AI Agents with Open Source
+## The Open Agent Lab: Collaborate, Experiment, and Build Domain-specific AI Agents with Open Source
 
 The [Open Agent Lab](https://the-ai-alliance.github.io/open-agent-lab/){:target="_blank"} is a collaborative community, open source projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
 
@@ -61,11 +61,11 @@ We are especially focused on domain-specific challenges with work groups in:
 The _Open Agent Lab_ builds with open weight models from our members, including **Llama, Granite, AI2, ServiceNow,** and more.
 
 
-### Agent Projects
+## Agent Projects
 
 These projects are divided into three tables, one table for the _Open Agent Lab_, one table for projects related to [Model Context Protocol](https://modelcontextprotocol.io/introduction){:target="_blank"} (MCP) and a third table for the more general-purpose agent projects.
 
-#### Open Agent Lab
+### Open Agent Lab
 
 The _Open Agent Lab_ is a platform supporting many of the other initiatives and projects, as discussed [above](#open-agent-lab-description).
 
@@ -108,7 +108,7 @@ The _Open Agent Lab_ is a platform supporting many of the other initiatives and 
   </table>
 </div>
 
-#### Model Context Protocol
+### Model Context Protocol
 
 <div class="table-wrapper">
   <table>
@@ -172,7 +172,7 @@ The _Open Agent Lab_ is a platform supporting many of the other initiatives and 
   </table>
 </div>
 
-#### General Purpose Agent Projects
+### General Purpose Agent Projects
 
 <div class="table-wrapper">
   <table>
@@ -206,7 +206,7 @@ The _Open Agent Lab_ is a platform supporting many of the other initiatives and 
           </ul>
         </td>
         <td>
-          (Beginner friendly!) Get started with a simple and fun end to end RAG application that scrapes your website so you can ask it questions.
+          (Beginner friendly!) Get started with a simple and fun end-to-end RAG application that scrapes your website so you can ask it questions.
         </td>
       </tr>
       <tr>
@@ -312,25 +312,25 @@ The _Open Agent Lab_ is a platform supporting many of the other initiatives and 
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          Llama Stack Agents <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          Llama Stack Use Cases <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
         <td>
           <ul>
             <li>
-              <a href="https://github.com/The-AI-Alliance/llama-stack-example" target="_blank">repo</a>
+              <a href="https://github.com/The-AI-Alliance/llama-stack-usecase1" target="_blank">repo</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/llama-stack-example/issues" target="_blank">issues</a>
+              <a href="https://github.com/The-AI-Alliance/llama-stack-usecase1/issues" target="_blank">issues</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/llama-stack-example/discussions" target="_blank">discussions</a>
+              <a href="https://github.com/The-AI-Alliance/llama-stack-usecase1/discussions" target="_blank">discussions</a>
             </li>
           </ul>
         </td>
         <td>
-          Deployable, domain-specific applications demonstrating the use of <a href="https://github.com/meta-llama/llama-stack" target="_blank">Llama Stack</a>. See also the <a href="#llama-stack">Llama Stack</a> section below.
+          Deployable, domain-specific use case applications demonstrating the use of <a href="https://github.com/meta-llama/llama-stack" target="_blank">Llama Stack</a>. See also the <a href="#llama-stack">Llama Stack</a> section below.
         </td>
       </tr>
       <tr>
@@ -380,15 +380,13 @@ The _Open Agent Lab_ is a platform supporting many of the other initiatives and 
   </table>
 </div>
 
-
 ### Llama Stack
 
-(coming soon to AI Alliance) The [Llama Stack](https://github.com/meta-llama/llama-stack){:target="_blank"} project from Meta provides standardized APIs, component abstractions, and integrations with other open source tools and managed services to help develoeprs build and deploy AI applications and agents.
+(Coming soon) The [Llama Stack](https://github.com/meta-llama/llama-stack){:target="_blank"} project from Meta provides standardized APIs, component abstractions, integrations with other open source tools and managed services to help developers build and deploy AI applications and agents.
 
-We are organizing several reference implementations of agents on Llama Stack in the [Llama Stack Lab](https://github.com/The-AI-Alliance/llama-stack-lab){:target="_blank"} part of the [Open Agent Lab](#open-agent-lab). See also [Llama Stack Agents](#general-purpose-agent-projects) discussed under [General Purpose Agent Projects](#general-purpose-agent-projects) above.
+We are creating several reference implementations for domain-specific use cases on Llama Stack in the [Llama Stack Lab](https://github.com/The-AI-Alliance/llama-stack-lab){:target="_blank"} deployed on the [Open Agent Lab](#open-agent-lab). See also _Llama Stack Agents_ under [General Purpose Agent Projects](#general-purpose-agent-projects) above.
 
-
-### Evaluation and Safety
+## Evaluation and Safety
 
 How do we know that applications built with AI are _trustworthy_, that they perform as required, in particular that they are _safe_, free of harmful outputs? Our [Evaluation and Safety](https://thealliance.ai/focus-areas/trust-and-safety){:target="_blank"} projects and initiatives address these concerns.
 
@@ -573,9 +571,9 @@ Trust actually has a broad interpretation. Increasingly, organizations moving fr
   </table>
 </div>
 
-### Open Trusted Data and Models
+## Open, Trusted Data and Models
 
-The [Open Trusted Data and Models](https://thealliance.ai/focus-areas/foundation-models-datasets){:target="_blank"} focus area has projects to build a variety of multilingual, multimodal, and domain-specific models. Examples include models for molecular discovery, geospatial, and time series applications. This focus area is also cataloging, and in some cases building, datasets with clear license for use, backed by unambiguous provenance and governance controls, which are needed for model training, tuning, and other purposes.
+The [Open, Trusted Data and Models](https://thealliance.ai/focus-areas/foundation-models-datasets){:target="_blank"} focus area has projects to build a variety of multilingual, multimodal, and domain-specific models. Examples include models for molecular discovery, geospatial, and time series applications. This focus area is also cataloging, and in some cases building, datasets with clear license for use, backed by unambiguous provenance and governance controls, which are needed for model training, tuning, and other purposes.
 
 <div class="table-wrapper">
   <table>
@@ -765,7 +763,7 @@ The [Open Trusted Data and Models](https://thealliance.ai/focus-areas/foundation
   </table>
 </div>
 
-### Deployment and Scaling
+## Deployment and Scaling
 
 [Deploying and scaling AI systems](https://thealliance.ai/focus-areas/hardware-enablement){:target="_blank"}, especially to the growing diversity of hardware accelerators for AI, and efficiently scaling from PoCs and single node deployments to large numbers of users and distributed deployments are a key set of challenges.
 
@@ -806,7 +804,7 @@ The [Open Trusted Data and Models](https://thealliance.ai/focus-areas/foundation
 </div>
 
 
-## For More Information
+# For More Information
 
 * The [AI Alliance GitHub Organization](https://github.com/The-AI-Alliance/){:target="_blank"}
     * [Contributing](https://github.com/The-AI-Alliance/community/CONTRIBUTING.md){:target="_blank"} to the AI Alliance [community](https://github.com/The-AI-Alliance/community){:target="_blank"}.
