@@ -26,7 +26,7 @@ $0 [options]
 Where the options are:
 -h|--help            Print this message and quit
 -i|--input   input   Read from input (default: $readme_file)
--o|--output  output  Write to output (default: $index_file) 
+-o|--output  output  Write to output (default: $index_file)
 EOF
 }
 
@@ -54,6 +54,7 @@ do
         *)
             error Unrecognized option: $1
     esac
+    shift
 done
 
 report_errors() {
@@ -63,19 +64,19 @@ report_errors() {
         case $1 in
             gawk)
                 cat <<EOF
-ERROR: "gawk" is required to run this script. Install with "brew install gawk". 
+ERROR: "gawk" is required to run this script. Install with "brew install gawk".
 EOF
                 ;;
             readme)
                 cat <<EOF
-ERROR: "$readme_file" not found! 
+ERROR: "$readme_file" not found!
 By default, we assume that the .github repo directory is located at ../.github. If it is some where else,
 reinvoke this script with --input file, where file is the path to $readme_file1 in the .github repo.
 EOF
                 ;;
             index)
                 cat <<EOF
-ERROR: "$index_file" not found! 
+ERROR: "$index_file" not found!
 Make sure you run this script in the root directory of the the-ai-alliance.github.io repo:
   copy-from-github-readme/copy-to-aia.sh
 OR use --output file, where file is the path to $index_file1 in the repo for the-ai-alliance.github.io.
@@ -90,7 +91,6 @@ EOF
 errors=()
 command -v gawk > /dev/null || errors+=('gawk')
 [[ ! -f $readme_file ]] && errors+=('readme')
-[[ ! -f $index_file ]]  && errors+=('index')
 report_errors "${errors[@]}"
 
 echo "Reading $readme_file and writing to temporary file $temp_readme:"

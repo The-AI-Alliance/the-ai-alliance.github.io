@@ -23,7 +23,7 @@ copy-from-github-readme/index-tail.markdown instead. See copy-from-github-readme
 > * [AI Alliance main website](https://thealliance.ai){:target="_blank"}
 
 <!-- regional chapters: start -->
-## AI Alliance Regional Chapters 
+## AI Alliance Regional Chapters
 
 The AI Alliance is a global organization. However, localization matters and is key to representation. To ensure effectiveness, relevance, and impact across diverse markets and communities, regional chapters of the AI Alliance exist and more are planned:
 
@@ -38,3 +38,10 @@ The AI Alliance is focused on accelerating and disseminating open innovation acr
 
 See [about us]({{site.baseurl}}/about/) for more information about **The AI Alliance**.
 
+The projects on this page fall into one of several categories:
+
+* **Supported Projects** are led and managed by member organization of the AI Alliance (a company, a non-profit, etc.).
+* **Managed Projects** are owned by the AI Alliance.
+* A few other projects are listed here that don't fit either category, but are key components for the supported and managed projects, so we want to call attention to them.
+
+Both supported and managed projects commit to minimum requirements on transparency, contributor opportunity and IP, permissive use licensing, and community conduct. Learn more about our project governance [here](https://thealliance.ai/governance).

@@ -91,11 +91,11 @@ back_to_top_text: "Back to the top"
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%Y-%m-%d %H:%M %z" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
-last_modified_timestamp: 2025-06-14 08:05 -0500
-last_version: 0.2.0
+last_modified_timestamp: 2025-07-08 18:55 -0500
+last_version: 0.2.1
 
 # Custom: Add the range of years for the copyright here. This is done here,
-# rather than default.html, so that the latter file can remain completely 
+# rather than default.html, so that the latter file can remain completely
 # generic across repos, but the range of years can be configurable per repo.
 copyright_years: 2024-2025
 
@@ -139,4 +139,3 @@ mermaid:
   # Version of mermaid library
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
   version: "9.1.5"
-

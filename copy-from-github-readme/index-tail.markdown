@@ -14,4 +14,4 @@
   * Learn more about [getting involved](https://thealliance.ai/community){:target="_blank"}.
 
 | **Authors**     | [AI Alliance Team](https://thealliance.ai/){:target="_blank"} |
-| **Last Update** | V0.2.0, 2025-06-14 |
+| **Last Update** | V0.2.1, 2025-07-08 |
