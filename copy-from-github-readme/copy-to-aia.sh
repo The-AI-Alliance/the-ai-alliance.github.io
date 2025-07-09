@@ -24,9 +24,13 @@ help() {
     cat<<EOF
 $0 [options]
 Where the options are:
--h|--help            Print this message and quit
--i|--input   input   Read from input (default: $readme_file)
--o|--output  output  Write to output (default: $index_file)
+-h | --help            Print this message and quit
+-i | --input   input   Read from input (default: $readme_file)
+-o | --output  output  Write to output (default: $index_file)
+
+TIP: Use the --output option to create a new index.markdown file, but
+not overwrite $index_file, e.g., because you want to "diff"
+and edit the changes before modifying $index_file.
 EOF
 }
 
@@ -102,4 +106,4 @@ cat "$DIR/index-head.markdown" "$temp_readme" "$DIR/index-tail.markdown" > "$tem
 
 cp "$temp_index" "$index_file"
 ls -l "$temp_readme" "$temp_index" "$index_file"
-#rm -r "$temp_readme" "$temp_index"
+echo "Finished! When ready, delete $temp_readme $temp_index, and commit and push the updated $index_file."
