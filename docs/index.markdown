@@ -60,7 +60,7 @@ The Open Agent Lab is a collaborative community of open source AI projects and d
 
 **Expert knowledge / Legal:** try [Bartlebot](https://github.com/The-AI-Alliance/bartlebot){:target="_blank"} if you want to work with case law and other legal topics.
 
-**Finance:** coming soon!
+**Finance:** see [Example Application for AI in Finance](https://the-ai-alliance.github.io/ai-in-finance-example-app/){:target="_blank"}, a new collaboration between finance and AI experts in the Alliance to explore the practical challenges of building and running trustworthy, production-quality AI-based finance applications.
 
 **Climate and Geospatial:** check out projects like [GeoBench](https://github.com/ServiceNow/geo-bench){:target="_blank"} and [TerraTorch](https://github.com/IBM/terratorch){:target="_blank"}.
 
@@ -346,6 +346,32 @@ MCP from Anthropic is quickly becoming an industry standard for agentic tool-cal
         </td>
         <td>
           Document enrichment and knowledge structure (eg knowledge graph) extraction and resolution.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/ai-in-finance-example-app/" target="_blank">Example Application for AI in Finance</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/ai-in-finance-example-app/" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/42/views/1" target="_blank">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/ai-in-finance-example-app/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/ai-in-finance-example-app/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          The <a href="https://the-ai-alliance.github.io/ai-in-finance-example-app/" target="_blank">Example Application for AI in Finance</a> project is a collaboration between finance and AI experts in the Alliance to explore the practical challenges of building and running trustworthy, production-quality AI-based finance applications.
         </td>
       </tr>
       <!--
