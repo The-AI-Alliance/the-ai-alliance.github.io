@@ -18,6 +18,18 @@ First, here are some useful reference links and other notes:
 * The `microsite-template`, which is cloned to create microsites: [github.com/The-AI-Alliance/microsite-template](https://github.com/The-AI-Alliance/microsite-template){:target="_blank"}
 	* The instructions for using the template: [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md){:target="_blank"}
 
+### Need a Text Editor for Your Mac?
+
+Unfortunately, there is one step you have to do on your laptop as part of cloning and using the template. You don't need a text editor suitable for source code, but it might come in handy. You can install [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}, an "IDE" (_Integrated Developer Environment_) that is very popular with developers, but it can be more than you need. 
+
+[This website](https://opentosh.com/collections/editors/){:target="_blank"} lists some free text editors you might install. Of the ones listed, Dean has either tried the following ones or they look like decent, easy-to-use options:
+
+* [MarkText](https://opentosh.com/items/MarkText/){:target="_blank"}, [Pine](https://opentosh.com/items/editor-pine/){:target="_blank"}, [MacDown](https://opentosh.com/items/macdown/){:target="_blank"}, [Markdownify](https://opentosh.com/items/markdownify/){:target="_blank"}, and [Zettlir](https://opentosh.com/items/zettlir/){:target="_blank"}: Limited to _Markdown_, the simple alternative "markup language" that is translated to HTML and easier to write than HTML, although not as full-featured as HTML. You can use either language in your sites. Since our microsites mostly use Markdown, with occasional use of HTML, one of these editors may be all you need.
+* [TextMate](https://opentosh.com/items/editor-textmate/){:target="_blank"}: Full featured; not limited to Markdown. This was once Dean's primary editor. Lightweight and easy to use.
+* [SubEthaEdit](https://opentosh.com/items/SubEthaEdit/){:target="_blank"}: Full-featured; not limited to Markdown. Dean used this one several years ago.
+
+The editors with _vim_ or _emacs_ in their names will have a bigger learning curve, although they are very capable.
+
 ## Using the Microsite Template
 
 To create a new website, open the [`microsite-template` repo page](https://github.com/The-AI-Alliance/microsite-template){:target="_blank"}. On the upper right-hand side, click the green menu button, _Use this template_, then _Create a new repository_.
