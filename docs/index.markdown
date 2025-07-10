@@ -171,7 +171,30 @@ MCP from Anthropic is quickly becoming an industry standard for agentic tool-cal
           </ul>
         </td>
         <td>
-           A Model Context Protocol (MCP) Gateway. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE).  (Principal developer: <a href="https://ibm.com" target="_blank">IBM</a>)
+           A Model Context Protocol (MCP) Gateway. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE). (Principal developer: <a href="https://ibm.com" target="_blank">IBM</a>)
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">LastMile AI MCP Agent</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/lastmile-ai/mcp-agent/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/lastmile-ai/mcp-agent/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Build effective agents using Model Context Protocol and simple workflow patterns. (Principal developer: <a href="https://www.lastmileai.dev/" target="_blank">LastMile AI</a>)
         </td>
       </tr>
       <tr>
@@ -612,9 +635,9 @@ Deploying a trusted AI system or agent is complex and the gap from prototype to 
   </table>
 </div>
 
-# Open Trusted Data and Models
+# Open Trusted Data and Tooling
 
-The [Open, Trusted Data and Models](https://thealliance.ai/focus-areas/foundation-models-datasets){:target="_blank"} work group has projects to build a variety of multilingual, multimodal, and domain-specific models. Examples include models for molecular discovery, geospatial, and time series applications. This focus area is also cataloging, and in some cases building, datasets with clear license for use, backed by unambiguous provenance and governance controls, which are needed for model training, tuning, and other purposes.
+Good datasets are essential for building good models and applications. The AI Alliance is cataloging datasets, and in some cases building them, that have clear licenses for open use, backed by unambiguous provenance and governance constraints.
 
 <div class="table-wrapper">
   <table>
@@ -667,6 +690,47 @@ The [Open, Trusted Data and Models](https://thealliance.ai/focus-areas/foundatio
       </tr>
       <tr>
         <td class="project-title" colspan="2">
+          <a href="https://docling-project.github.io/docling/" target="_blank">Docling</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/docling-project/docling/" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/docling-project/docling/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/docling-project/docling/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Docling simplifies document processing, parsing diverse formats — including advanced PDF understanding — and providing seamless integrations with the gen AI ecosystem. Docling is a key tool for the project <em>Parsing PDFs to Build AI Datasets for Science</em>, discussed above. (Principal developer: <a href="https://research.ibm.com/" target="_blank">IBM Research</a>)
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+# Open Models and Tooling for New Domains and Modalities
+
+The AI Alliance is building new models for many domains and modalities at the intersection of research and engineering. Our projects include models for industrial AI, molecular discovery, geospatial, and time series applications.
+
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th>Links</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="project-title" colspan="2">
           <a href="https://thealliance.ai/focus-areas/foundation-models-datasets" target="_blank">Open Models</a>
         </td>
       </tr>
@@ -703,29 +767,6 @@ The [Open, Trusted Data and Models](https://thealliance.ai/focus-areas/foundatio
               More to be announced soon.
             </li>
           </ul>
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://docling-project.github.io/docling/" target="_blank">Docling</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/docling-project/docling/" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/docling-project/docling/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/docling-project/docling/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          Docling simplifies document processing, parsing diverse formats — including advanced PDF understanding — and providing seamless integrations with the gen AI ecosystem. Docling is a key tool for the project <em>Parsing PDFs to Build AI Datasets for Science</em>, discussed above. (Principal developer: <a href="https://research.ibm.com/" target="_blank">IBM Research</a>)
         </td>
       </tr>
       <tr>
