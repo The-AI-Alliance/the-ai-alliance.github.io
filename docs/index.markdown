@@ -45,6 +45,8 @@ The projects on this page fall into one of several categories:
 * A few other projects are listed here that don't fit either category, but are key components for the supported and managed projects, so we want to call attention to them.
 
 Both supported and managed projects commit to minimum requirements on transparency, contributor opportunity and IP, permissive use licensing, and community conduct. Learn more about our project governance [here](https://thealliance.ai/governance){:target="_blank"}.
+
+
 # The Open Agent Lab
 
 <a id="open-agent-lab-description" class="anchor"></a>
@@ -248,6 +250,9 @@ The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> is faci
             </li>
             <li>
               <a href="https://github.com/nlip-project/ecma_draft1" target="_blank">NC-56 NLIP draft</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/nlip-project/projects/3" target="_blank">Dashboard</a>
             </li>
             <li>
               <a href="https://github.com/nlip-project/documents" target="_blank">Other Documents</a>
