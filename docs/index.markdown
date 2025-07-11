@@ -62,7 +62,7 @@ The Open Agent Lab is a collaborative community of open source AI projects and d
 
 **Finance:** see [Example Application for AI in Finance](https://the-ai-alliance.github.io/ai-in-finance-example-app/){:target="_blank"}, a new collaboration between finance and AI experts in the Alliance to explore the practical challenges of building and running trustworthy, production-quality AI-based finance applications.
 
-**Climate and Geospatial:** check out projects like [GeoBench](https://github.com/ServiceNow/geo-bench){:target="_blank"} and [TerraTorch](https://github.com/IBM/terratorch){:target="_blank"}.
+**Geospatial:** check out projects like [GeoBench](https://github.com/ServiceNow/geo-bench){:target="_blank"} and [TerraTorch](https://github.com/IBM/terratorch){:target="_blank"}.
 
 <!--
 **Chemistry and Materials:** take a look at new science foundation models for [molecular analysis](https://huggingface.co/ibm-research/materials.smi-ted){:target="_blank"}.
@@ -133,11 +133,9 @@ The Open Agent Lab is a collaborative community of open source AI projects and d
   </table>
 </div>
 
+## Model Context Protocol (MCP) Ecosystem and Related Projects
 
-
-## Model Context Protocol and Tooling Ecosystem
-
-MCP from Anthropic is quickly becoming an industry standard for agentic tool-calling and data interactions. The AI Alliance is striving to advance this protocol and establish a robust set of tooling around it to enable broad, high value trusted use in production.
+The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:target="_blank"} (MCP) from [Anthropic](https://www.anthropic.com/){:target="_blank"} is quickly becoming an industry standard for communications between models, agents, data repositories, and other tools. The AI Alliance seeks to advance this protocol and foster a robust suite of tools around it to enable broad, trusted, and high-value use in production.
 
 <div class="table-wrapper">
   <table>
@@ -171,7 +169,7 @@ MCP from Anthropic is quickly becoming an industry standard for agentic tool-cal
           </ul>
         </td>
         <td>
-           A Model Context Protocol (MCP) Gateway. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE). (Principal developer: <a href="https://ibm.com" target="_blank">IBM</a>)
+           A Model Context Protocol (MCP) Gateway that serves as a central management point for tools, resources, and prompts. It can be accessed by MCP-compatible LLM applications. It converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (e.g., stdio, SSE, etc.). (Principal developer: <a href="https://ibm.com" target="_blank">IBM</a>)
         </td>
       </tr>
       <tr>
@@ -218,6 +216,46 @@ MCP from Anthropic is quickly becoming an industry standard for agentic tool-cal
           It sits between your MCP client and MCP servers. So, by its nature, it also acts as an MCP server as well as an MCP client.
           When your MCP client connects to the gateway, it acts as an MCP server. When the gateway connects to the actual MCP server, it acts as an MCP client.
           (Principal developer: <a href="https://www.enkryptai.com/" target="_blank">Enkrypt AI</a>)
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+### The NLIP Project
+
+The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> is facilitating the development of an open-source protocol for intelligent agents to communicate with each other using natural language. It complements the broader role of MCP in component-to-component communications.
+
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th>Links</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://nlip-project.org/" target="_blank">NLIP Project</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/nlip-project" target="_blank">GitHub org.</a>
+            </li>
+            <li>
+              <a href="https://github.com/nlip-project/ecma_draft1" target="_blank">NC-56 NLIP draft</a>
+            </li>
+            <li>
+              <a href="https://github.com/nlip-project/documents" target="_blank">Other Documents</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> is facilitating the development of an open-source protocol for intelligent agents to communicate with each other using natural language. One outcome will be a new <a href="https://ecma-international.org/" target="_blank">ECMA</a> standard, <a href="https://github.com/nlip-project/ecma_draft1" target="_blank">TC-56 NLIP, Natural Language Interaction Protocol</a>. The organization is also developing reference implementations of the protocol and end-points. See the <a href="https://github.com/nlip-project" target="_blank">GitHub organization</a> for details on these implementations.
         </td>
       </tr>
     </tbody>
