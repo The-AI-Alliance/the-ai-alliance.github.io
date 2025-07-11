@@ -246,7 +246,7 @@ The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> is faci
         <td>
           <ul>
             <li>
-              <a href="https://github.com/nlip-project" target="_blank">GitHub org.</a>
+              <a href="https://github.com/nlip-project" target="_blank">GitHub org</a>
             </li>
             <li>
               <a href="https://github.com/nlip-project/ecma_draft1" target="_blank">NC-56 NLIP draft</a>
