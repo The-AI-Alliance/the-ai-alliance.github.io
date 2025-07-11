@@ -44,7 +44,7 @@ The projects on this page fall into one of several categories:
 * **Managed Projects** are owned by the AI Alliance.
 * A few other projects are listed here that don't fit either category, but are key components for the supported and managed projects, so we want to call attention to them.
 
-Both supported and managed projects commit to minimum requirements on transparency, contributor opportunity and IP, permissive use licensing, and community conduct. Learn more about our project governance [here](https://thealliance.ai/governance).
+Both supported and managed projects commit to minimum requirements on transparency, contributor opportunity and IP, permissive use licensing, and community conduct. Learn more about our project governance [here](https://thealliance.ai/governance){:target="_blank"}.
 # The Open Agent Lab
 
 <a id="open-agent-lab-description" class="anchor"></a>
@@ -927,7 +927,7 @@ Come meet us and learn about AI! See our [full list](https://thealliance.ai/even
 
 ## For More Information
 
-* The [full list](https://github.com/The-AI-Alliance/community/tree/main/events) of Alliance-sponsored and third-party AI events.
+* The [full list](https://github.com/The-AI-Alliance/community/tree/main/events){:target="_blank"} of Alliance-sponsored and third-party AI events.
 * The [AI Alliance GitHub Organization](https://github.com/The-AI-Alliance/){:target="_blank"}
   * This documentation's [GitHub repo](https://github.com/The-AI-Alliance/the-ai-alliance.github.io){:target="_blank"}
   * The [microsite template](https://github.com/The-AI-Alliance/microsite-template){:target="_blank"}: The template used for Alliance projects, including all the websites listed above. See the [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md){:target="_blank"} for instructions.

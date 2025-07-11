@@ -44,4 +44,4 @@ The projects on this page fall into one of several categories:
 * **Managed Projects** are owned by the AI Alliance.
 * A few other projects are listed here that don't fit either category, but are key components for the supported and managed projects, so we want to call attention to them.
 
-Both supported and managed projects commit to minimum requirements on transparency, contributor opportunity and IP, permissive use licensing, and community conduct. Learn more about our project governance [here](https://thealliance.ai/governance).
+Both supported and managed projects commit to minimum requirements on transparency, contributor opportunity and IP, permissive use licensing, and community conduct. Learn more about our project governance [here](https://thealliance.ai/governance){:target="_blank"}.
