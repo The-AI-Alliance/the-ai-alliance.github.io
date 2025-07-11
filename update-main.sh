@@ -8,8 +8,9 @@
 
 git checkout latest
 git pull
+git push  # make sure latest has been pushed upstream
 git checkout main
 git pull
 git merge latest
 git push
-git checkout latest
+git checkout latest # end with latest checked out
