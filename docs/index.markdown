@@ -580,7 +580,7 @@ Deploying a trusted AI system or agent is complex and the gap from prototype to 
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">AI Application Testing for Developers</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">Achieving Confidence in Enterprise AI Applications</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -601,7 +601,7 @@ Deploying a trusted AI system or agent is complex and the gap from prototype to 
           </ul>
         </td>
         <td>
-          If you are a software developer, you are accustomed to writing deterministic tests. What do you do when generative models aren't deterministic? This project adapts AI evaluation techniques for the "last mile" of evaluation; how do you verify that an AI application correctly implements its specific requirements and use cases, beyond the general concerns of common evaluation? This project also aims to educate developers on how to use these techniques effectively in combination with the traditional tools they already know.
+          Are you an enterprise developer? How should you test AI applications? You know how to write <em>deterministic</em> tests for your "pre-AI" applications. What should you do when you add generative AI models, which aren't deterministic? This project adapts existing evaluation techniques for the "last mile" of AI evaluation; verifying that an AI application correctly implements its requirements and use cases, going beyond the general concerns of evaluation for safety, security, etc. We are building nontrivial, reusable examples and instructional materials, so you can use these techniques effectively in combination with the traditional tools you already know.
         </td>
       </tr>
       <tr>
