@@ -4,12 +4,12 @@ BEGIN {
 
 }
 
-/^\s*<!-- focus areas: start -->\s*/ { # The start line, after which we print lines
+/^\s*<!-- start: focus areas -->\s*/ { # The start line, after which we print lines
     flag = 1 
     next     # go to next line
 }
 
-/^\s*<!-- focus areas: end -->\s*/ { # The end line
+/^\s*<!-- end: focus areas -->\s*/ { # The end line
     exit
 }
 
