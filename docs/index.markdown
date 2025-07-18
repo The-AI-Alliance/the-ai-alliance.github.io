@@ -43,7 +43,7 @@ The Open Agent Lab is a collaborative community of open source AI projects and d
 
 ## Llama Stack and Llama Stack Agents
 
-(Onboarding...) The [Llama Stack](https://github.com/meta-llama/llama-stack){:target="_blank"} project provides standardized APIs, component abstractions, integrations with other open source tools and managed services to help developers build and deploy AI applications and agents.
+The [Llama Stack](https://github.com/meta-llama/llama-stack){:target="_blank"} project provides standardized APIs, component abstractions, integrations with other open source tools and managed services to help developers build and deploy AI applications and agents.
 
 <div class="table-wrapper">
   <table>
