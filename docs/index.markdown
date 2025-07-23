@@ -56,7 +56,7 @@ The [Llama Stack](https://github.com/meta-llama/llama-stack){:target="_blank"} p
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          Llama Stack Agents <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          Llama Stack Introduction Sample App <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
