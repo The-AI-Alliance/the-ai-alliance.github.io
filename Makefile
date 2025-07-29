@@ -15,7 +15,7 @@ JEKYLL_PORT         ?= 4000
 
 # Used for version tagging release artifacts.
 GIT_HASH            ?= $(shell git show --pretty="%H" --abbrev-commit |head -1)
-2024-11-05 10:42 -0600           ?= $(shell date +"%Y%m%d-%H%M%S")
+NOW                 ?= $(shell date +"%Y%m%d-%H%M%S")
 
 define help_message
 Quick help for this make process.
@@ -91,7 +91,7 @@ endef
 .PHONY: all view-pages view-local clean help 
 .PHONY: setup-jekyll run-jekyll
 
-all:: clean view-local
+all:: view-local
 
 help::
 	$(info ${help_message})
@@ -104,14 +104,13 @@ print-info:
 	@echo "site dir:            ${site_dir}"
 	@echo "clean dirs:          ${clean_dirs} (deleted by 'make clean')"
 	@echo
-	@echo "GIT_HASH:            ${GIT_HASH}"
-	@echo "2024-11-05 10:42 -0600:           ${2024-11-05 10:42 -0600}"
 	@echo "MAKEFLAGS:           ${MAKEFLAGS}"
 	@echo "MAKEFLAGS_RECURSIVE: ${MAKEFLAGS_RECURSIVE}"
+	@echo "JEKYLL_PORT:         ${JEKYLL_PORT}"
 	@echo "UNAME:               ${UNAME}"
 	@echo "ARCHITECTURE:        ${ARCHITECTURE}"
 	@echo "GIT_HASH:            ${GIT_HASH}"
-	@echo "2024-11-05 10:42 -0600:           ${2024-11-05 10:42 -0600}"
+	@echo "NOW:                 ${NOW}"
 
 clean::
 	rm -rf ${clean_dirs} 
@@ -121,12 +120,11 @@ view-pages::
 		(echo "ERROR: I could not open the GitHub Pages URL. Try ⌘-click or ^-click on this URL instead:" && \
 		 echo "ERROR:   ${pages_url}" && exit 1 )
 
-view-local:: setup-jekyll do-view-local
-do-view-local: clean run-jekyll
+view-local:: setup-jekyll run-jekyll
 
 # Passing --baseurl '' allows us to use `localhost:4000` rather than require
-# `localhost:4000/The-AI-Alliance/the-ai-alliance.github.io` when -ping locally.
-run-jekyll:
+# `localhost:4000/The-AI-Alliance/the-ai-alliance.github.io` when running locally.
+run-jekyll: clean
 	@echo
 	@echo "Once you see the http://127.0.0.1:${JEKYLL_PORT}/ URL printed, open it with command+click..."
 	@echo
