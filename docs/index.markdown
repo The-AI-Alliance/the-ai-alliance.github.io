@@ -313,12 +313,15 @@ The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> is faci
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://aitomatic.github.io/opendxa/" target="_blank">OpenDXA with Dana</a>
+          <a href="https://aitomatic.github.io/dana/" target="_blank">Dana — The Agent-Native Evolution of AI Development</a>
         </td>
       </tr>
       <tr>
         <td>
           <ul>
+            <li>
+              <a href="https://thealliance.ai/blog/the-ai-alliance-releases-new-ai-powered-programmin)" target="_blank">Blog post</a>
+            </li>
             <li>
               <a href="https://www.linkedin.com/posts/ctnguyen_aialliance-danalanguage-opendxa-activity-7344578841706708992-_c3X)" target="_blank">Announcement</a>
             </li>
@@ -328,7 +331,9 @@ The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> is faci
           </ul>
         </td>
         <td>
-          Domain Expert Agents (DXA) for industrial AI moves beyond AI coding assistants. It helps you write agents that learn, adapt, and improve themselves in production. The Dana language bridges the gap between AI coding assistance and autonomous agents through agent-native programming: native <code>agent</code> primitives, context-aware <code>reason()</code> calls that adapt output types automatically, self-improving pipelines with compositional <code>|</code> ("pipe") operators, and functions that evolve through POET feedback loops (an automated prompt improvement technique). (Principal developer: <a href="https://aitomatic.com/" target="_blank">Aitomatic</a>)
+          <em>Dana</em> is based on the question, &ldquo;What if your agents could learn, adapt, and improve itself in production—without you?&rdquo;
+          <br/><br/>
+          Dana bridges the gap between AI coding assistance and autonomous agents through agent-native programming: native <code>agent</code>primitives, context-aware <code>reason()</code> calls that adapt output types automatically, self-improving pipelines with compositional <code>|</code> (&ldquo;pipe&rdquo;) operators, and functions that evolve through POET feedback loops (an automated prompt improvement technique). (Principal developer: <a href="https://aitomatic.com/" target="_blank">Aitomatic</a>)
         </td>
       </tr>
     </tbody>
