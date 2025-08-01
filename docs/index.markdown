@@ -58,43 +58,38 @@ AI Alliance members are [contributing directly](https://thealliance.ai/blog/ai-a
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          Llama Stack Introduction Sample App <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          AI Alliance Llama Stack Example Apps <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
         <td>
           <ul>
             <li>
-              <a href="https://github.com/The-AI-Alliance/llama-stack-usecase1" target="_blank">repo</a>
+              <a href="https://github.com/The-AI-Alliance/llama-stack-examples" target="_blank">repo</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/llama-stack-usecase1/issues" target="_blank">issues</a>
+              <a href="https://github.com/The-AI-Alliance/llama-stack-examples/issues" target="_blank">issues</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/llama-stack-usecase1/discussions" target="_blank">discussions</a>
+              <a href="https://github.com/The-AI-Alliance/llama-stack-examples/discussions" target="_blank">discussions</a>
             </li>
           </ul>
         </td>
         <td>
-          An easy-to-use demonstration chatbot using <a href="https://github.com/meta-llama/llama-stack" target="_blank">Llama Stack</a>, two different UI options, and inference with a <a href="https://www.llama.com/models/llama-3/" target="_blank">Llama 3</a> model.
+          A growing suite of example applications for <a href="https://github.com/meta-llama/llama-stack" target="_blank">Llama Stack</a> that demonstrate various stack features and common application patterns:
+          <ol>
+            <li>
+              A getting-start chatbot app, which shows how to build and deploy Llama Stack applications. It includes two different UI options and inference with an <a href="https://ollama.com" target="_blank">ollama</a>-hosted <a href="https://www.llama.com/models/llama-3/" target="_blank">Llama 3</a> model.
+            </li>
+            <li>
+              A <em>deep research</em> app (under development), which illustrates an emerging, common application pattern for AI. The user asks for detailed information about a topic, for example the market performance and financials for a publicly-traded company, agents find relevant data from diverse sources, and finally an LLM digests the information retrieved and prepares a report. This example will demonstrate Llama Stack support for agent-based application development, including the use of protocols like <a href="#model-context-protocol-section">MCP</a>.
+            </li>
+          </ol>
         </td>
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          Llama Stack Deep Research App <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-           <em>Coming soon.</em>
-        </td>
-        <td>
-          <em>Deep research</em> is an emerging, common application pattern for AI. The user asks for detailed information about a topic, for example the market performance and financials for a publicly-traded company, agents find relevant data from diverse sources, and finally an LLM digests the information retrieved and prepares a report. This planned project will demonstrate Llama Stack support for agent-based application development, including the use of protocols like <a href="#model-context-protocol-section">MCP</a>.
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          Llama Stack Demos
+          Llama Stack Demos for OpenShift and Kubernetes
         </td>
       </tr>
       <tr>
@@ -109,7 +104,7 @@ AI Alliance members are [contributing directly](https://thealliance.ai/blog/ai-a
           </ul>
         </td>
         <td>
-          This repo contains examples of deploying and managing Llama Stack-based applications on Kubernetes and OpenShift.
+          A suite of examples for deploying and managing Llama Stack-based applications on OpenShift and Kubernetes. (Principal developer: <a href="https://redhat.com" target="_blank">Red Hat</a>)
         </td>
       </tr>
       <tr>
@@ -488,13 +483,13 @@ The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> is faci
         <td>
           <ul>
             <li>
-              <a href="https://github.com/The-AI-Alliance/llama-stack-usecase1" target="_blank">repo</a>
+              <a href="https://github.com/The-AI-Alliance/llama-stack-examples" target="_blank">repo</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/llama-stack-usecase1/issues" target="_blank">issues</a>
+              <a href="https://github.com/The-AI-Alliance/llama-stack-examples/issues" target="_blank">issues</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/llama-stack-usecase1/discussions" target="_blank">discussions</a>
+              <a href="https://github.com/The-AI-Alliance/llama-stack-examples/discussions" target="_blank">discussions</a>
             </li>
           </ul>
         </td>
