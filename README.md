@@ -1,10 +1,10 @@
-# README for AI Alliance GitHub Organizations
+# README for AI Alliance GitHub Organization
 
 [Published Documentation](https://the-ai-alliance.github.io/the-ai-alliance.github.io/)
 
-This repo contains the code and documentation for the AI Alliance: "_AI Alliance GitHub Organizations_".
+This repo contains the code and documentation for the AI Alliance: "_AI Alliance GitHub Organization_".
 
-See the [repo README](https://the-ai-alliance.github.io/the-ai-alliance.github.io/) for additional details about this project.
+See the [repo README](https://github.com/The-AI-Alliance/the-ai-alliance.github.io/) for additional details about this project.
 
 ## Quick Tip - View the Website Locally
 
@@ -128,7 +128,7 @@ Open the URL in a browser.
 
 ### Publishing a New Version of the Documentation Website
 
-Because PRs go to the `main` branch, but the pages are published from the `latest` branch, PRs are not immediately published. When it is time to publish a new version of the website, a site ownder will change to the `main` git branch and run the script `./publish-website.sh`. It takes several options:
+This website is published from the `main` branch, so PRs merged to `main` result in automatic publication. However, you may wish to bump the version shown at the bottom of pages, but the pages are published from the `latest` branch, PRs are not immediately published. When it is time to publish a new version of the website, a site ownder will change to the `main` git branch and run the script `./publish-website.sh`. It takes several options:
 
 ```shell
 > publish-website.sh -h
