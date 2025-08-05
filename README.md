@@ -128,35 +128,7 @@ Open the URL in a browser.
 
 ### Publishing a New Version of the Documentation Website
 
-This website is published from the `main` branch, so PRs merged to `main` result in automatic publication. However, you may wish to bump the version shown at the bottom of pages, but the pages are published from the `latest` branch, PRs are not immediately published. When it is time to publish a new version of the website, a site ownder will change to the `main` git branch and run the script `./publish-website.sh`. It takes several options:
-
-```shell
-> publish-website.sh -h
-publish-website.sh [-h|--help] [-n|--noop] [-v|--version V] [-t|--timestamp T]
-
-Where the options are the following:
--h | --help            Print this message and exit
--n | --noop            Just print the commands but don't make changes.
--v | --version V       Use version string "V", which should be of the format
-                       "X.Y.Z". Without this option the current value of
-                       "last_version" in _config.yml is extracted (e.g., 1.0.1)
-                       and the last digit is incremented.
--t | --timestamp "T"   Use this timestamp "T", which you'll need to quote on
-                       the command line, because it must be of the form
-                       "%Y-%m-%d %H:%M %z". Without this option, the current
-                       system time is used.
-```
-
-With no arguments, the current version string's last digit will be incremented. For example, if the current version is `1.2.3`, the new version with be `1.2.4`. _Please use this `X.Y.Z` format if you specify a new version explicitly._ The script doesn't check the format.
-
-The script _does_ check that a specified timestamp uses the correct format, but it should be rare that you would want to use any timestamp other than the current time, which is the default.
-
-Both strings are printed at the bottom of each page, e.g.:
-
-> Version: 1.0.1. Site last modified: Jun 5 2024 08:13 -0500.
-
-> [!NOTE]
-> At this time, the version number and time stamp are set in _two_ files, `docs/index.markdown` and `docs/_config.yml`. Keep this in mind if you edit the values manually!
+This website is published from the `main` branch, so PRs merged to `main` result in automatic publication. However, you may wish to occasionally bump the version and timestamp shown at the bottom of most pages. To do this, see the instructions in [Updating the Website Version](https://github.com/The-AI-Alliance/the-ai-alliance.github.io/blob/main/GITHUB_PAGES.md#updating-the-website-version) in [GITHUB_PAGES.md](https://github.com/The-AI-Alliance/the-ai-alliance.github.io/blob/main/GITHUB_PAGES.md)
 
 ### Setup Jekyll
 
@@ -197,7 +169,8 @@ make view-local   # Or use "make all" or just "make"!
 If this throws an error, see the [Tips and Known Issues](#tips-and-known-issues) below.
 
 > [!TIP]
-> In MacOS terminal windows, you can &#8984;+click any URL printed to open it in a browser!
+> 1. In MacOS terminal windows, you can &#8984;+click any URL printed to open it in a browser!
+> 2. Once `make view-local` works successfully, you can instead run `make run-jekyll`, which skips the now-redundant setup steps that `view-local` performs.
 
 The `make` target runs the following command:
 
