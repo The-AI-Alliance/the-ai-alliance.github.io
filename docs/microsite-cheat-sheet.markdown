@@ -77,7 +77,7 @@ See the additional instructions in [README-template.md](https://github.com/The-A
 
 The rest of this cheat sheet will focus on editing tips for the pages, including using the GitHub UI.
 
-## Editing GitHub Pages Content
+# Editing GitHub Pages Content
 
 Mostly, we use the GitHub Pages flavor of [Markdown](https://www.markdownguide.org/tools/github-pages/){:target="_blank"}. If you need to use more advanced _Jekyll_ constructs, see [this reference](https://jekyllrb.com/docs/){:target="_blank"}. _Consider bookmarking these links for future reference!_ 
 
@@ -85,13 +85,13 @@ This flavor is actually slightly different than the Markdown flavor used for git
 
 The following content is structured as a tutorial.
 
-### Open the _Markdown Practice_ Repo
+## Open the _Markdown Practice_ Repo
 
 I created a [`markdown-practice`](https://github.com/The-AI-Alliance/markdown-practice/){:target="_blank"} repo that we can all use to practice editing pages. This is a _private_ repo, meaning only team members of our GitHub organization can see it. The website is also not published.
 
 [Click this link](https://github.com/The-AI-Alliance/markdown-practice/tree/main/docs){:target="_blank"} to open the `docs` folder where the website content lives.
 
-### Create a New Markdown File to Edit
+## Create a New Markdown File to Edit
 
 On the upper right-hand side of the page, click _Add file_, then select _+ Create new file_.
 
@@ -184,7 +184,7 @@ the default.html template file.
 
 This is the default contents in the [`index.markdown`](https://github.com/The-AI-Alliance/markdown-practice/tree/main/docs/index.markdown){:target="_blank"} page. We'll work through and edit this content next.
 
-#### Save Your Work
+### Save Your Work
 
 Any time you want to save your work, like for example, right now... click the green _Commit changes..._ button.
 
@@ -192,9 +192,9 @@ Any time you want to save your work, like for example, right now... click the gr
 
 Fill in the brief _Commit message_ with a concise summary and add a more _Extended description_, which is optional but recommended for non-trivial changes. Leave the rest of the fields as is and click _Commit changes_.
 
-### Editing the Page Content
+## Editing the Page Content
 
-#### Start Editing Your Page
+### Start Editing Your Page
 
 Click the pencil to edit the page again:
 
@@ -202,7 +202,7 @@ Click the pencil to edit the page again:
 
 Now we'll modify the content in the page.
 
-#### The YAML Block
+### The YAML Block
 
 The YAML block at the top (between the `---` lines) provides metadata so _Jekyll_ (the engine that renders the site...) knows how and where to render the pages. 
 
@@ -211,25 +211,25 @@ The YAML block at the top (between the `---` lines) provides metadata so _Jekyll
 * Change the `nav_order` to some number between 11 and 89, inclusive.
 * Leave `has_children` set to `false`.
 
-#### The `<h1>` Title
+### The `<h1>` Title
 
 The `#` before `Markdown Practice` will be rendered as an `<h1>Markdown Practice</h1>` tag. Below, you'll see `## Section Two`, which will become `<h2>Section Two</h2>`, etc. 
 
 Change the title to the same value you used in the YAML block or anything else you want.
 
-#### Markdown Tables
+### Markdown Tables
 
 After the title is one form of a Markdown table, which also demonstrates other formatting techniques. Click the _Preview_ button to see how it is rendered. Click _Edit_ to go back to editing mode, etc.
 
 Another table format, the more conventional kind, is shown below. See `Column 1 (Left Aligned)`, around line 46.
 
-#### Text Formatting
+### Text Formatting
 
 Note in the first table that **bold** font is used when you write `**this a bold statement!**`. similarly, _italic_ font is used when you write `_this is a notable phrase_`. You can combine the two: _**notable and bold!**_, written `_**notable and bold!**_` or **_also notable and bold!_**, written `**_also notable and bold!_**`
 
 How is that `typewriter format` specified, e.g., for code snippets? You wrap the text in _back ticks_ like this: \`typewriter format\`.
 
-#### Hyperlinks
+### Hyperlinks
 
 Note how the hyperlinks are specified. Two useful examples are shown:
 
@@ -254,7 +254,7 @@ The `#save-your-work` refers to an _anchor_ on this same page. You could also li
 
 Now Try playing with either or both tables, change the text formatting, add or edit hyperlinks, etc. See your results by using the _Preview_ tab.
 
-#### Callouts or _Quoting Text_
+### Callouts or _Quoting Text_
 
 Use the _Preview_ to see how this is rendered:
 
@@ -266,7 +266,7 @@ I'll often use `**WARNING:**` or `**NOTE:**`, too, which you can see further dow
 
 > **NOTE:** This is one area where Markdown for GitHub READMEs differs from GitHub Pages. The former has an additional nice way to define callouts that use icons for warnings, notes, info, etc. See [Quoting text](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text){:target="_blank"}.
 
-#### Bullet and Numbered Lists
+### Bullet and Numbered Lists
 
 Just before and after `## Section Two` on the page, you'll see examples of bullet (unordered) lists, including how to nest them. The same techniques work for ordered (numbered) lists:
 
@@ -284,11 +284,11 @@ Just before and after `## Section Two` on the page, you'll see examples of bulle
 
 Note that we just used `1.` for all entries and Jekyll handled incrementing the numbers... and using letters!
 
-### Save Your Work (Again)
+## Save Your Work (Again)
 
 Save your work as [before](#save-your-work).
 
-### Homework...
+## Homework...
 
 Look at how footnotes and HTML comments are used.
 
