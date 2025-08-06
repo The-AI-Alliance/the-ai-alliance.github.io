@@ -288,6 +288,14 @@ Note that we just used `1.` for all entries and Jekyll handled incrementing the 
 
 Save your work as [before](#save-your-work).
 
+## Delete a File
+
+You can delete a file by browsing to it, then clicking the `...` menu on the right-hand side:
+
+![Delete a File]({{site.baseurl}}/assets/images/delete-a-file.jpg "Delete a File")
+
+You might need to scroll down to the bottom of the menu!
+
 ## Homework...
 
 Look at how footnotes and HTML comments are used.
