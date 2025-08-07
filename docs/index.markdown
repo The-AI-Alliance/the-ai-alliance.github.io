@@ -552,9 +552,9 @@ The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> is faci
 </div>
 
 
-# Governance, Evaluation and Safety
+# Governance, Evaluation, and Safety
 
-Safety, accuracy, red-teaming, security, compliance and more are required for successful AI applications. How do we know that AI applications are _trustworthy_, that they are _safe_, meaning free of harmful outputs, that they correctly implement the required behaviors? The following projects address these concerns.
+Safety, accuracy, red-teaming, security, compliance, and more are required for successful AI applications. How do we know that AI applications are _trustworthy_, that they are _safe_, meaning free of harmful outputs, that they correctly implement the required behaviors? The following projects address these concerns.
 
 <!-- obsolete...
 Deploying a trusted AI system or agent is complex and the gap from prototype to production is still large for most organizations. The AI Alliance has several projects aimed at ensuring agents in production deliver as advertised and can become a trusted foundation to build a business, educate students, perform scientific research, and much more.
