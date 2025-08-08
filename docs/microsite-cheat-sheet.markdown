@@ -118,29 +118,24 @@ has_children: false
 
 Welcome to the **The AI Alliance**: **Markdown Practice**. 
 
-{: .tip }
-Use the search box at the top of this page to find specific content.
+{: .highlight }
+> Put something in a "highlighted" box with an optional label (not used in the example).
 
-{: .new }
-This is a work-in-progress website for the MICROSITE_TITLE.
+{: .tip }
+> **TIP:** Use the search box at the top of this page to find specific content.
 
 {: .important }
-The "boilerplate" text on this page mixes content you might want to use, as well as tips on writing Markdown. See also the comments in the source files. Make sure you search for and change all TODOs on all the pages!
+> **IMPORTANT:** The "boilerplate" text on this page mixes content you might want to use, as well as tips on writing Markdown. See also the comments in the source files. Make sure you search for and change all TODOs on all the pages!
 
 {: .note }
-Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
+> **NOTE:** Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
 
 {: .warning }
-This is a warning!
+> **WARNING:** This is a warning!
 
 A _generic_ quote:
 
 > Shakespeare once wrote, "Heavy is the head that wears the crown."
-
-A _generic_ quote "highlighted":
-
-{: .highlight }
-> Shakespeare also once wrote, "To thy own self be true."
 
 Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
 
@@ -289,36 +284,50 @@ Add the next line in the box to the page and then use the _Preview_ to see how i
 
 That's a basic option for quoting text, a.k.a., _callouts_, supported by all(?) Markdown dialects. Note the leading `>`, which indicates the text is to be "quoted". 
 
-_Just the Docs_ has some nicer styles that can be used instead. They won't render properly in the _Preview_, but here is what they look like:
+_Just the Docs_ has some nicer styles that can be used instead, in theory, but we ran into problems with GitHub Pages deployments, so we "fake" them as described next. Note that they won't render properly in the _Preview_, i.e., with the correct colors, but here is what they look like:
 
-![Quote Styles Provided by Just the Docs]({{site.baseurl}}/assets/images/jtd-quote-styles.jpg "Quote Styles Provided by Just the Docs")
+{: .highlight }
+> Put something in a "highlighted" box with an optional label (not used in the example).
 
-This is the markdown used, which I also had you paste into your page at the beginning of this tutorial. Note that no `>` is required when these _CSS class_ specifications are used (e.g., `{: .tip }`:
-
-```markdown
 {: .tip }
-Use the search box at the top of this page to find specific content.
-
-{: .new }
-This is a work-in-progress website for the MICROSITE_TITLE.
+> **TIP:** Use the search box at the top of this page to find specific content.
 
 {: .important }
-The "boilerplate" text on this page mixes content you might want to use, as well as tips on writing Markdown. See also the comments in the source files. Make sure you search for and change all TODOs on all the pages!
+> **IMPORTANT:** The "boilerplate" text on this page mixes content you might want to use, as well as tips on writing Markdown. See also the comments in the source files. Make sure you search for and change all TODOs on all the pages!
 
 {: .note }
-Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
+> **NOTE:** Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
 
 {: .warning }
-This is a warning!
+> **WARNING:** This is a warning!
 
 A _generic_ quote:
 
 > Shakespeare once wrote, "Heavy is the head that wears the crown."
 
-A _generic_ quote "highlighted":
+![Quote Styles Provided by Just the Docs]({{site.baseurl}}/assets/images/jtd-quote-styles.jpg "Quote Styles Provided by Just the Docs")
 
+This is the markdown used, which I also had you paste into your page at the beginning of this tutorial. Note that `>` is required, with an optional "label", like **TIP:** and they specify a _CSS class_, e.g., `{: .tip }`:
+
+```markdown
 {: .highlight }
-> Shakespeare also once wrote, "To thy own self be true."
+> Put something in a "highlighted" box with an optional label (not used in the example).
+
+{: .tip }
+> **TIP:** Use the search box at the top of this page to find specific content.
+
+{: .important }
+> **IMPORTANT:** The "boilerplate" text on this page mixes content you might want to use, as well as tips on writing Markdown. See also the comments in the source files. Make sure you search for and change all TODOs on all the pages!
+
+{: .note }
+> **NOTE:** Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
+
+{: .warning }
+> **WARNING:** This is a warning!
+
+A _generic_ quote:
+
+> Shakespeare once wrote, "Heavy is the head that wears the crown."
 ```
 
 {: .note }
