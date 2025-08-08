@@ -101,7 +101,7 @@ Enter a name. Use your github user name with the `.markdown` extension, like thi
 
 ![Name the New File]({{site.baseurl}}/assets/images/file-name.jpg "Name the New File"){:style="width: 800px; text-align: center;"}
 
-The contents of the file go where it says _Enter file contents here_. Copy and paste the following "block" of text into that text field:
+The contents of the file go where it says _Enter file contents here_. Copy and paste the following "block" of text into that text field; yes the colors look strange here, but that's because some styles are being interpreted when they shouldn't be, which affects the colors:
 
 ```markdown
 ---
@@ -131,7 +131,7 @@ Welcome to the **The AI Alliance**: **Markdown Practice**.
 > **NOTE:** Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
 
 {: .warning }
-> **WARNING:** This is a warning!
+> **WARNING!** This is a warning!
 
 A _generic_ quote:
 
@@ -284,7 +284,9 @@ Add the next line in the box to the page and then use the _Preview_ to see how i
 
 That's a basic option for quoting text, a.k.a., _callouts_, supported by all(?) Markdown dialects. Note the leading `>`, which indicates the text is to be "quoted". 
 
-_Just the Docs_ has some nicer styles that can be used instead, in theory, but we ran into problems with GitHub Pages deployments, so we "fake" them as described next. Note that they won't render properly in the _Preview_, i.e., with the correct colors, but here is what they look like:
+_Just the Docs_ has some nicer styles that can be used instead, in theory, but we ran into problems with GitHub Pages deployments, so we "fake" them as described next. 
+
+Here is what they look like:
 
 {: .highlight }
 > Put something in a "highlighted" box with an optional label (not used in the example).
@@ -299,13 +301,11 @@ _Just the Docs_ has some nicer styles that can be used instead, in theory, but w
 > **NOTE:** Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
 
 {: .warning }
-> **WARNING:** This is a warning!
+> **WARNING!** This is a warning!
 
 A _generic_ quote:
 
 > Shakespeare once wrote, "Heavy is the head that wears the crown."
-
-![Quote Styles Provided by Just the Docs]({{site.baseurl}}/assets/images/jtd-quote-styles.jpg "Quote Styles Provided by Just the Docs")
 
 This is the markdown used, which I also had you paste into your page at the beginning of this tutorial. Note that `>` is required, with an optional "label", like **TIP:** and they specify a _CSS class_, e.g., `{: .tip }`:
 
@@ -323,7 +323,7 @@ This is the markdown used, which I also had you paste into your page at the begi
 > **NOTE:** Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
 
 {: .warning }
-> **WARNING:** This is a warning!
+> **WARNING!** This is a warning!
 
 A _generic_ quote:
 
