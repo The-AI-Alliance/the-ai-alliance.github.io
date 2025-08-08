@@ -116,17 +116,33 @@ has_children: false
 | **Authors**     | [Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety){:target="_blank"} (See the [Contributors]({{site.baseurl}}/contributing/#contributors)) |
 | **Last Update** | V0.1.0, 2025-08-06 |
 
-> **Tip:** Use the search box at the top of this page to find specific content.
-
 Welcome to the **The AI Alliance**: **Markdown Practice**. 
 
+{: .tip }
+Use the search box at the top of this page to find specific content.
+
+{: .new }
+This is a work-in-progress website for the MICROSITE_TITLE.
+
+{: .important }
+The "boilerplate" text on this page mixes content you might want to use, as well as tips on writing Markdown. See also the comments in the source files. Make sure you search for and change all TODOs on all the pages!
+
+{: .note }
 Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
 
-> **TODO:** This is a work-in-progress website for the Markdown Practice.
+{: .warning }
+This is a warning!
 
-> **NOTE:** The "boilerplate" text on this page mixes content you might want to use, as well as tips on writing Markdown. See also the comments in the source files. Make sure you search for and change all TODOs on all the pages!
+A _generic_ quote:
 
-TODO: add more "welcome" content for your site here...
+> Shakespeare once wrote, "Heavy is the head that wears the crown."
+
+A _generic_ quote "highlighted":
+
+{: .highlight }
+> Shakespeare also once wrote, "To thy own self be true."
+
+Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
 
 This site is organized into the following sections [^1] (with an example footnote):
 
@@ -227,7 +243,16 @@ Another table format, the more conventional kind, is shown below. See `Column 1 
 
 Note in the first table that **bold** font is used when you write `**this a bold statement!**`. similarly, _italic_ font is used when you write `_this is a notable phrase_`. You can combine the two: _**notable and bold!**_, written `_**notable and bold!**_` or **_also notable and bold!_**, written `**_also notable and bold!_**`
 
-How is that `typewriter format` specified, e.g., for code snippets? You wrap the text in _back ticks_ like this: \`typewriter format\`.
+How is that `typewriter format` specified, e.g., for code snippets? You wrap the text in _back ticks_ like this: \`typewriter format\`. This provides _inline_ formatting. What about a block of source code or other monospace text? Use three back ticks on a line "```" before and after the text:
+
+<div>
+```shell<br/>
+git clone git@github.com:The-AI-Alliance/my-site.git<br/>
+cd my-site<br/>
+```
+</div>
+
+The `shell` is optional; when the block is code from a particular programming language, you can specify a formatter after the first "```", in this case the `shell`. You can also use `python`, `json`, `markdown`, ...
 
 ### Hyperlinks
 
@@ -256,15 +281,48 @@ Now Try playing with either or both tables, change the text formatting, add or e
 
 ### Callouts or _Quoting Text_
 
-Use the _Preview_ to see how this is rendered:
+Add the next line in the box to the page and then use the _Preview_ to see how it is rendered:
 
 ```
-> **Tip:** Use the search box at the top of this page to find specific content.
+> **Try This:** Use the search box at the top of this page to find specific content.
 ```
 
-I'll often use `**WARNING:**` or `**NOTE:**`, too, which you can see further down the page you are editing!
+That's a basic option for quoting text, a.k.a., _callouts_, supported by all(?) Markdown dialects. Note the leading `>`, which indicates the text is to be "quoted". 
 
-> **NOTE:** This is one area where Markdown for GitHub READMEs differs from GitHub Pages. The former has an additional nice way to define callouts that use icons for warnings, notes, info, etc. See [Quoting text](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text){:target="_blank"}.
+_Just the Docs_ has some nicer styles that can be used instead. They won't render properly in the _Preview_, but here is what they look like:
+
+![Quote Styles Provided by Just the Docs]({{site.baseurl}}/assets/images/jtd-quote-styles.jpg "Quote Styles Provided by Just the Docs")
+
+This is the markdown used, which I also had you paste into your page at the beginning of this tutorial. Note that no `>` is required when these _CSS class_ specifications are used (e.g., `{: .tip }`:
+
+```markdown
+{: .tip }
+Use the search box at the top of this page to find specific content.
+
+{: .new }
+This is a work-in-progress website for the MICROSITE_TITLE.
+
+{: .important }
+The "boilerplate" text on this page mixes content you might want to use, as well as tips on writing Markdown. See also the comments in the source files. Make sure you search for and change all TODOs on all the pages!
+
+{: .note }
+Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
+
+{: .warning }
+This is a warning!
+
+A _generic_ quote:
+
+> Shakespeare once wrote, "Heavy is the head that wears the crown."
+
+A _generic_ quote "highlighted":
+
+{: .highlight }
+> Shakespeare also once wrote, "To thy own self be true."
+```
+
+{: .note }
+This is also another area where Markdown for GitHub READMEs differs from GitHub Pages. The former has an additional nice way to define callouts that use icons for warnings, notes, info, etc., which is somewhat mimicked by Just the Docs. See [Quoting text](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text){:target="_blank"}.
 
 ### Bullet and Numbered Lists
 

@@ -161,7 +161,6 @@ layout: table_wrappers
         {% endif %}
           
         {% if page.has_children == true and page.has_toc != false %}
-          <hr>
           <div class="child-pages-toc">
             <h2 class="text-delta">Child Pages</h2>
             <ul>
@@ -233,5 +232,9 @@ layout: table_wrappers
       <div class="search-overlay"></div>
     {% endif %}
   </div>
+
+  {% if site.mermaid %}
+    {% include components/mermaid.html %}
+  {% endif %}
 </body>
 </html>
