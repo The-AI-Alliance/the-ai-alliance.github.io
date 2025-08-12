@@ -25,7 +25,7 @@ The projects on this page are a prioritized set from across our community, inclu
 The Open Agent Lab is a collaborative community of open source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
 
 ## Agent Reference Application Hub
-(In progress - coming soon!) The agent reference application hub is a repository of continually updated domain-specific implementaitons and architectural components for developing and deploying agents based on the output of our work groups, which include AI researchers, engineers, and subject matter experts from industry leading organizations. Here is some of our initial work:
+(In progress - coming soon!) The agent reference application hub is a repository of continually updated domain-specific implementations and architectural components for developing and deploying agents based on the output of our work groups, which include AI researchers, engineers, and subject matter experts from industry leading organizations. Here is some of our initial work:
 
 **Industrial AI / Semiconductors:** check out [SemiKong](https://github.com/aitomatic/semikong){:target="_blank"} a foundation model for semiconductor process agents.
 
@@ -79,7 +79,7 @@ AI Alliance members are [contributing directly](https://thealliance.ai/blog/ai-a
           A growing suite of example applications for <a href="https://github.com/meta-llama/llama-stack" target="_blank">Llama Stack</a> that demonstrate various stack features and common application patterns:
           <ol>
             <li>
-              A getting-start chatbot app, which shows how to build and deploy Llama Stack applications. It includes two different UI options and inference with an <a href="https://ollama.com" target="_blank">ollama</a>-hosted <a href="https://www.llama.com/models/llama-3/" target="_blank">Llama 3</a> model.
+              A getting-started chatbot app, which shows how to build and deploy Llama Stack applications. It includes two different UI options and inference with an <a href="https://ollama.com" target="_blank">ollama</a>-hosted <a href="https://www.llama.com/models/llama-3/" target="_blank">Llama 3</a> model.
             </li>
             <li>
               A <em>deep research</em> app (under development), which illustrates an emerging, common application pattern for AI. The user asks for detailed information about a topic, for example the market performance and financials for a publicly-traded company, agents find relevant data from diverse sources, and finally an LLM digests the information retrieved and prepares a report. This example will demonstrate Llama Stack support for agent-based application development, including the use of protocols like <a href="#model-context-protocol-section">MCP</a>.
