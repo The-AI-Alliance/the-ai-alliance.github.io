@@ -25,4 +25,4 @@ Come meet us and learn about AI! See our [full list](https://thealliance.ai/even
   * Learn more about [getting involved](https://thealliance.ai/community){:target="_blank"}.
 
 | **Authors**     | [AI Alliance Team](https://thealliance.ai/){:target="_blank"} |
-| **Last Update** | V0.2.2, 2025-07-18 |
+| **Last Update** | {{site.last_version}}, {{site.last_modified_timestamp}} |
