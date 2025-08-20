@@ -58,7 +58,7 @@ AI Alliance members are [contributing directly](https://thealliance.ai/blog/ai-a
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          AI Alliance Llama Stack Example Apps <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://github.com/The-AI-Alliance/llama-stack-examples" target="_blank">AI Alliance Llama Stack Example Apps</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -89,7 +89,7 @@ AI Alliance members are [contributing directly](https://thealliance.ai/blog/ai-a
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          Llama Stack Demos for OpenShift and Kubernetes
+          <a href="https://github.com/opendatahub-io/llama-stack-demos" target="_blank">Llama Stack Demos for OpenShift and Kubernetes</a>
         </td>
       </tr>
       <tr>
@@ -135,7 +135,7 @@ AI Alliance members are [contributing directly](https://thealliance.ai/blog/ai-a
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          Llama Stack Python Client
+          <a href="https://github.com/llamastack/llama-stack-client-python" target="_blank">Llama Stack Python Client</a>
         </td>
       </tr>
       <tr>
