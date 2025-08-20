@@ -962,7 +962,7 @@ The AI Alliance is a global organization. However, localization matters and is k
 * Paris - coming soon!
 
 ## Events
-Come meet us and learn about AI! See our [full list](https://thealliance.ai/events) of Alliance-sponsored and third-party AI events.
+Come meet us and learn about AI! See our [full list](https://thealliance.ai/events){:target="events"} of Alliance-sponsored and third-party AI events.
 
 ## Additional Links
 
