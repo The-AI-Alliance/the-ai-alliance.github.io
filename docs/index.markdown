@@ -972,12 +972,13 @@ Come meet us and learn about AI! See our [full list](https://thealliance.ai/even
 
 ## For More Information
 
-* The [full list](https://github.com/The-AI-Alliance/community/tree/main/events){:target="_blank"} of Alliance-sponsored and third-party AI events.
-* The [AI Alliance GitHub Organization](https://github.com/The-AI-Alliance/){:target="_blank"}
-  * This documentation's [GitHub repo](https://github.com/The-AI-Alliance/the-ai-alliance.github.io){:target="_blank"}
-  * The [microsite template](https://github.com/The-AI-Alliance/microsite-template){:target="_blank"}: The template used for Alliance projects, including all the websites listed above. See the [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md){:target="_blank"} for instructions.
-* The [AI Alliance website](https://thealliance.ai){:target="_blank"}: About the AI Alliance, our goals and initiatives.
-  * Learn more about [getting involved](https://thealliance.ai/community){:target="_blank"}.
+* Our [Community repo](https://github.com/The-AI-Alliance/community/){:target="community"}:
+  * The [full list](https://github.com/The-AI-Alliance/community/tree/main/events){:target="community"} of Alliance-sponsored and third-party AI events.
+  * Our [contributing](https://github.com/The-AI-Alliance/community/CONTRIBUTING.md){:target="community"} guide.
+* The [AI Alliance GitHub organization](https://github.com/The-AI-Alliance/){:target="aia-gho"}
+  * This documentation's [GitHub repo](https://github.com/The-AI-Alliance/the-ai-alliance.github.io){:target="aia-repo"}
+  * The [microsite template](https://github.com/The-AI-Alliance/microsite-template){:target="aia-mt"} used for many Alliance project websites. 
+* The [AI Alliance website](https://thealliance.ai){:target="aia"}: About the AI Alliance, our goals and initiatives.
 
 | **Authors**     | [AI Alliance Team](https://thealliance.ai/){:target="_blank"} |
 | **Last Update** | {{site.last_version}}, {{site.last_modified_timestamp}} |
