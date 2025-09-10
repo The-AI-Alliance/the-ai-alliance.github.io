@@ -3,13 +3,13 @@
 
 The AI Alliance is a global organization. However, localization matters and is key to representation. To ensure effectiveness, relevance, and impact across diverse markets and communities, regional chapters of the AI Alliance exist and more are planned:
 
-* [Japan](https://the-ai-alliance.github.io/japan/){:target="_blank"}
+* [Japan](https://the-ai-alliance.github.io/japan/){:target="japan"}
 * [Thailand](https://the-ai-alliance.github.io/thailand/){:target="thailand"}
 * India - coming soon!
 * Paris - coming soon!
 
 ## Events
-Come meet us and learn about AI! See our [full list](https://thealliance.ai/events) of Alliance-sponsored and third-party AI events.
+Come meet us and learn about AI! See our [full list](https://thealliance.ai/events){:target="events"} of Alliance-sponsored and third-party AI events.
 
 ## Additional Links
 
