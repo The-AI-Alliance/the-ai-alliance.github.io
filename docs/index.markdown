@@ -176,6 +176,32 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:targ
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/enterprise-MCP/" target="_blank">MCP in the Enterprise: A User Guide</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/enterprise-MCP" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/34" target="_blank">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/enterprise-MCP/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/enterprise-MCP/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+           MCP has enormous potential to accelerate AI adoption in enterprises. This "living" user guide features chapters written by experts on various aspects of deploying, managing, and using MCP successfully in enterprise settings. It contains the first two chapters with many more planned. <a href="https://the-ai-alliance.github.io/enterprise-MCP/contributing/" target="_blank">Contributions are welcome!</a>. 
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
           <a href="https://ibm.github.io/mcp-context-forge/" target="_blank">MCP Gateway</a>
         </td>
       </tr>
@@ -420,6 +446,32 @@ See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-
         </td>
         <td>
           A repository of functions consumable by other agent frameworks.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/semiont/" target="_blank">Semiont</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/semiont/" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fsemiont%22" target="_blank">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/semiont/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/semiont/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Wiki-like knowledge base supporting graph retrieval, where humans and agents co-create Knowledge.  Includes MCP server.
         </td>
       </tr>
       <tr>
