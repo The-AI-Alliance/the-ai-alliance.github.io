@@ -22,9 +22,10 @@ The projects on this page are a prioritized set from across our community, inclu
 
 ### Collaborate, Experiment, and Build Production-ready Open Source Agents
 
-The Open Agent Lab is a collaborative community of open source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
+The [Open Agent Lab](https://open-agent-lab.lovable.app){:target="_blank"} is a collaborative community of open source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
 
 ## Agent Reference Application Hub
+
 (In progress - coming soon!) The agent reference application hub is a repository of continually updated domain-specific implementations and architectural components for developing and deploying agents based on the output of our work groups, which include AI researchers, engineers, and subject matter experts from industry leading organizations. Here is some of our initial work:
 
 **Industrial AI / Semiconductors:** check out [SemiKong](https://github.com/aitomatic/semikong){:target="_blank"} a foundation model for semiconductor process agents.
