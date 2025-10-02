@@ -42,125 +42,6 @@ The [Open Agent Lab](https://open-agent-lab.lovable.app){:target="_blank"} is a 
 
 **(Coming soon.)** Materials, Health, and Time Series work groups.
 
-## Llama Stack and Llama Stack Agents
-
-The [Llama Stack](https://github.com/meta-llama/llama-stack){:target="_blank"} project standardizes the core building blocks that simplify AI application development. It codifies best practices across the Llama ecosystem, integrates with other open-source tools and managed services, and provides APIs for inference, evaluation, agents, [MCP](#model-context-protocol-section), and deployment requirements like observability. It is designed to support both on-premise and cloud deployments. The ecosystem provides many example applications to help developers build and deploy AI applications quickly and effectively.
-
-AI Alliance members are [contributing directly](https://thealliance.ai/blog/ai-alliance-accelerating-open-source-ai-innovation){:target="_blank"} to Llama Stack development, as well as building example applications that illustrate its use in various enterprise scenarios. The `llama-stack-examples` project has two initial example applications, described in the table below. The first  app is a simple getting-started chatbot that shows you the basics of creating an app with Llama Stack and how to run it. The second app (in development) is a _deep research_ application, a popular class of AI applications, which will demonstrate Llama Stack support for technologies like agents and [MCP](#model-context-protocol-section). Other examples under consideration will be chosen to cover other common application patterns seen in several industries. [Please join us!](https://events.thealliance.ai/llamastack){:target="_blank"}
-
-<div class="table-wrapper">
-  <table>
-    <thead>
-      <tr>
-        <th>Links</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://github.com/The-AI-Alliance/llama-stack-examples" target="_blank">AI Alliance Llama Stack Example Apps</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/llama-stack-examples" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/llama-stack-examples/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/llama-stack-examples/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          A growing suite of example applications for <a href="https://github.com/meta-llama/llama-stack" target="_blank">Llama Stack</a> that demonstrate various stack features and common application patterns:
-          <ol>
-            <li>
-              A getting-started chatbot app, which shows how to build and deploy Llama Stack applications. It includes two different UI options and inference with an <a href="https://ollama.com" target="_blank">ollama</a>-hosted <a href="https://www.llama.com/models/llama-3/" target="_blank">Llama 3</a> model.
-            </li>
-            <li>
-              A <em>deep research</em> app (under development), which illustrates an emerging, common application pattern for AI. The user asks for detailed information about a topic, for example the market performance and financials for a publicly-traded company, agents find relevant data from diverse sources, and finally an LLM digests the information retrieved and prepares a report. This example will demonstrate Llama Stack support for agent-based application development, including the use of protocols like <a href="#model-context-protocol-section">MCP</a>.
-            </li>
-          </ol>
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://github.com/opendatahub-io/llama-stack-demos" target="_blank">Llama Stack Demos for OpenShift and Kubernetes</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/opendatahub-io/llama-stack-demos" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/opendatahub-io/llama-stack-demos/issues" target="_blank">issues</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          A suite of examples for deploying and managing Llama Stack-based applications on OpenShift and Kubernetes. (Principal developer: <a href="https://redhat.com" target="_blank">Red Hat</a>)
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://github.com/meta-llama/llama-stack" target="_blank">Llama Stack</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://llama-stack.readthedocs.io/en/latest/" target="_blank">documentation</a>
-            </li>
-            <li>
-              <a href="https://github.com/meta-llama/llama-stack" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/meta-llama/llama-stack/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/meta-llama/llama-stack/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          The <a href="https://github.com/meta-llama/llama-stack" target="_blank">Llama Stack</a> project itself.
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://github.com/llamastack/llama-stack-client-python" target="_blank">Llama Stack Python Client</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/llamastack/llama-stack-client-python" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/llamastack/llama-stack-client-python/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/llamastack/llama-stack-client-python/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          The Python library used by client applications to communicate with <a href="https://github.com/llamastack/llama-stack-client-python" target="_blank">Llama Stack</a> services. See the Llama Stack <a href="https://llama-stack.readthedocs.io/en/latest/" target="_blank">documentation</a> for usage examples. There are also client libraries for other programming languages in the <a href="https://github.com/llamastack" target="_blank"><code>llamastack</code> GitHub organization</a>.
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 <a id="model-context-protocol-section"></a>
 ## Model Context Protocol (MCP) Ecosystem and Related Projects
 
@@ -527,31 +408,6 @@ See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-
           Document enrichment and knowledge structure (eg knowledge graph) extraction and resolution.
         </td>
       </tr>
-      <!--
-      <tr>
-        <td class="project-title" colspan="2">
-          Llama Stack Use Cases <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/llama-stack-examples" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/llama-stack-examples/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/llama-stack-examples/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          Deployable, domain-specific use case applications demonstrating the use of <a href="https://github.com/meta-llama/llama-stack" target="_blank">Llama Stack</a>. See also the <a href="#llama-stack">Llama Stack</a> section below.
-        </td>
-      </tr>
-      -->
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/applying-ai-guide/" target="_blank">The Living Guide to Applying AI</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
@@ -605,6 +461,125 @@ See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-
   </table>
 </div>
 
+
+## Llama Stack and Llama Stack Agents
+
+The [Llama Stack](https://github.com/meta-llama/llama-stack){:target="_blank"} project standardizes the core building blocks that simplify AI application development. It codifies best practices across the Llama ecosystem, integrates with other open-source tools and managed services, and provides APIs for inference, evaluation, agents, [MCP](#model-context-protocol-section), and deployment requirements like observability. It is designed to support both on-premise and cloud deployments. The ecosystem provides many example applications to help developers build and deploy AI applications quickly and effectively.
+
+AI Alliance members are [contributing directly](https://thealliance.ai/blog/ai-alliance-accelerating-open-source-ai-innovation){:target="_blank"} to Llama Stack development, as well as building example applications that illustrate its use in various enterprise scenarios. The `llama-stack-examples` project has two initial example applications, described in the table below. The first  app is a simple getting-started chatbot that shows you the basics of creating an app with Llama Stack and how to run it. The second app (in development) is a _deep research_ application, a popular class of AI applications, which will demonstrate Llama Stack support for technologies like agents and [MCP](#model-context-protocol-section). Other examples under consideration will be chosen to cover other common application patterns seen in several industries. [Please join us!](https://events.thealliance.ai/llamastack){:target="_blank"}
+
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th>Links</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://github.com/The-AI-Alliance/llama-stack-examples" target="_blank">AI Alliance Llama Stack Example Apps</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/llama-stack-examples" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/llama-stack-examples/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/llama-stack-examples/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          A growing suite of example applications for <a href="https://github.com/meta-llama/llama-stack" target="_blank">Llama Stack</a> that demonstrate various stack features and common application patterns:
+          <ol>
+            <li>
+              A getting-started chatbot app, which shows how to build and deploy Llama Stack applications. It includes two different UI options and inference with an <a href="https://ollama.com" target="_blank">ollama</a>-hosted <a href="https://www.llama.com/models/llama-3/" target="_blank">Llama 3</a> model.
+            </li>
+            <li>
+              A <em>deep research</em> app (under development), which illustrates an emerging, common application pattern for AI. The user asks for detailed information about a topic, for example the market performance and financials for a publicly-traded company, agents find relevant data from diverse sources, and finally an LLM digests the information retrieved and prepares a report. This example will demonstrate Llama Stack support for agent-based application development, including the use of protocols like <a href="#model-context-protocol-section">MCP</a>.
+            </li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://github.com/opendatahub-io/llama-stack-demos" target="_blank">Llama Stack Demos for OpenShift and Kubernetes</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/opendatahub-io/llama-stack-demos" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/opendatahub-io/llama-stack-demos/issues" target="_blank">issues</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          A suite of examples for deploying and managing Llama Stack-based applications on OpenShift and Kubernetes. (Principal developer: <a href="https://redhat.com" target="_blank">Red Hat</a>)
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://github.com/meta-llama/llama-stack" target="_blank">Llama Stack</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://llama-stack.readthedocs.io/en/latest/" target="_blank">documentation</a>
+            </li>
+            <li>
+              <a href="https://github.com/meta-llama/llama-stack" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/meta-llama/llama-stack/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/meta-llama/llama-stack/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          The <a href="https://github.com/meta-llama/llama-stack" target="_blank">Llama Stack</a> project itself.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://github.com/llamastack/llama-stack-client-python" target="_blank">Llama Stack Python Client</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/llamastack/llama-stack-client-python" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/llamastack/llama-stack-client-python/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/llamastack/llama-stack-client-python/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          The Python library used by client applications to communicate with <a href="https://github.com/llamastack/llama-stack-client-python" target="_blank">Llama Stack</a> services. See the Llama Stack <a href="https://llama-stack.readthedocs.io/en/latest/" target="_blank">documentation</a> for usage examples. There are also client libraries for other programming languages in the <a href="https://github.com/llamastack" target="_blank"><code>llamastack</code> GitHub organization</a>.
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 # Governance, Evaluation, and Safety
 
@@ -828,6 +803,33 @@ Good datasets are essential for building good models and applications. The AI Al
               <strong>Data Pipelines to Validate Datasets:</strong> <a href="https://the-ai-alliance.github.io/open-trusted-data-initiative/our-processing/" target="_blank">details</a>, <a href="https://github.com/orgs/The-AI-Alliance/projects/28/views/1?filterQuery=label%3A%22data+pipelines%22" target="_blank">current work</a>
             </li>
           </ul>
+          See also the SYNTH Initiative in the next row!
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/SYNTH-initiative/" target="_blank">SYNTH Initiative</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/SYNTH-initiative" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/44" target="_blank">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/SYNTH-initiative/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/SYNTH-initiative/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          The SYNTH Initiative aims to address the critical gap in open-source AI development by creating a cutting-edge, open-source data corpus for training sovereign AI models and advanced AI agents. This involves curating permissively licensed, high-quality multimodal and multilingual datasets, with a focus on underrepresented languages, and generating synthetic data specifically designed to enhance frontier-level reasoning capabilities in these languages. The ultimate mission is to enable global access to advanced AI reasoning by fostering an inclusive data ecosystem that supports the full training pipeline of sophisticated models and agents. 
         </td>
       </tr>
       <tr>
