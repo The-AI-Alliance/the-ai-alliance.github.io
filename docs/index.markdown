@@ -256,8 +256,8 @@ The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> is faci
             <li>
               <a href="https://thealliance.ai/blog/the-ai-alliance-releases-new-ai-powered-programmin" target="_blank">blog post</a>
             </li>
-            <li>
             <!--
+            <li>
               <a href="https://www.linkedin.com/posts/ctnguyen_aialliance-danalanguage-opendxa-activity-7344578841706708992-_c3X)" target="_blank">announcement</a>
             </li>
             <li>
