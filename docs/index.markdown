@@ -211,10 +211,10 @@ The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> is faci
               <a href="https://github.com/nlip-project/ecma_draft1" target="_blank">NC-56 NLIP draft</a>
             </li>
             <li>
-              <a href="https://github.com/orgs/nlip-project/projects/3" target="_blank">Dashboard</a>
+              <a href="https://github.com/orgs/nlip-project/projects/3" target="_blank">dashboard</a>
             </li>
             <li>
-              <a href="https://github.com/nlip-project/documents" target="_blank">Other Documents</a>
+              <a href="https://github.com/nlip-project/documents" target="_blank">other documents</a>
             </li>
           </ul>
         </td>
@@ -248,14 +248,22 @@ The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> is faci
         <td>
           <ul>
             <li>
-              <a href="https://thealliance.ai/blog/the-ai-alliance-releases-new-ai-powered-programmin" target="_blank">Blog post</a>
+              <a href="https://github.com/aitomatic/dana" target="_blank">repo</a>
             </li>
             <li>
-              <a href="https://www.linkedin.com/posts/ctnguyen_aialliance-danalanguage-opendxa-activity-7344578841706708992-_c3X)" target="_blank">Announcement</a>
+              <a href="https://github.com/aitomatic/dana/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://thealliance.ai/blog/the-ai-alliance-releases-new-ai-powered-programmin" target="_blank">blog post</a>
+            </li>
+            <li>
+            <!--
+              <a href="https://www.linkedin.com/posts/ctnguyen_aialliance-danalanguage-opendxa-activity-7344578841706708992-_c3X)" target="_blank">announcement</a>
             </li>
             <li>
               <a href="https://docs.google.com/forms/d/e/1FAIpQLSewvrs-L1XEabZWxljO8ogB4236HMNxzieQt6E4eXON8sPC_g/viewform?pli=1" target="_blank">Interest form</a>
             </li>
+            -->
           </ul>
         </td>
         <td>
