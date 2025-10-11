@@ -654,7 +654,7 @@ Deploying a trusted AI system or agent is complex and the gap from prototype to 
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">Achieving Confidence in Enterprise AI Applications</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">Testing Generative AI Applications</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -675,7 +675,7 @@ Deploying a trusted AI system or agent is complex and the gap from prototype to 
           </ul>
         </td>
         <td>
-          Are you an enterprise developer? How should you test AI applications? You know how to write <em>deterministic</em> tests for your "pre-AI" applications. What should you do when you add generative AI models, which aren't deterministic? This project adapts existing evaluation techniques for the "last mile" of AI evaluation; verifying that an AI application correctly implements its requirements and use cases, going beyond the general concerns of evaluation for safety, security, etc. We are building nontrivial, reusable examples and instructional materials, so you can use these techniques effectively in combination with the traditional tools you already know. See also the companion <a href="https://the-ai-alliance.github.io/eval-ref-stack" target="_blank">Evaluation Reference Stack</a> and <a href="https://the-ai-alliance.github.io/trust-safety-evals/" target="_blank">Evaluation Is for Everyone</a> projects. This project is part of the <a href="https://thealliance.ai/core-projects/trust-and-safety-evaluations" target="_blank" target="tsei">Trust and Safety Evaluation Initiative</a> (TSEI).
+          Are you an enterprise developer? How should you test AI applications? You know how to write <em>deterministic</em> tests for your "pre-AI" applications. What should you do when you add generative AI models, which aren't deterministic? This project adapts existing evaluation techniques for the "last mile" of AI evaluation; verifying that an AI application correctly implements its requirements and use cases, going beyond the general concerns of evaluation for safety, security, etc. We are building nontrivial, reusable examples and instructional materials, so you can use these techniques effectively in combination with the traditional tools you already know. See also the companion <a href="https://the-ai-alliance.github.io/eval-ref-stack" target="_blank">Evaluation Reference Stack</a> and <a href="https://the-ai-alliance.github.io/trust-safety-evals/" target="_blank">Evaluation Is for Everyone</a> projects. This project is part of the <a href="https://thealliance.ai/core-projects/trust-and-safety-evaluations" target="_blank" target="tsei">Trust and Safety Evaluation Initiative</a> (TSEI). (This project was previously called <em>Achieving Confidence in Enterprise AI Applications</em>.)
         </td>
       </tr>      
       <tr>
@@ -701,7 +701,7 @@ Deploying a trusted AI system or agent is complex and the gap from prototype to 
           </ul>
         </td>
         <td>
-          <em>Evaluation Is for Everyone</em> addresses two problems: 1) many AI application builders don't know what they should do to ensure trust and safety, and 2) it should be as easy as possible to add trust and safety capabilities to AI applications. Many trust and safety evaluation suites are available that can be executed on the <a href="https://the-ai-alliance.github.io/eval-ref-stack" target="_blank">Evaluation Reference Stack</a>. We are making it as easy as possible for AI application developers to find and deploy the evaluations they need. See also the companion <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">Achieving Confidence in Enterprise AI Applications</a> project. This project is part of the <a href="https://thealliance.ai/core-projects/trust-and-safety-evaluations" target="_blank" target="tsei">Trust and Safety Evaluation Initiative</a> (TSEI).
+          <em>Evaluation Is for Everyone</em> addresses two problems: 1) many AI application builders don't know what they should do to ensure trust and safety, and 2) it should be as easy as possible to add trust and safety capabilities to AI applications. Many trust and safety evaluation suites are available that can be executed on the <a href="https://the-ai-alliance.github.io/eval-ref-stack" target="_blank">Evaluation Reference Stack</a>. We are making it as easy as possible for AI application developers to find and deploy the evaluations they need. See also the companion <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">Testing Generative AI Applications</a> project. This project is part of the <a href="https://thealliance.ai/core-projects/trust-and-safety-evaluations" target="_blank" target="tsei">Trust and Safety Evaluation Initiative</a> (TSEI).
         </td>
       </tr>
       <tr>
@@ -727,7 +727,7 @@ Deploying a trusted AI system or agent is complex and the gap from prototype to 
           </ul>
         </td>
         <td>
-          The companion projects <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">Achieving Confidence in Enterprise AI Applications</a> and <a href="https://the-ai-alliance.github.io/trust-safety-evals/" target="_blank">Evaluation Is for Everyone</a> require a runtime stack that is flexible and easy to deploy and manage. This project is collating popular tools for writing and running evaluations into easy-to-consume packages. This project is part of the <a href="https://thealliance.ai/core-projects/trust-and-safety-evaluations" target="_blank" target="tsei">Trust and Safety Evaluation Initiative</a> (TSEI).
+          The companion projects <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">Testing Generative AI Applications</a> and <a href="https://the-ai-alliance.github.io/trust-safety-evals/" target="_blank">Evaluation Is for Everyone</a> require a runtime stack that is flexible and easy to deploy and manage. This project is collating popular tools for writing and running evaluations into easy-to-consume packages. This project is part of the <a href="https://thealliance.ai/core-projects/trust-and-safety-evaluations" target="_blank" target="tsei">Trust and Safety Evaluation Initiative</a> (TSEI).
         </td>
       </tr>
       <tr>
