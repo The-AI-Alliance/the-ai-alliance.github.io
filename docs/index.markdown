@@ -675,7 +675,58 @@ Deploying a trusted AI system or agent is complex and the gap from prototype to 
           </ul>
         </td>
         <td>
-          Are you an enterprise developer? How should you test AI applications? You know how to write <em>deterministic</em> tests for your "pre-AI" applications. What should you do when you add generative AI models, which aren't deterministic? This project adapts existing evaluation techniques for the "last mile" of AI evaluation; verifying that an AI application correctly implements its requirements and use cases, going beyond the general concerns of evaluation for safety, security, etc. We are building nontrivial, reusable examples and instructional materials, so you can use these techniques effectively in combination with the traditional tools you already know. See also the companion <a href="https://the-ai-alliance.github.io/eval-ref-stack" target="_blank">Evaluation Reference Stack</a> and <a href="https://the-ai-alliance.github.io/trust-safety-evals/" target="_blank">Evaluation Is for Everyone</a> projects. This project is part of the <a href="https://thealliance.ai/core-projects/trust-and-safety-evaluations" target="_blank" target="tsei">Trust and Safety Evaluation Initiative</a> (TSEI). (This project was previously called <em>Achieving Confidence in Enterprise AI Applications</em>.)
+          Are you an enterprise developer? How should you test AI applications? You know how to write <em>deterministic</em> tests for your "pre-AI" applications. What should you do when you add generative AI models, which aren't deterministic? This project adapts existing evaluation techniques for the "last mile" of AI evaluation; verifying that an AI application correctly implements its requirements and use cases, going beyond the general concerns of evaluation for safety, security, etc. We are building nontrivial, reusable examples and instructional materials, so you can use these techniques effectively in combination with the traditional tools you already know. This project is part of the <a href="https://thealliance.ai/core-projects/trust-and-safety-evaluations" target="_blank" target="tsei">Trust and Safety Evaluation Initiative</a> (TSEI). (It was previously called <em>Achieving Confidence in Enterprise AI Applications</em>.)
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://servicenow.github.io/DoomArena/" target="_blank">DoomArena</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://arxiv.org/abs/2504.14064" target="_blank">paper</a>
+            </li>
+            <li>
+              <a href="https://www.servicenow.com/blogs/2025/doomarena-security-testing-ai-agents" target="_blank">blog post</a>
+            </li>
+            <li>
+              <a href="https://colab.research.google.com/github/ServiceNow/DoomArena/blob/main/notebooks/doomarena_intro_notebook.ipynb" target="_blank">colab</a>
+            </li>
+            <li>
+              <a href="https://github.com/ServiceNow/DoomArena" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/ServiceNow/DoomArena/issues" target="_blank">issues</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          <p>
+            AI agents are becoming increasingly powerful and ubiquitous. They now interact with users, tools, web pages, and databases—each of which introduces potential attack vectors for malicious actors. As a result, the security of AI agents has become a critical concern. <a href="https://servicenow.github.io/DoomArena/" target="_blank">DoomArena</a> provides a modular, configurable framework that enables the simulation of realistic and evolving security threats against AI agents. It helps researchers and developers explore vulnerabilities, test defenses, and improve the security of AI systems. The DoomArena architecture comprises several key components that work together to create a flexible, powerful security testing environment for AI agents:
+          </p>
+          <p>
+            <ul>
+              <li><b>Attack Gateway:</b> Functions as a wrapper around original agentic environments (TauBench, BrowserGym, OSWorld), injecting malicious content into the user-agent-environment loop as the AI agent interacts with it.</li>
+              <li><b>Threat Model:</b> Defines which components of the agentic framework are attackable and specifies targets for the attacker, enabling fine-grained security testing.</li>
+              <li><b>Attack Config:</b> Specifies the AttackableComponent, the AttackChoice (drawn from a library of implemented attacks), and the SuccessFilter which evaluates attack success.</li>
+            </ul>
+          </p>
+          <p>
+          DoomArena offers several advanced capabilities that make it a powerful and flexible framework for security testing of AI agents:
+          </p>
+          <p>
+            <ul>
+              <li><b>Plug-in:</b> Plug into to your favorite agentic framework and environments τ-Bench, BrowserGym, OSWorld without requiring any modifications to their code.</li>
+              <li><b>Customizable threat models:</b> Test agents against various threat models including malicious users and compromised environments.</li>
+              <li><b>Generic Attacker Agents:</b> Develop and reuse attacker agents across multiple environments.</li>
+              <li><b>Defense Evaluation:</b> Compare effectiveness of guardrail-based, LLM-powered, and security-by-design defenses.</li>
+              <li><b>Composable Attacks:</b> Reuse and combine previously published attacks for comprehensive and fine-grained security testing.</li>
+              <li><b>Trade-off Analysis:</b> Analyze the utility/security trade-off under various threat models.</li>
+            </ul>
+          <p>
         </td>
       </tr>      
       <tr>
