@@ -205,6 +205,9 @@ The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> is faci
         <td>
           <ul>
             <li>
+              <a href="https://ecma-international.org/technical-committees/tc56/" target="_blank">TC-56</a> (Technical Committee 56)
+            </li>
+            <li>
               <a href="https://github.com/nlip-project" target="_blank">GitHub org</a>
             </li>
             <li>
@@ -221,7 +224,7 @@ The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> is faci
         <td>
           The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> is facilitating the development of an open-source protocol for intelligent agents to communicate with each other and with humans using natural language. NLIP is designed to perform the role of a meta-protocol that allows agents from other ecosystems to communicate with one another including interfaces with other protocols such as A2A, ACP, AGNTCY, MCP, NANDA, etc.
           <br/><br/>
-          One outcome will be a new <a href="https://ecma-international.org/" target="_blank">ECMA</a> standard, <a href="https://github.com/nlip-project/ecma_draft1" target="_blank">TC-56 NLIP, Natural Language Interaction Protocol</a>. The organization is also developing reference implementations of the protocol and end-points. See the <a href="https://github.com/nlip-project" target="_blank">GitHub organization</a> for details on these implementations.
+          One outcome will be a new <a href="https://ecma-international.org/" target="_blank">ECMA</a> standard, <a href="https://ecma-international.org/technical-committees/tc56/" target="_blank">TC-56 NLIP, Natural Language Interaction Protocol</a> (<a href="https://github.com/nlip-project/ecma_draft1" target="_blank">draft</a>). The organization is also developing reference implementations of the protocol and end-points. See the <a href="https://github.com/nlip-project" target="_blank">GitHub organization</a> for details on these implementations.
         </td>
       </tr>
     </tbody>
