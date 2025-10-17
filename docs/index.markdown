@@ -715,7 +715,7 @@ Deploying a trusted AI system or agent is complex and the gap from prototype to 
             </ul>
           </p>
           <p>
-          DoomArena offers several advanced capabilities that make it a powerful and flexible framework for security testing of AI agents:
+            DoomArena offers several advanced capabilities that make it a powerful and flexible framework for security testing of AI agents:
           </p>
           <p>
             <ul>
@@ -726,7 +726,7 @@ Deploying a trusted AI system or agent is complex and the gap from prototype to 
               <li><b>Composable Attacks:</b> Reuse and combine previously published attacks for comprehensive and fine-grained security testing.</li>
               <li><b>Trade-off Analysis:</b> Analyze the utility/security trade-off under various threat models.</li>
             </ul>
-          <p>
+          </p>
         </td>
       </tr>      
       <tr>
