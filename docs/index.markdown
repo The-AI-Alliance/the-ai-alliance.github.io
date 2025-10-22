@@ -185,7 +185,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:targ
 
 ### The NLIP Project
 
-The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> is facilitating the development of an open-source protocol for intelligent agents to communicate with each other and with humans using natural language.
+The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> is facilitating the development of an open-source protocol for intelligent agents to communicate with each other and with humans using natural language. The <a href="https://the-ai-alliance.github.io/enterprise-MCP/" target="_blank">MCP in the Enterprise: A User Guide</a>, discussed <a href="#model-context-protocol-section">above</a> has a chapter on NLIP.
 
 <div class="table-wrapper">
   <table>
