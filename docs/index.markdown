@@ -416,30 +416,7 @@ See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-
           </ul>
         </td>
         <td>
-          Document enrichment and knowledge structure (eg knowledge graph) extraction and resolution.
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/applying-ai-guide/" target="_blank">The Living Guide to Applying AI</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/applying-ai-guide/" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/applying-ai-guide/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/applying-ai-guide/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          Tips from experts on using AI for various applications, including popular <i>design patterns</i>.
+          Document enrichment and knowledge structure (e.g., knowledge graph) extraction and resolution.
         </td>
       </tr>
       <tr>
@@ -466,6 +443,29 @@ See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-
         </td>
         <td>
           (Beginner friendly!) Get started with a simple and fun end-to-end RAG application that scrapes your website so you can ask it questions.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/applying-ai-guide/" target="_blank">The Living Guide to Applying AI</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/applying-ai-guide/" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/applying-ai-guide/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/applying-ai-guide/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Tips from experts on using AI for various applications, including popular <i>design patterns</i>.
         </td>
       </tr>
     </tbody>
