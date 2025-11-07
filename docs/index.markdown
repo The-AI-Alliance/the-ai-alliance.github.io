@@ -36,9 +36,9 @@ The [Open Agent Lab](https://open-agent-lab.lovable.app){:target="_blank"} is a 
 
 **Geospatial:** check out projects like [GeoBench](https://github.com/ServiceNow/geo-bench){:target="_blank"} and [TerraTorch](https://github.com/IBM/terratorch){:target="_blank"}.
 
-<!--
+{% comment %}
 **Chemistry and Materials:** take a look at new science foundation models for [molecular analysis](https://huggingface.co/ibm-research/materials.smi-ted){:target="_blank"}.
--->
+{% endcomment %}
 
 **(Coming soon.)** Materials, Health, and Time Series work groups.
 
@@ -259,14 +259,14 @@ The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> is faci
             <li>
               <a href="https://thealliance.ai/blog/the-ai-alliance-releases-new-ai-powered-programmin" target="_blank">blog post</a>
             </li>
-            <!--
+            {% comment %}
             <li>
               <a href="https://www.linkedin.com/posts/ctnguyen_aialliance-danalanguage-opendxa-activity-7344578841706708992-_c3X)" target="_blank">announcement</a>
             </li>
             <li>
               <a href="https://docs.google.com/forms/d/e/1FAIpQLSewvrs-L1XEabZWxljO8ogB4236HMNxzieQt6E4eXON8sPC_g/viewform?pli=1" target="_blank">Interest form</a>
             </li>
-            -->
+            {% endcomment %}
           </ul>
         </td>
         <td>
@@ -642,10 +642,6 @@ AI Alliance members are [contributing directly](https://thealliance.ai/blog/ai-a
 
 Safety, accuracy, red-teaming, security, compliance, and more are required for successful AI applications. How do we know that AI applications are _trustworthy_, that they are _safe_, meaning free of harmful outputs, that they correctly implement the required behaviors? The following projects address these concerns.
 
-<!-- obsolete...
-Deploying a trusted AI system or agent is complex and the gap from prototype to production is still large for most organizations. The AI Alliance has several projects aimed at ensuring agents in production deliver as advertised and can become a trusted foundation to build a business, educate students, perform scientific research, and much more.
--->
-
 <div class="table-wrapper">
   <table>
     <thead>
@@ -807,6 +803,7 @@ Deploying a trusted AI system or agent is complex and the gap from prototype to 
           The companion projects <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">Testing Generative AI Applications</a> and <a href="https://the-ai-alliance.github.io/trust-safety-evals/" target="_blank">Evaluation Is for Everyone</a> require a runtime stack that is flexible and easy to deploy and manage. This project is collating popular tools for writing and running evaluations into easy-to-consume packages. This project is part of the <a href="https://thealliance.ai/core-projects/trust-and-safety-evaluations" target="_blank" target="tsei">Trust and Safety Evaluation Initiative</a> (TSEI).
         </td>
       </tr>
+      {% comment %}
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/ranking-safety-priorities/" target="_blank">Ranking AI Safety Priorities by Domain</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
@@ -833,6 +830,7 @@ Deploying a trusted AI system or agent is complex and the gap from prototype to 
           What are the most important safety concerns for your specific domain and use cases? This project explores these questions in several industries, healthcare, finance, education, and legal, with more to come.
         </td>
       </tr>
+      {% endcomment %}
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://www.unitxt.ai/" target="_blank">unitxt</a>
@@ -1112,9 +1110,9 @@ The AI Alliance is building new models for many domains and modalities at the in
 </div>
 
 
-<!--
+{% comment %}
 WARNING: Don't remove the next comment nor the "start: focus areas" comment above. They are used for automated copying of this content to the-ai-alliance.github.com repo.
--->
+{% endcomment %}
 
 # AI Alliance Regional Chapters
 
@@ -1142,6 +1140,3 @@ Come meet us and learn about AI! See our [full list](https://thealliance.ai/even
   * This documentation's [GitHub repo](https://github.com/The-AI-Alliance/the-ai-alliance.github.io){:target="aia-repo"}
   * The [microsite template](https://github.com/The-AI-Alliance/microsite-template){:target="aia-mt"} used for many Alliance project websites. 
 * The [AI Alliance website](https://thealliance.ai){:target="aia"}: About the AI Alliance, our goals and initiatives.
-
-| **Authors**     | [AI Alliance Team](https://thealliance.ai/){:target="_blank"} |
-| **Last Update** | {{site.last_version}}, {{site.last_modified_timestamp}} |

@@ -21,3 +21,7 @@ If you have any questions or feedback, please contact us at [contact@thealliance
 ## About This Web Site
 
 This web site is built with [GitHub Pages](https://pages.github.com/){:target="_blank"}, which uses [Jekyll](https://github.com/jekyll/jekyll){:target="_blank"} to serve the website. We use the [Just the Docs](https://just-the-docs.github.io/just-the-docs/){:target="_blank"} Jekyll theme.
+
+
+| **Authors**     | [AI Alliance Team](https://thealliance.ai/){:target="_blank"} |
+| **Last Update** | {{site.last_version}}, {{site.last_modified_timestamp}} |

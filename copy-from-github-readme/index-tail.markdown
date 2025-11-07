@@ -25,6 +25,3 @@ Come meet us and learn about AI! See our [full list](https://thealliance.ai/even
   * This documentation's [GitHub repo](https://github.com/The-AI-Alliance/the-ai-alliance.github.io){:target="aia-repo"}
   * The [microsite template](https://github.com/The-AI-Alliance/microsite-template){:target="aia-mt"} used for many Alliance project websites. 
 * The [AI Alliance website](https://thealliance.ai){:target="aia"}: About the AI Alliance, our goals and initiatives.
-
-| **Authors**     | [AI Alliance Team](https://thealliance.ai/){:target="_blank"} |
-| **Last Update** | {{site.last_version}}, {{site.last_modified_timestamp}} |

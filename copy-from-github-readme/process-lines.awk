@@ -27,7 +27,10 @@ BEGIN {
         } else {
             a = gensub(/(\(https*:[^)]*\))/, "\\1{:target=\"_blank\"}", "g", $0)
             b = gensub(/(href="https*:[^"]*")/, "\\1 target=\"_blank\"", "g", a)
-            print b
+            c = gensub(/<!--/, "{% comment %}", "g", b)
+            d = gensub(/-->/, "{% endcomment %}", "g", c)
+            
+            print d
         } 
     }
     next # jump to next line
