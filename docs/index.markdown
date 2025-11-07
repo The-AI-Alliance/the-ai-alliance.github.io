@@ -994,7 +994,7 @@ The AI Alliance is building new models for many domains and modalities at the in
               <a href="https://www.semikong.ai/" target="_blank">Semikong</a> - The world's first open LLM tuned specifically for the semiconductor industry. (Principal developers: <a href="https://aitomatic.com/" target="_blank">Aitomatic</a>, <a href="https://www.tel.com/" target="_blank">Tokyo Electron Ltd.</a>, <a href="https://fptsoftware.com/" target="_blank">FPT Software</a>, and  <a href="https://thealliance.ai" target="_blank">The AI Alliance</a>)
             </li>
             <li>
-              Llamarine (coming soon!) - An LLM tuned specifically for the needs of the maritime industry.
+              <a href="https://thealliance.ai/blog/from-semiconductor-to-maritime-a-blueprint-for-dom" target="_blank">Llamarine</a> - An LLM tuned specifically for the needs of the maritime shipping industry.
             </li>
             <li>
               <a href="https://thealliance.ai/working-groups/materials-and-chemistry" target="_blank">Materials and Chemistry work group</a> (Several developers, including <a href="https://research.ibm.com/" target="_blank">IBM Research</a>):
