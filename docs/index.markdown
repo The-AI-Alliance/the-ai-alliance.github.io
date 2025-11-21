@@ -14,7 +14,7 @@ copy-from-github-readme/index-tail.markdown instead. See copy-from-github-readme
 
 You found the [AI Alliance](https://thealliance.ai){:target="_blank"} Github organization, where you can learn, use, and contribute to our open source AI projects.
 
-The projects on this page are a prioritized set from across our community, including two types: **Supported Projects** are led and managed by a Member(s) of the AI Alliance (a company, a non-profit, etc.). **Managed Projects** are owned by the AI Alliance. Both types of projects commit to minimum requirements on transparency, contributor opportunity and IP, permissive use licensing, and community conduct. Learn more about our project governance [here](https://thealliance.ai/governance){:target="_blank"}.
+The projects on this page are a prioritized set from across our community, including two types: **Supported Projects** are led and managed by a Member(s) of the AI Alliance (a company, a non-profit, etc.). **Managed Projects** are owned by the AI Alliance. (They are indicated below with the <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/> icon.) Both types of projects commit to minimum requirements on transparency, contributor opportunity and IP, permissive use licensing, and community conduct. Learn more about our project governance [here](https://thealliance.ai/governance){:target="_blank"}.
 
 # The Open Agent Hub
 
@@ -58,7 +58,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:targ
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/enterprise-MCP/" target="_blank">MCP in the Enterprise: A User Guide</a>
+          <a href="https://the-ai-alliance.github.io/enterprise-MCP/" target="_blank">MCP in the Enterprise: A User Guide</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/><a href="#footnote-1"><sup>1</sup></a>
         </td>
       </tr>
       <tr>
@@ -110,7 +110,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:targ
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/deep-research-agent-for-finance/" target="_blank">Deep Research Agent for Finance</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/deep-research-agent-for-finance/" target="_blank">Deep Research Agent for Finance</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -182,6 +182,9 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:targ
     </tbody>
   </table>
 </div>
+
+<a id="footnote-1"></a>
+<sup>1</sup> Indicates an Alliance <em>managed</em> project.
 
 ### The NLIP Project
 
@@ -294,7 +297,7 @@ See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/gofannon/" target="_blank">Gofannon</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/gofannon/" target="_blank">Gofannon</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -317,7 +320,7 @@ See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/semiont/" target="_blank">Semiont</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/semiont/" target="_blank">Semiont</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -343,7 +346,7 @@ See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/proscenium/" target="_blank">Proscenium</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/proscenium/" target="_blank">Proscenium</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -369,7 +372,7 @@ See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/lapidarist/" target="_blank">Lapidarist</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/lapidarist/" target="_blank">Lapidarist</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -395,7 +398,7 @@ See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://github.com/The-AI-Alliance/AllyCat/" target="_blank">AllyCat</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://github.com/The-AI-Alliance/AllyCat/" target="_blank">AllyCat</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -421,7 +424,7 @@ See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/bartlebot/" target="_blank">Bartlebot</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/bartlebot/" target="_blank">Bartlebot</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -444,7 +447,7 @@ See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://github.com/The-AI-Alliance/agent-lab-ui/" target="_blank">Agent Lab UI</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://github.com/The-AI-Alliance/agent-lab-ui/" target="_blank">Agent Lab UI</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -470,7 +473,7 @@ See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/applying-ai-guide/" target="_blank">The Living Guide to Applying AI</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/applying-ai-guide/" target="_blank">The Living Guide to Applying AI</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -582,7 +585,7 @@ AI Alliance members are [contributing directly](https://thealliance.ai/blog/ai-a
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://github.com/The-AI-Alliance/llama-stack-examples" target="_blank">AI Alliance Llama Stack Example Apps</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://github.com/The-AI-Alliance/llama-stack-examples" target="_blank">AI Alliance Llama Stack Example Apps</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -653,7 +656,7 @@ Safety, accuracy, red-teaming, security, compliance, and more are required for s
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/trust-safety-user-guide/" target="_blank">The AI Trust and Safety User Guide</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/trust-safety-user-guide/" target="_blank">The AI Trust and Safety User Guide</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -676,7 +679,7 @@ Safety, accuracy, red-teaming, security, compliance, and more are required for s
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">Testing Generative AI Applications</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">Testing Generative AI Applications</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -753,7 +756,7 @@ Safety, accuracy, red-teaming, security, compliance, and more are required for s
       </tr>      
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/trust-safety-evals/" target="_blank">Evaluation Is for Everyone</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/trust-safety-evals/" target="_blank">Evaluation Is for Everyone</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -779,7 +782,7 @@ Safety, accuracy, red-teaming, security, compliance, and more are required for s
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/eval-ref-stack/" target="_blank">Evaluation Reference Stack</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/eval-ref-stack/" target="_blank">Evaluation Reference Stack</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -806,7 +809,7 @@ Safety, accuracy, red-teaming, security, compliance, and more are required for s
       {% comment %}
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/ranking-safety-priorities/" target="_blank">Ranking AI Safety Priorities by Domain</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/ranking-safety-priorities/" target="_blank">Ranking AI Safety Priorities by Domain</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -873,7 +876,7 @@ Good datasets are essential for building good models and applications. The AI Al
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/open-trusted-data-initiative/" target="_blank">The Open, Trusted Data Initiative</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/open-trusted-data-initiative/" target="_blank">The Open, Trusted Data Initiative</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -914,7 +917,7 @@ Good datasets are essential for building good models and applications. The AI Al
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/SYNTH-initiative/" target="_blank">SYNTH Initiative</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/SYNTH-initiative/" target="_blank">SYNTH Initiative</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -1084,7 +1087,7 @@ The AI Alliance is building new models for many domains and modalities at the in
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/ai-accelerator-software-ecosystem-guide/" target="_blank">The AI Accelerator Software Ecosystem Guide</a> <img src="https://the-ai-alliance.github.io/assets/images/aia_symbol_main_color_24x24.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/ai-accelerator-software-ecosystem-guide/" target="_blank">The AI Accelerator Software Ecosystem Guide</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
