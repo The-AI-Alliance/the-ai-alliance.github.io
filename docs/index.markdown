@@ -16,13 +16,13 @@ You found the [AI Alliance](https://thealliance.ai){:target="_blank"} Github org
 
 The projects on this page are a prioritized set from across our community, including two types: **Supported Projects** are led and managed by a Member(s) of the AI Alliance (a company, a non-profit, etc.). **Managed Projects** are owned by the AI Alliance. Both types of projects commit to minimum requirements on transparency, contributor opportunity and IP, permissive use licensing, and community conduct. Learn more about our project governance [here](https://thealliance.ai/governance){:target="_blank"}.
 
-# The Open Agent Lab
+# The Open Agent Hub
 
-<a id="open-agent-lab-description" class="anchor"></a>
+<a id="open-agent-hub-description" class="anchor"></a>
 
 ### Collaborate, Experiment, and Build Production-ready Open Source Agents
 
-The [Open Agent Lab](https://open-agent-lab.lovable.app){:target="_blank"} is a collaborative community of open source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
+The Open Agent Hub is a collaborative community of open source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
 
 ## Agent Reference Application Hub
 
