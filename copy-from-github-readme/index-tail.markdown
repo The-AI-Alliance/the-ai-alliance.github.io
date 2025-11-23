@@ -23,6 +23,6 @@ Come meet us and learn about AI! See our [full list](https://thealliance.ai/even
   * Our [contributing](https://github.com/The-AI-Alliance/community/CONTRIBUTING.md){:target="community"} guide.
 * The [AI Alliance GitHub organization](https://github.com/The-AI-Alliance/){:target="aia-gho"}
   * This documentation's [GitHub repo](https://github.com/The-AI-Alliance/the-ai-alliance.github.io){:target="aia-repo"}
-  * A glossary of terms, [website](https://the-ai-alliance.github.io/glossary/){:target="glossary"} [repo](https://github.com/The-AI-Alliance/glossary){:target="glossary-repo"}, is shared by many of these websites.
+  * A glossary of terms, [website](https://the-ai-alliance.github.io/glossary/){:target="glossary"} and [repo](https://github.com/The-AI-Alliance/glossary){:target="glossary-repo"}, is shared by many of these websites.
   * The [microsite template](https://github.com/The-AI-Alliance/microsite-template){:target="aia-mt"} used for many Alliance project websites. 
 * The [AI Alliance website](https://thealliance.ai){:target="aia"}: About the AI Alliance, our goals and initiatives.
