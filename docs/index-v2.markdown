@@ -49,24 +49,28 @@ WARNING: Don't remove the next comment nor the "end: focus areas" comment below.
       -->
       <tr>
         <td>
-          <strong>MCP and related:</strong> <a href="https://the-ai-alliance.github.io/enterprise-MCP/"><em>MCP in the Enterprise: A User Guide</em></a>
+          <strong>MCP and related:</strong><br/>
+          <a href="https://the-ai-alliance.github.io/enterprise-MCP/"><em>MCP in the Enterprise: A User Guide</em></a>
           <a href="https://the-ai-alliance.github.io/deep-research-agent-for-finance/"><em>Deep Research Agent for Finance</em></a>
           <a href="https://ibm.github.io/mcp-context-forge/">Context Forge</a>
           <a href="https://nlip-project.org/">NLIP Project</a>
         </td>
         <td>
-          <strong>Agents:</strong> <a href="https://aitomatic.github.io/dana/">Dana</a>
+          <strong>Agents:</strong><br/>
+          <a href="https://aitomatic.github.io/dana/">Dana</a>
           <a href="https://the-ai-alliance.github.io/semiont/"><em>Semiont</em></a>
           <a href="https://the-ai-alliance.github.io/gofannon/"><em>Gofannon</em></a>
           <a href="https://the-ai-alliance.github.io/proscenium/"><em>Proscenium</em></a>
           <a href="https://github.com/The-AI-Alliance/AllyCat/"><em>AllyCat</em></a>
         </td>
         <td>
-          <strong>Models:</strong> <a href="https://www.semikong.ai/">Semikong</a> 
+          <strong>Models:</strong><br/>
+          <a href="https://www.semikong.ai/">Semikong</a> 
           <a href="https://thealliance.ai/blog/from-semiconductor-to-maritime-a-blueprint-for-dom">Llamarine</a> ...
         </td>
         <td>
-          <strong>Data:</strong> <a href="https://the-ai-alliance.github.io/open-trusted-data-initiative/"><em>The Open, Trusted Data Initiative</em></a>
+          <strong>Data:</strong><br/>
+          <a href="https://the-ai-alliance.github.io/open-trusted-data-initiative/"><em>The Open, Trusted Data Initiative</em></a>
           <a href="https://the-ai-alliance.github.io/SYNTH-initiative/"><em>SYNTH Initiative</em></a>
         </td>
       </tr>
@@ -86,7 +90,8 @@ WARNING: Don't remove the next comment nor the "end: focus areas" comment below.
       </tr>
       <tr>
         <td colspan="4">
-          <strong>Testing and Evaluation:</strong> <a href="https://the-ai-alliance.github.io/ai-application-testing/"><em>Testing Generative AI Applications</em></a>
+          <strong>Testing and Evaluation:</strong><br/>
+          <a href="https://the-ai-alliance.github.io/ai-application-testing/"><em>Testing Generative AI Applications</em></a>
           <a href="https://the-ai-alliance.github.io/trust-safety-user-guide/"><em>The AI Trust and Safety User Guide</em></a>
           <a href="https://servicenow.github.io/DoomArena/">DoomArena</a>
           <a href="https://www.unitxt.ai/">unitxt</a>
