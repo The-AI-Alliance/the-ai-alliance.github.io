@@ -37,6 +37,7 @@ WARNING: Don't remove the next comment nor the "end: focus areas" comment below.
           The Open Model Foundry is building models needed for enabling successful deployment of agents in production across domains and use cases. Good datasets are essential for training and tuning good models and applications. The AI Alliance is cataloging permissive data sets and helping to build new ones where needed, where they have clear licenses for open use, backed by unambiguous provenance and governance constraints.
         </td>
       </tr>
+      <!--
       <tr>
         <td colspan="2" class="project-subtitle text-center">
           Key Projects:
@@ -45,6 +46,7 @@ WARNING: Don't remove the next comment nor the "end: focus areas" comment below.
           Key Projects:
         </td>
       </tr>
+      -->
       <tr>
         <td>
           <strong>MCP and related:</strong> <a href="https://the-ai-alliance.github.io/enterprise-MCP/"><em>MCP in the Enterprise: A User Guide</em></a>
