@@ -13,12 +13,14 @@ aia_icon: https://the-ai-alliance.github.io/assets/images/favicon-16x16.png
 
 [The AI Alliance](https://thealliance.ai) Github organization is the place to discover, use, and contribute to a variety of open-source projects for generative AI.
 
+## About Our Projects
+
 Listed here are **Managed Projects**, which are owned by the AI Alliance and indicated below with the _italic_ titles, and **Supported Projects**, which are managed by one or more member organizations in the AI Alliance. Both types of projects are committed to transparency and permissive use licensing, and they are open to the community for new contributors. Learn more about our [project governance](https://thealliance.ai/governance).
 
 <!--
-WARNING: Don't remove the next comment nor the "end: focus areas" comment below. They are used for automated copying of this content to the-ai-alliance.github.com GitHub Pages repo.
+WARNING: Don't remove the next comment nor the "end: shared" comment below. They are used for automated copying of this content to the-ai-alliance.github.com GitHub Pages repo.
 -->
-<!-- start: focus areas -->
+<!-- start: shared -->
 
 <div class="table-wrapper">
   <table>
@@ -62,16 +64,6 @@ WARNING: Don't remove the next comment nor the "end: focus areas" comment below.
           <a href="https://thealliance.ai/blog/from-semiconductor-to-maritime-a-blueprint-for-dom">Llamarine</a>, <a href="{{site.baseurl}}/project-details/#open-models"><strong>more details...</strong></a> 
         </td>
       </tr>
-      <!--
-      <tr>
-        <td colspan="2" class="text-center">
-          <a href="open-agent-hub"><strong>More details...</strong></a>
-        </td>
-        <td colspan="2" class="text-center">
-          <a href="open-model-and-data-hub"><strong>More details...</strong></a>
-        </td>
-      </tr>
-      -->
       <tr>
         <td colspan="4" class="project-title text-center">Enabling Projects</td>
       </tr>
@@ -80,26 +72,21 @@ WARNING: Don't remove the next comment nor the "end: focus areas" comment below.
       </tr>
       <tr>
         <td colspan="4">
-          <strong>Testing and Evaluation:</strong><br/>
+          <strong>Governance, Testing, and Evaluation:</strong><br/>
           <a href="https://the-ai-alliance.github.io/ai-application-testing/"><em>Testing Generative AI Applications</em></a>,
           <a href="https://the-ai-alliance.github.io/trust-safety-user-guide/"><em>The AI Trust and Safety User Guide</em></a>,
           <a href="https://servicenow.github.io/DoomArena/">DoomArena</a>,
           <a href="https://www.unitxt.ai/">unitxt</a>, <a href="{{site.baseurl}}/project-details/#enabling-projects"><strong>more details...</strong></a> 
         </td>
       </tr>
-<!--       <tr>
-        <td colspan="4" class="text-center">
-          <a href="open-agent-hub"><strong>More details...</strong></a>
-        </td>
-      </tr>
- -->    </tbody>
+    </tbody>
   </table>
 </div>
 
 <!--
-WARNING: Don't remove the next comment nor the "start: focus areas" comment above. They are used for automated copying of this content to the-ai-alliance.github.com repo.
+WARNING: Don't remove the next comment nor the "start: shared" comment above. They are used for automated copying of this content to the-ai-alliance.github.com repo.
 -->
-<!-- end: focus areas -->
+<!-- end: shared -->
 
 ## AI Alliance Regional Chapters
 

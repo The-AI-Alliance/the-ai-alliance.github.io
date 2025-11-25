@@ -15,7 +15,7 @@ copy-from-github-readme/index-tail.markdown instead. See copy-from-github-readme
 
 # Details on AI Alliance Supported and Managed Projects
 
-The [home page](/) provides an overview of the AI Alliance technical programs and key projects. This page provides more details about all the Alliance _managed_ and _supported_ projects.
+The [home page](/) provides an overview of the AI Alliance technical programs and key projects. This page provides more details about all the Alliance [managed]({{site.baseurl}}/#about-our-projects) and [supported]({{site.baseurl}}/#about-our-projects) projects.
 
 ## The Open Agent Hub
 
@@ -44,7 +44,7 @@ The [home page](/) provides an overview of the AI Alliance technical programs an
 
 ### Agent Knowledge and Tool Foundations
 
-See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-finance/" target="_blank">Deep Research Agent for Finance</a>, which is discussed in the <a href="#model-context-protocol-section">MCP Ecosystem</a> section above.
+See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-finance/" target="_blank">Deep Research Agent for Finance</a>, which is discussed in the <a href="#model-context-protocol-section">MCP Ecosystem</a> section.
 
 <div class="table-wrapper">
   <table>
@@ -453,7 +453,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:targ
 
 #### The NLIP Project
 
-The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> is facilitating the development of an open-source protocol for intelligent agents to communicate with each other and with humans using natural language. The <a href="https://the-ai-alliance.github.io/enterprise-MCP/" target="_blank">MCP in the Enterprise: A User Guide</a>, discussed <a href="#model-context-protocol-section">above</a> has a chapter on NLIP.
+The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> is facilitating the development of an open-source protocol for intelligent agents to communicate with each other and with humans using natural language. The <a href="https://the-ai-alliance.github.io/enterprise-MCP/" target="_blank">MCP in the Enterprise: A User Guide</a>, discussed in the <a href="#model-context-protocol-section">above</a> has a chapter on NLIP.
 
 <div class="table-wrapper">
   <table>
