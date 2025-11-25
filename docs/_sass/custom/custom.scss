@@ -37,13 +37,27 @@ th {
   white-space: nowrap;
   text-align: left;
   font-weight: bold;
+  font-size: 110% !important;
 }
 
+th.project-title {
+  background-color: #F1FBEA; /* #FBF0FA; */
+  text-align: left;
+  font-weight: bold;
+  font-size: 110% !important;
+}
 td.project-title {
   background-color: #F1FBEA; /* #FBF0FA; */
   text-align: left;
   font-weight: bold;
   font-size: 110% !important;
+}
+
+td.project-subtitle {
+  background-color: #F7EFF6; 
+  text-align: left;
+  font-weight: bold;
+  font-size: 100% !important;
 }
 
 .width-100 {
