@@ -26,14 +26,14 @@ WARNING: Don't remove the next comment nor the "end: shared" comment below. They
   <table>
     <tbody>
       <tr>
-        <td colspan="2" class="project-title text-center">Open Agent Hub</td>
-        <td colspan="2" class="project-title text-center">Open Data and Models</td>
+        <td class="project-title text-center">Open Agent Hub</td>
+        <td class="project-title text-center">Open Data and Models</td>
       </tr>
       <tr>
-        <td colspan="2">
+        <td>
           The Open Agent Hub is a collaboration of open-source AI projects and domain-specific work groups that seeks to make AI Agents successful in the real world through fast experimentation and distillation of learning into reusable tools, reference examples, and applications.
         </td>
-        <td colspan="2">
+        <td>
           The Open Data and Models program is building models needed for successful agent-based applications across domains and use cases. Since good datasets are essential for training and tuning good models, and for application patterns like <a href="https://the-ai-alliance.github.io/glossary/glossary/#retrieval-augmented-generation" target="glossary">RAG</a> and <a href="https://the-ai-alliance.github.io/glossary/glossary/#agent" target="glossary">Agents</a>, the AI Alliance is cataloging permissive data sets and helping to build new ones where needed, all with clear licenses for open use and backed by unambiguous provenance and governance constraints.
         </td>
       </tr>
@@ -45,8 +45,7 @@ WARNING: Don't remove the next comment nor the "end: shared" comment below. They
           <a href="https://the-ai-alliance.github.io/gofannon/"><em>Gofannon</em></a>,
           <a href="https://the-ai-alliance.github.io/proscenium/"><em>Proscenium</em></a>,
           <a href="https://github.com/The-AI-Alliance/AllyCat/"><em>AllyCat</em></a>, <a href="{{site.baseurl}}/project-details/#the-open-agent-hub"><strong>more details...</strong></a>
-        </td>
-        <td>
+          <br/>
           <strong>MCP and related:</strong><br/>
           <a href="https://the-ai-alliance.github.io/enterprise-MCP/"><em>MCP in the Enterprise: A User Guide</em></a>,
           <a href="https://the-ai-alliance.github.io/deep-research-agent-for-finance/"><em>Deep Research Agent for Finance</em></a>,
@@ -57,21 +56,20 @@ WARNING: Don't remove the next comment nor the "end: shared" comment below. They
           <strong>Data:</strong><br/>
           <a href="https://the-ai-alliance.github.io/open-trusted-data-initiative/"><em>The Open, Trusted Data Initiative</em></a>,
           <a href="https://the-ai-alliance.github.io/SYNTH-initiative/"><em>SYNTH Initiative</em></a>, <a href="{{site.baseurl}}/project-details/#open-trusted-data"><strong>more details...</strong></a> 
-        </td>
-        <td>
+          <br/>
           <strong>Models:</strong><br/>
           <a href="https://www.semikong.ai/">Semikong</a>, 
           <a href="https://thealliance.ai/blog/from-semiconductor-to-maritime-a-blueprint-for-dom">Llamarine</a>, <a href="{{site.baseurl}}/project-details/#open-models"><strong>more details...</strong></a> 
         </td>
       </tr>
       <tr>
-        <td colspan="4" class="project-title text-center">Enabling Projects</td>
+        <td colspan="2" class="project-title text-center">Enabling Projects</td>
       </tr>
       <tr>
-        <td colspan="4">Projects that support the Open Agent Hub and the Data and Models Program.</td>
+        <td colspan="2">Projects that support the Open Agent Hub and the Data and Models Program.</td>
       </tr>
       <tr>
-        <td colspan="4">
+        <td colspan="2">
           <strong>Governance, Testing, and Evaluation:</strong><br/>
           <a href="https://the-ai-alliance.github.io/ai-application-testing/"><em>Testing Generative AI Applications</em></a>,
           <a href="https://the-ai-alliance.github.io/trust-safety-user-guide/"><em>The AI Trust and Safety User Guide</em></a>,
