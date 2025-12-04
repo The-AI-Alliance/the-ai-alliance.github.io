@@ -31,7 +31,7 @@ WARNING: Don't remove the next comment nor the "end: shared" comment below. They
       </tr>
       <tr>
         <td>
-          The <a href="https://the-ai-alliance.github.io/" target="oah">Open Agent Hub</a> is a collaboration of open-source AI projects and domain-specific work groups that seeks to make AI Agents successful in the real world through fast experimentation and distillation of learning into reusable tools, reference examples, and applications.
+          The <a href="https://the-ai-alliance.github.io/open-agent-hub/" target="oah">Open Agent Hub</a> is a collaboration of open-source AI projects and domain-specific work groups that seeks to make AI Agents successful in the real world through fast experimentation and distillation of learning into reusable tools, reference examples, and applications.
         </td>
         <td>
           The Open Data and Models program is building models needed for successful agent-based applications across domains and use cases. Since good datasets are essential for training and tuning good models, and for application patterns like <a href="https://the-ai-alliance.github.io/glossary/glossary/#retrieval-augmented-generation" target="glossary">RAG</a> and <a href="https://the-ai-alliance.github.io/glossary/glossary/#agent" target="glossary">Agents</a>, the AI Alliance is cataloging permissive data sets and helping to build new ones where needed, all with clear licenses for open use and backed by unambiguous provenance and governance constraints.
