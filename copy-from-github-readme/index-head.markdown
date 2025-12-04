@@ -12,7 +12,7 @@ copy-from-github-readme/index-tail.markdown instead. See copy-from-github-readme
 
 # Welcome to the AI Alliance
 
-You found the [AI Alliance](https://thealliance.ai){:target="_blank"} Github organization, where you can learn, use, and contribute to our open source AI projects.
 
-The projects on this page are a prioritized set from across our community, including two types: **Supported Projects** are led and managed by a Member(s) of the AI Alliance (a company, a non-profit, etc.). **Managed Projects** are owned by the AI Alliance. (They are indicated below with the <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/> icon.) Both types of projects commit to minimum requirements on transparency, contributor opportunity and IP, permissive use licensing, and community conduct. Learn more about our project governance [here](https://thealliance.ai/governance){:target="_blank"}.
+[The AI Alliance](https://thealliance.ai){:target="_blank"} Github organization is the place to discover, use, and contribute to a variety of open-source projects for generative AI.
 
+Listed here are **Managed Projects**, which are owned by the AI Alliance and indicated below with the <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/> icon, and **Supported Projects**, which are managed by one or more member organizations in the AI Alliance. Both types of projects are committed to transparency and permissive use licensing, and they are open to the community for new contributors. Learn more about our [project governance](https://thealliance.ai/governance){:target="_blank"}.

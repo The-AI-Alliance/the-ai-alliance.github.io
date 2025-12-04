@@ -22,7 +22,7 @@ The projects on this page are a prioritized set from across our community, inclu
 
 ### Collaborate, Experiment, and Build Production-ready Open Source Agents
 
-The Open Agent Hub is a collaborative community of open source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
+The [Open Agent Hub](https://the-ai-alliance.github.io/){:target="oah"} is a collaborative community of open source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and build out of new tools to enable development and deployment.
 
 ## Agent Reference Application Hub
 
@@ -156,6 +156,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:targ
           Build effective agents using Model Context Protocol and simple to sophisticated workflow patterns. See the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-finance/" target="_blank">Deep Research Agent for Finance</a>, discussed in the previous row, which is built with this toolkit. See the <a href="https://thealliance.ai/blog/building-a-deep-research-agent-using-mcp-agent" target="_blank">recent Alliance blog post</a> on their lessons learned developing the <em>orchestration</em> feature for deep research and related use cases. Highly informative! (Principal developer: <a href="https://www.lastmileai.dev/" target="_blank">LastMile AI</a>)
         </td>
       </tr>
+      {% comment %}
       <tr>
         <td class="project-title" colspan="2">
           <a href="https://github.com/enkryptai/secure-mcp-gateway" target="_blank">Enkrypt AI Secure MCP Gateway</a>
@@ -179,6 +180,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:targ
           (Principal developer: <a href="https://www.enkryptai.com/" target="_blank">Enkrypt AI</a>)
         </td>
       </tr>
+      {% endcomment %}
     </tbody>
   </table>
 </div>
