@@ -133,7 +133,8 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:targ
         <td>
           The <a href="https://the-ai-alliance.github.io/deep-research-agent-for-finance/" target="_blank">Deep Research Agent for Finance</a> project demonstrates MCP in action for a common design pattern, <em>Deep Research Agent</em>. This example shows how a financial analyst can use a deep research agent to find, aggregate, and analyze information about a public company (or other potential investment). There are many other applications possible. The app is built on <a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">MCP Agent</a>, developed by <a href="https://www.lastmileai.dev/" target="_blank">LastMile AI</a>, discussed next.
         </td>
-      </tr>      <tr>
+      </tr>
+      <tr>
         <td class="project-title" colspan="2">
           <a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">LastMile AI MCP Agent</a>
         </td>
@@ -539,30 +540,8 @@ AI Alliance members are [contributing directly](https://thealliance.ai/blog/ai-a
           </ul>
         </td>
         <td>
-          The <a href="https://github.com/meta-llama/llama-stack" target="_blank">Llama Stack</a> project itself.
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://github.com/llamastack/llama-stack-client-python" target="_blank">Llama Stack Python Client</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/llamastack/llama-stack-client-python" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/llamastack/llama-stack-client-python/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/llamastack/llama-stack-client-python/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          The Python library used by client applications to communicate with <a href="https://github.com/llamastack/llama-stack-client-python" target="_blank">Llama Stack</a> services. See the Llama Stack <a href="https://llama-stack.readthedocs.io/en/latest/" target="_blank">documentation</a> for usage examples. There are also client libraries for other programming languages in the <a href="https://github.com/llamastack" target="_blank"><code>llamastack</code> GitHub organization</a>.
+          The <a href="https://github.com/meta-llama/llama-stack" target="_blank">Llama Stack</a> project itself.<br/>
+          See also the <a href="https://github.com/llamastack/llama-stack-client-python">Llama Stack Python Client</a>. 
         </td>
       </tr>
       <tr>
@@ -582,7 +561,8 @@ AI Alliance members are [contributing directly](https://thealliance.ai/blog/ai-a
           </ul>
         </td>
         <td>
-          A growing suite of example applications for <a href="https://github.com/meta-llama/llama-stack" target="_blank">Llama Stack</a> that demonstrate how to build applications that use the RAG pattern and agents.
+          A growing suite of example applications for <a href="https://github.com/meta-llama/llama-stack" target="_blank">Llama Stack</a> that demonstrate how to build applications that use the RAG pattern and agents.<br/>
+          See also the <a href="https://github.com/opendatahub-io/llama-stack-demos">Llama Stack Demos for OpenShift and Kubernetes</a>.
         </td>
       </tr>
       <tr>
@@ -621,22 +601,42 @@ AI Alliance members are [contributing directly](https://thealliance.ai/blog/ai-a
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://github.com/opendatahub-io/llama-stack-demos" target="_blank">Llama Stack Demos for OpenShift and Kubernetes</a>
+          <a href="https://github.com/raghotham/cc-vec" target="_blank">CCVec - Common Crawl to Vector Stores</a>
         </td>
       </tr>
       <tr>
         <td>
           <ul>
             <li>
-              <a href="https://github.com/opendatahub-io/llama-stack-demos" target="_blank">repo</a>
+              <a href="https://github.com/raghotham/cc-vec" target="_blank">repo</a>
             </li>
             <li>
-              <a href="https://github.com/opendatahub-io/llama-stack-demos/issues" target="_blank">issues</a>
+              <a href="https://github.com/raghotham/cc-vec/issues" target="_blank">issues</a>
             </li>
           </ul>
         </td>
         <td>
-          A suite of examples for deploying and managing Llama Stack-based applications on OpenShift and Kubernetes. (Principal developer: <a href="https://redhat.com" target="_blank">Red Hat</a>)
+          Search, analyze, and index Common Crawl data into vector stores for RAG applications, with three interfaces: CLI, Python library, and an MCP server. (Principal developers: <a href="https://commoncrawl.org/" target="_blank">Common Crawl Foundation</a> and <a href="https://meta.com" target="_blank">Meta</a>)
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://www.redhat.com/en/lightspeed" target="_blank">Red Hat Lightspeed</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/rhel-lightspeed" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://docs.redhat.com/en/documentation/red_hat_lightspeed/1-latest" target="_blank">docs</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          An end-to-end system management tool that predicts risks across Red Hat platforms, recommends actions, and tracks costs. Red Hat Lightspeed uses AI-powered package recommendations and planning capabilities to provide targeted guidance on increasing your systems’ day-to-day efficiency. (Principal developer: <a href="https://redhat.com" target="_blank">Red Hat</a>)
         </td>
       </tr>
     </tbody>
