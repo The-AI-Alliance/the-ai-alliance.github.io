@@ -50,7 +50,7 @@ WARNING: Don't remove the next comment nor the "end: focus areas" comment below.
   </table>
 </div>
 
-These initiatives are supported by <a href="{{site.baseurl}}/enabling-projects-projects/">these enabling projects</a>.
+These initiatives are supported by <a href="{{site.baseurl}}/enabling-projects/">these enabling projects</a>.
 
 {% comment %}
 WARNING: Don't remove the next comment nor the "start: focus areas" comment above. They are used for automated copying of this content to the-ai-alliance.github.com repo.
