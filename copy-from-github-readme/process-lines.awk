@@ -32,7 +32,7 @@ BEGIN {
 /href=".*\.md"/ {
     if (flag) { 
         a = gensub(/href="([^\.]*)\.md"/,
-            "href=\"{{site.baseurl}}/\\1/\"", "g", $0)
+            "href=\"{{site.baseurl}}/\\1-projects/\"", "g", $0)
         print a
     }
     next
@@ -42,7 +42,7 @@ BEGIN {
 /\(.*\.md\)/ {
     if (flag) { 
         a = gensub(/\(([^\.]*)\.md\)/,
-            "({{site.baseurl}}/\\1/)", "g", $0)
+            "({{site.baseurl}}/\\1-projects/)", "g", $0)
         print a
     }
     next

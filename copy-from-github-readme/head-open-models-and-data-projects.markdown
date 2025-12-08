@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Open Models and Data
+title: Open Models and Data Initiative Projects
 nav_order: 30
 has_children: false
 ---

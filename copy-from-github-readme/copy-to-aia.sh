@@ -15,8 +15,8 @@ DIR=$(dirname $0)
 
 declare -A srcs_targs
 srcs_targs[README.md]=index.markdown
-srcs_targs[open-agent-hub.md]=open-agent-hub.markdown
-srcs_targs[open-models-and-data.md]=open-models-and-data.markdown
+srcs_targs[open-agent-hub.md]=open-agent-hub-projects.markdown
+srcs_targs[open-models-and-data.md]=open-models-and-data-projects.markdown
 srcs_targs[enabling-projects.md]=enabling-projects.markdown
 
 srcs=(${(k)srcs_targs})

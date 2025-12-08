@@ -40,17 +40,17 @@ WARNING: Don't remove the next comment nor the "end: focus areas" comment below.
       </tr>
       <tr>
         <td colspan="2">
-          <a href="{{site.baseurl}}/open-agent-hub/">Key Projects</a>
+          <a href="{{site.baseurl}}/open-agent-hub-projects/">Key Projects</a>
         </td>
         <td colspan="2">
-          <a href="{{site.baseurl}}/open-models-and-data/">Key Projects</a>
+          <a href="{{site.baseurl}}/open-models-and-data-projects/">Key Projects</a>
         </td>
       </tr>
     </tbody>
   </table>
 </div>
 
-These initiatives are supported by <a href="{{site.baseurl}}/enabling-projects/">these enabling projects</a>.
+These initiatives are supported by <a href="{{site.baseurl}}/enabling-projects-projects/">these enabling projects</a>.
 
 {% comment %}
 WARNING: Don't remove the next comment nor the "start: focus areas" comment above. They are used for automated copying of this content to the-ai-alliance.github.com repo.
@@ -72,7 +72,7 @@ Come meet us and learn about AI! See our [full list](https://thealliance.ai/even
 
 ## Additional Information
 * The [AI Alliance GitHub Organization](https://github.com/The-AI-Alliance/){:target="_blank"}:
-    * Learn more about getting involved in our [community](https://thealliance.ai/community). In particular, see our [Contributing](https://github.com/The-AI-Alliance/community/CONTRIBUTING.md) guide and the [full list](https://github.com/The-AI-Alliance/community/tree/main/events){:target="community"} of Alliance-sponsored and third-party AI events.
+    * Learn more about getting involved in our [community](https://thealliance.ai/community). In particular, see our [Contributing](https://github.com/The-AI-Alliance/community/CONTRIBUTING.md) guide and the [full list](https://github.com/The-AI-Alliance/community/tree/main/events) of Alliance-sponsored and third-party AI events.
     * A [glossary of terms](https://github.com/The-AI-Alliance/glossary){:target="_blank"} is shared by many of these websites.
     * The [microsite template](https://github.com/The-AI-Alliance/microsite-template): The template used for Alliance projects, including all the websites listed above. See the [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md) for instructions.
 * The [AI Alliance website](https://aialliance.org){:target="_blank"}: About the AI Alliance, our goals and initiatives.
