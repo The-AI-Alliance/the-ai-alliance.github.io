@@ -1,6 +1,9 @@
 # Run with gawk -f process-lines.awk ../../.github/profile/*.md > index.*.md (obviously one file at a time...)
 
 BEGIN {
+    # This flag is a leftover from when we searched for "start" and
+    # "end" lines in the source file. See the next two code blocks 
+    # that are commented out.
     flag = 1 
 }
 
