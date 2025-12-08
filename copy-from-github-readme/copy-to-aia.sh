@@ -17,6 +17,7 @@ declare -A srcs_targs
 srcs_targs[README.md]=index.markdown
 srcs_targs[open-agent-hub.md]=open-agent-hub.markdown
 srcs_targs[open-models-and-data.md]=open-models-and-data.markdown
+srcs_targs[enabling-projects.md]=enabling-projects.markdown
 
 srcs=(${(k)srcs_targs})
 targs=(${(v)srcs_targs})
@@ -105,13 +106,13 @@ process() {
     if [[ -n $NOOP ]]
     then
         $NOOP "gawk -f $DIR/process-lines.awk $src_file > $temp_src_file"
-        $NOOP "cat $DIR/head-${rel_targ_file} $temp_src_file $DIR/tail-${rel_targ_file} > $temp_targ_file"
+        $NOOP "cat $DIR/head-${rel_targ_file} $temp_src_file > $temp_targ_file"
         $NOOP "cp $temp_targ_file $targ_file"
     else
         info "Reading $src_file and writing to temporary file $temp_src_file:"
         gawk -f "$DIR/process-lines.awk" $src_file > $temp_src_file
         info "Updating $targ_file..."
-        cat  "$DIR/head-${rel_targ_file}" "$temp_src_file" "$DIR/tail-${rel_targ_file}" > "$temp_targ_file"
+        cat  "$DIR/head-${rel_targ_file}" "$temp_src_file" > "$temp_targ_file"
         cp   "$temp_targ_file" "$targ_file"
     fi
 }
