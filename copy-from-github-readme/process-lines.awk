@@ -1,4 +1,4 @@
-# Run with gawk -f process-lines.awk ../../.github/profile/README.md > index.tmp.md
+# Run with gawk -f process-lines.awk ../../.github/profile/*.md > index.*.md (obviously one file at a time...)
 
 BEGIN {
 
