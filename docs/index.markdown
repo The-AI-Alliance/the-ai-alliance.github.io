@@ -20,9 +20,9 @@ Listed here are **Managed Projects**, which are owned by the AI Alliance and ind
   <table>
     <thead>
       <tr>
-        <th class="project-title">Open Agent Hub</th>
-        <th class="project-title">Open Data and Model Foundry</th>
-        <th class="project-title">Safety, Governance, and Education</th>
+        <th class="project-title" style="width: 33%;">Open Agent Hub</th>
+        <th class="project-title" style="width: 33%;">Open Data and Model Foundry</th>
+        <th class="project-title" style="width: 33%;">Safety, Governance, and Education</th>
       </tr>
     </thead>
     <tbody>
