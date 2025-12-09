@@ -21,7 +21,7 @@ Listed here are **Managed Projects**, which are owned by the AI Alliance and ind
     <thead>
       <tr>
         <th class="project-title">Open Agent Hub</th>
-        <th class="project-title">Open Models and Data</th>
+        <th class="project-title">Open Data and Model Foundry</th>
         <th class="project-title">Safety, Governance, and Education</th>
       </tr>
     </thead>
@@ -31,10 +31,10 @@ Listed here are **Managed Projects**, which are owned by the AI Alliance and ind
           The <a href="https://the-ai-alliance.github.io/open-agent-hub/" target="_blank">Open Agent Hub</a> is a collaborative community of open-source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference architectures and implementations, and to build out new tools for development and deployment.
         </td>
         <td>
-          The Open Models and Data Initiative is building models needed for enabling successful deployment of agents in production across domains and use cases. Good datasets are essential for training and tuning good models and for agent-based applications. The AI Alliance is cataloging permissive data sets and helping to build new ones where needed, where they have clear licenses for open use, backed by unambiguous provenance and governance constraints.
+          The Open Data and Model Foundry is building models needed for enabling successful deployment of agents in production across domains and use cases. Good datasets are essential for training and tuning good models and for agent-based applications. The AI Alliance is cataloging permissive data sets and helping to build new ones where needed, where they have clear licenses for open use, backed by unambiguous provenance and governance constraints.
         </td>
         <td>
-          In order for the objectives of the <strong>Open Agent Hub</strong> and the <strong>Open Models and Data Initiative</strong> to be achieved, fundamental requirements must be met for safety, governance, and the expertise required to use AI technologies effectively.
+          In order for the objectives of the <strong>Open Agent Hub</strong> and the <strong>Open Data and Model Foundry</strong> to be achieved, fundamental requirements must be met for safety, governance, and the expertise required to use AI technologies effectively.
         </td>
       </tr>
       <tr>
@@ -42,7 +42,7 @@ Listed here are **Managed Projects**, which are owned by the AI Alliance and ind
           <a href="{{site.baseurl}}/open-agent-hub-projects/">Key Projects</a>
         </td>
         <td>
-          <a href="{{site.baseurl}}/open-models-and-data-projects/">Key Projects</a>
+          <a href="{{site.baseurl}}/open-data-and-model-foundry-projects/">Key Projects</a>
         </td>
         <td>
           <a href="{{site.baseurl}}/safety-governance-education-projects/">Key Projects</a>
