@@ -74,7 +74,7 @@ WARNING: Don't remove the next comment nor the "end: shared" comment below. They
           <a href="https://the-ai-alliance.github.io/ai-application-testing/"><em>Testing Generative AI Applications</em></a>,
           <a href="https://the-ai-alliance.github.io/trust-safety-user-guide/"><em>The AI Trust and Safety User Guide</em></a>,
           <a href="https://servicenow.github.io/DoomArena/">DoomArena</a>,
-          <a href="https://www.unitxt.ai/">unitxt</a>, <a href="{{site.baseurl}}/project-details/#enabling-projects"><strong>more details...</strong></a> 
+          <a href="https://www.unitxt.ai/">unitxt</a>, <a href="{{site.baseurl}}/project-details/#safety-governance-education-projects"><strong>more details...</strong></a> 
         </td>
       </tr>
     </tbody>

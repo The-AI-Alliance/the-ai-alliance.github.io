@@ -17,7 +17,7 @@ declare -A srcs_targs
 srcs_targs[README.md]=index.markdown
 srcs_targs[open-agent-hub-projects.md]=open-agent-hub-projects.markdown
 srcs_targs[open-models-and-data-projects.md]=open-models-and-data-projects.markdown
-srcs_targs[enabling-projects.md]=enabling-projects.markdown
+srcs_targs[safety-governance-education-projects.md]=safety-governance-education-projects.markdown
 
 srcs=(${(k)srcs_targs})
 targs=(${(v)srcs_targs})

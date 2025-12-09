@@ -577,3 +577,43 @@ AI Alliance members are [contributing directly](https://thealliance.ai/blog/ai-a
     </tbody>
   </table>
 </div>
+
+## Deployment and Scaling
+
+[Deploying and scaling AI systems](https://thealliance.ai/focus-areas/hardware-enablement){:target="_blank"} is critical for cost-effective use of AI. There is the growing diversity of hardware accelerators for AI, not only for servers, but for edge devices, too. Developers want the ability to write AI applications that efficiently and transparently scale across different deployment scenarios, from PoCs and single-node deployments on development laptops and edge devices, up to large-scale clustered deployments supporting many users.
+
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th>Links</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/ai-accelerator-software-ecosystem-guide/" target="_blank">The AI Accelerator Software Ecosystem Guide</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/ai-accelerator-software-ecosystem-guide/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          A guide to the most common AI accelerators and the software stacks they use to integrate with tools you know, like PyTorch.
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
