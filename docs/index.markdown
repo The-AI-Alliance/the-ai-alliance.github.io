@@ -67,7 +67,7 @@ Come meet us and learn about AI! See our [full list](https://thealliance.ai/even
 
 ## Additional Information
 * The [AI Alliance GitHub Organization](https://github.com/The-AI-Alliance/){:target="_blank"}:
-    * Learn more about getting involved in our [community](https://thealliance.ai/community). In particular, see our [Contributing](https://github.com/The-AI-Alliance/community/CONTRIBUTING.md) guide and the [full list](https://github.com/The-AI-Alliance/community/tree/main/events) of Alliance-sponsored and third-party AI events.
+    * Learn more about getting involved in our [community](https://thealliance.ai/community). In particular, see our [Contributing](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md) guide and the [full list](https://github.com/The-AI-Alliance/community/tree/main/events) of Alliance-sponsored and third-party AI events.
     * A [glossary of terms](https://github.com/The-AI-Alliance/glossary){:target="_blank"} is shared by many of these websites.
     * The [microsite template](https://github.com/The-AI-Alliance/microsite-template): The template used for Alliance projects, including all the websites listed above. See the [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md) for instructions.
 * The [AI Alliance website](https://aialliance.org){:target="_blank"}: About the AI Alliance, our goals and initiatives.
