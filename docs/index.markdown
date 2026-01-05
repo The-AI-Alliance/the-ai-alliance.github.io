@@ -34,6 +34,8 @@ We don’t just want to [host your project](https://github.com/The-AI-Alliance/c
 
 Both types of projects are committed to transparency and permissive use licensing, and they are open to the community for [new contributors](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md), but without inflexible requirements for IP transfer and rule by committee. Learn more about our [project governance](https://thealliance.ai/governance).
 
+<a id="project-categories"></a>
+
 The core and supported projects are grouped into the following categories:
 
 <div class="table-wrapper">
