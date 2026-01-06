@@ -27,6 +27,10 @@ Where the arguments are the following:
 path1 ...              Check these paths. Directories will be visited recursively.
                        Default: All markdown and HTML files under "$default_path",
                        excluding files under "_site" and "_sass".
+
+NOTES: 
+1. Skips files found under "temp", "tmp", "_site", and "_sass" directories.
+2. Falsely flags some image URLs.
 EOF
 }
 
@@ -80,10 +84,12 @@ do
 	fi
 	$eg -nHoR '\(https?[^)]+\)(\S*)' \
 		--include '*.markdown' --include '*.md' \
+		--exclude-dir 'temp' --exclude-dir 'tmp' \
 		--exclude-dir '_site' --exclude-dir '_sass' \
 		$path | $eg -v 'target='
 	$eg -nHoR '\(\{\{site.glossaryurl\}\}[^)]*\)(\S*)' \
 		--include '*.markdown' --include '*.md' \
+		--exclude-dir 'temp' --exclude-dir 'tmp' \
 		--exclude-dir '_site' --exclude-dir '_sass' \
 		$path | $eg -v 'target='
 done

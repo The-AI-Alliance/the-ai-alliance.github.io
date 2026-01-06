@@ -20,16 +20,16 @@ BEGIN {
 
 # Already has the target (but this could miss lines with more 
 # than one anchor!)
-/target="_blank"/ {  
-    if (flag) {
-        print $0;
-    }
-    next
-}
+# /target="_blank"/ {  
+#     if (flag) {
+#         print $0;
+#     }
+#     next
+# }
 
-# Hack: fix cross references to ".md" pages, which now should be "/"
-# and have "{{site.baseurl}}/.
-/href=".*\.md"/ {
+# Hack: fix RELATIVE (i.e., don't start with http) cross references to 
+# ".md" pages, which now should be "/" and have "{{site.baseurl}}/.
+/href="[^h].*\.md"/ {
     if (flag) { 
         a = gensub(/href="([^\.]*)\.md"/,
             "href=\"{{site.baseurl}}/\\1/\"", "g", $0)
@@ -39,7 +39,7 @@ BEGIN {
 }
 
 # Same hack for Markdown...
-/\(.*\.md\)/ {
+/\([^h].*\.md\)/ {
     if (flag) { 
         a = gensub(/\(([^\.]*)\.md\)/,
             "({{site.baseurl}}/\\1/)", "g", $0)
@@ -68,7 +68,7 @@ BEGIN {
         if (nosubs > 0) {
             print $0
         } else {
-            a = gensub(/(\(https*:[^)]*\))/, "\\1{:target=\"_blank\"}", "g", $0)
+            a = gensub(/(\(https*:[^)]*\))([^{])/, "\\1{:target=\"_blank\"}\\2", "g", $0)
             b = gensub(/(href="https*:[^"]*")/, "\\1 target=\"_blank\"", "g", a)
             c = gensub(/<!--/, "{% comment %}", "g", b)
             d = gensub(/-->/, "{% endcomment %}", "g", c)
