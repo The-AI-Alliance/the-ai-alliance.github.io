@@ -222,6 +222,39 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-fina
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
+          <a href="https://aitomatic.github.io/dana/" target="_blank">Dana — The Agent-Native Evolution of AI Development</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/aitomatic/dana" target="_blank" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/aitomatic/dana/issues" target="_blank" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://thealliance.ai/blog/the-ai-alliance-releases-new-ai-powered-programmin" target="_blank" target="_blank">blog post</a>
+            </li>
+            {% comment %}
+            <li>
+              <a href="https://www.linkedin.com/posts/ctnguyen_aialliance-danalanguage-opendxa-activity-7344578841706708992-_c3X)" target="_blank" target="_blank">announcement</a>
+            </li>
+            <li>
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSewvrs-L1XEabZWxljO8ogB4236HMNxzieQt6E4eXON8sPC_g/viewform?pli=1" target="_blank">Interest form</a>
+            </li>
+            {% endcomment %}
+          </ul>
+        </td>
+        <td>
+          <em>Dana</em> is based on the question, &ldquo;What if your agents could learn, adapt, and improve itself in production—without you?&rdquo;
+          <br/><br/>
+          Dana bridges the gap between AI coding assistance and autonomous agents through agent-native programming: native <code>agent</code>primitives, context-aware <code>reason()</code> calls that adapt output types automatically, self-improving pipelines with compositional <code>|</code> (&ldquo;pipe&rdquo;) operators, and functions that evolve through POET feedback loops (an automated prompt improvement technique). (Principal developer: <a href="https://aitomatic.com/" target="_blank">Aitomatic</a>)
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
           <a href="https://github.com/The-AI-Alliance/cube-standard/" target="_blank">CUBE Standard</a>
         </td>
       </tr>
@@ -262,39 +295,6 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-fina
           <em>AgentLab2</em> is an open-source framework and research initiative for building and evaluating UI agents.
           <br/><br/>
           (Principal developer: <a href="https://servicenow.com/" target="_blank">ServiceNow</a>)
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://aitomatic.github.io/dana/" target="_blank">Dana — The Agent-Native Evolution of AI Development</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/aitomatic/dana" target="_blank" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/aitomatic/dana/issues" target="_blank" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://thealliance.ai/blog/the-ai-alliance-releases-new-ai-powered-programmin" target="_blank" target="_blank">blog post</a>
-            </li>
-            {% comment %}
-            <li>
-              <a href="https://www.linkedin.com/posts/ctnguyen_aialliance-danalanguage-opendxa-activity-7344578841706708992-_c3X)" target="_blank" target="_blank">announcement</a>
-            </li>
-            <li>
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLSewvrs-L1XEabZWxljO8ogB4236HMNxzieQt6E4eXON8sPC_g/viewform?pli=1" target="_blank">Interest form</a>
-            </li>
-            {% endcomment %}
-          </ul>
-        </td>
-        <td>
-          <em>Dana</em> is based on the question, &ldquo;What if your agents could learn, adapt, and improve itself in production—without you?&rdquo;
-          <br/><br/>
-          Dana bridges the gap between AI coding assistance and autonomous agents through agent-native programming: native <code>agent</code>primitives, context-aware <code>reason()</code> calls that adapt output types automatically, self-improving pipelines with compositional <code>|</code> (&ldquo;pipe&rdquo;) operators, and functions that evolve through POET feedback loops (an automated prompt improvement technique). (Principal developer: <a href="https://aitomatic.com/" target="_blank">Aitomatic</a>)
         </td>
       </tr>
     </tbody>
