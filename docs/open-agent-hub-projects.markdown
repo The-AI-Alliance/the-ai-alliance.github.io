@@ -53,7 +53,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:targ
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/enterprise-MCP/" target="_blank">MCP in the Enterprise: A User Guide</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/><a href="#footnote-1"><sup>1</sup></a>
+          <a href="https://the-ai-alliance.github.io/enterprise-MCP/" target="_blank">MCP (and Beyond) in the Enterprise: A User Guide</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/><a href="#footnote-1"><sup>1</sup></a>
         </td>
       </tr>
       <tr>
@@ -74,7 +74,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:targ
           </ul>
         </td>
         <td>
-           MCP has enormous potential to accelerate AI adoption in enterprises. This "living" user guide features chapters written by experts on various aspects of deploying, managing, and using MCP successfully in enterprise settings. It contains the first several chapters with many more coming soon. (<a href="https://the-ai-alliance.github.io/enterprise-MCP/contributing/" target="_blank">Contributions are welcome!</a>.)
+           Model Context Protocol (MCP) has enormous potential to accelerate AI adoption in enterprises. Alternative protocols and complementary tools are also emerging rapidly. This "living" user guide features chapters written by experts on various aspects of deploying, managing, and using these tools successfully in enterprise settings. It contains the first several chapters with many more coming soon. (<a href="https://the-ai-alliance.github.io/enterprise-MCP/contributing/" target="_blank">Contributions are welcome!</a>.)
         </td>
       </tr>
       <tr>
@@ -161,7 +161,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:targ
 
 ### The NLIP Project
 
-The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> is facilitating the development of an open-source protocol for intelligent agents to communicate with each other and with humans using natural language. The <a href="https://the-ai-alliance.github.io/enterprise-MCP/" target="_blank">MCP in the Enterprise: A User Guide</a>, discussed <a href="#model-context-protocol-section">above</a> has a chapter on NLIP.
+The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> is facilitating the development of an open-source protocol for intelligent agents to communicate with each other and with humans using natural language. The <a href="https://the-ai-alliance.github.io/enterprise-MCP/" target="_blank">MCP (and Beyond) in the Enterprise: A User Guide</a>, discussed <a href="#model-context-protocol-section">above</a> has a chapter on NLIP.
 
 <div class="table-wrapper">
   <table>
