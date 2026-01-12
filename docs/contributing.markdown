@@ -10,6 +10,4 @@ We welcome your contributions! Visit the Alliance [`community` repo](https://git
 
 ## Join a Work Group
 
-Are you interested in joining a project's work group? Use the form on the Alliance's [Become a Collaborator](https://thealliance.ai/become-a-collaborator){:target="join-collab"} page to let us know your interests. Check the boxes that look most appropriate and describe your particular interests in the _Message_ box.
-
-If your organization would like to join the AI Alliance, go [here](https://thealliance.ai/membership){:target="join-org"}.
+Are you interested in joining a project's work group or other Alliance efforts? Visit the [Alliance website](https://www.aialliance.org/join){:target="aia"} page to let us know your interests.
