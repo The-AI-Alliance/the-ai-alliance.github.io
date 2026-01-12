@@ -86,10 +86,13 @@ The AI Alliance is a global organization. However, localization matters and is k
 ## Events
 Come meet us and learn about AI! See our [full list](https://thealliance.ai/events){:target="_blank"} of Alliance-sponsored and third-party AI events.
 
-
 ## Additional Information
-* The [AI Alliance GitHub Organization](https://github.com/The-AI-Alliance/){:target="_blank"}:
-    * Learn more about getting involved in our [community](https://thealliance.ai/community){:target="_blank"}. In particular, see our [Contributing](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md){:target="_blank"} guide and the [full list](https://github.com/The-AI-Alliance/community/tree/main/events){:target="_blank"} of Alliance-sponsored and third-party AI events.
-    * A [glossary of terms](https://the-ai-alliance.github.io/glossary/glossary/) is used by many of these websites.
-    * The [microsite template](https://github.com/The-AI-Alliance/microsite-template){:target="_blank"}: The template used for Alliance projects, including all the websites listed above. See the [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md){:target="_blank"} for instructions.
+
 * The [AI Alliance website](https://aialliance.org){:target="_blank"}: About the AI Alliance, our goals and initiatives.
+* Learn more about getting involved in our [community](https://www.aialliance.org/join){:target="_blank"}. In particular. See also:
+  * Our [Contributing](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md){:target="_blank"} guide.
+  * The [full list](https://github.com/The-AI-Alliance/community/tree/main/events){:target="_blank"} of Alliance-sponsored and third-party AI events
+  * Other resources in our [community GitHub repo](https://github.com/The-AI-Alliance/community){:target="_blank"}.
+* The [AI Alliance GitHub Organization](https://github.com/The-AI-Alliance/){:target="_blank"}:
+    * A [glossary of terms](https://the-ai-alliance.github.io/glossary/glossary/){:target="_blank"} is used by many of these websites.
+    * The [microsite template](https://github.com/The-AI-Alliance/microsite-template){:target="_blank"}: The template used for Alliance projects, including all the websites listed above. See the [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md){:target="_blank"} for instructions.
