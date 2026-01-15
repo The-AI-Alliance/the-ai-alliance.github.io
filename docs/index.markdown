@@ -57,7 +57,7 @@ The core and supported projects are grouped into the following categories:
           The Open Data and Model Foundry is building models needed for enabling successful deployment of agents in production across domains and use cases. Good datasets are essential for training and tuning good models and for agent-based applications. The AI Alliance is cataloging permissive data sets and helping to build new ones where needed, where they have clear licenses for open use, backed by unambiguous provenance and governance constraints.
         </td>
         <td>
-          In order for the objectives of the <strong>Open Agent Hub</strong> and the <strong>Open Data and Model Foundry</strong> to be achieved, fundamental requirements must be met for safety, governance, and the expertise required to use AI technologies effectively.
+          In order for the objectives of the <strong>Open Agent Hub</strong> and the <strong>Open Data and Model Foundry</strong> to be achieved, fundamental requirements must be met for safety, governance, and the expertise required to use AI technologies effectively. You will also find resources for <a href="https://the-ai-alliance.github.io/academic-resources-for-AI/" target="_blank">AI in teaching and research</a> here, too.
         </td>
       </tr>
       <tr>

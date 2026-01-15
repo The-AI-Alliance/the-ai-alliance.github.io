@@ -22,6 +22,8 @@ Finally, **Education** addresses the needs where organizations struggle to learn
 
 The following projects address these concerns.
 
+## Safety and Governance
+
 <div class="table-wrapper">
   <table>
     <thead>
@@ -237,3 +239,42 @@ The following projects address these concerns.
     </tbody>
   </table>
 </div>
+
+## AI in Education and Research
+
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th>Links</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/academic-resources-for-AI/" target="_blank">Academic Resources for AI</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/academic-resources-for-AI" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/academic-resources-for-AI/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/academic-resources-for-AI/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          A growing catalog of publicly-available resources on how to safely and effectively use AI in education and research. These resources include guidelines adopted at various institutions, courseware, degree programs, research on AI effectiveness in these contexts, etc.
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
