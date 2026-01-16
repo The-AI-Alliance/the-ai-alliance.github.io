@@ -105,6 +105,9 @@ Enter a name. Use your github user name with the `.markdown` extension, like thi
 
 The contents of the file go where it says _Enter file contents here_. Copy and paste the following "block" of text into that text field; yes the colors look strange here, but that's because some styles are being interpreted when they shouldn't be, which affects the colors:
 
+{% assign lbrace2 = '{{' %}
+{% assign rbrace2 = '}}' %}
+
 ```markdown
 ---
 layout: default
@@ -127,7 +130,7 @@ Welcome to the **The AI Alliance**: **Markdown Practice**.
 > **IMPORTANT:** The "boilerplate" text on this page mixes content you might want to use, as well as tips on writing Markdown. See also the comments in the source files. Make sure you search for and change all TODOs on all the pages!
 
 {: .note }
-> **NOTE:** Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
+> **NOTE:** Please join us! See our [contributing]({{lbrace2}}site.baseurl{{rbrace2}}/contributing) page for details.
 
 {: .warning }
 > **WARNING!** This is a warning!
@@ -136,44 +139,48 @@ A _generic_ quote:
 
 > Shakespeare once wrote, "Heavy is the head that wears the crown."
 
-Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
+Please join us! See our [contributing]({{lbrace2}}site.baseurl{{rbrace2}}/contributing) page for details.
 
 This site is organized into the following sections [^1] (with an example footnote):
 
-* [TODO - second top-level page]({{site.baseurl}}/second_page)
+* [TODO - second top-level page]({{lbrace2}}site.baseurl{{rbrace2}}/second_page)
     * [alternative link](second_page)
-* [TODO - nested]({{site.baseurl}}/nested/nested)
+* [TODO - nested]({{lbrace2}}site.baseurl{{rbrace2}}/nested/nested)
 ```
 
-Note how relative links are written. For siblings (like the next set of bullets...) or subpages, you don't have to use the `{{site.baseurl}}` prefix (like the `alternative link`), but use `{{site.baseurl}}` instead of relative navigation hacks like `../../foo/bar`.
+Note how relative links are written. For siblings (like the next set of bullets...) or subpages, you don't have to use the `{{lbrace2}}site.baseurl{{rbrace2}}` prefix (like the `alternative link`), but use `{{lbrace2}}site.baseurl{{rbrace2}}` instead of relative navigation hacks like `../../foo/bar`.
 
 > {: .tip}
-> **TIP:** `site.baseurl` is a variable `baseurl` defined `site`-wide in `docs/_config.yml` for each website. `{{site.baseurl}}` tells Jekyll to insert the definition of this variable inline in the generated HTML content for the page. 
->
-> There are also page variables defined in the YAML block at the top of the Markdown files, as shown in the previous example:
->
-> ```markdown
-> ---
-> layout: default
-> title: Home
-> nav_order: 10
-> has_children: false
-> ---
-> 
-> For example, `layout` tells Jekyll to use the "default" layout file (which is resolved to `docs/_layouts/default.html`). You could reference this variable in the page content below using `{{page.layout}}`.
+> **TIP:** 
+> `site.baseurl` is a variable `baseurl` in the templating language [liquid](https://shopify.github.io/liquid/){:target="liq"} Jekyll uses. It is defined `site`-wide in `docs/_config.yml`. Wrapping in double curly braces, `{{lbrace2}}site.baseurl{{rbrace2}}`, tells liquid to insert the definition of this variable inline in the generated HTML content for the page. This particular variable resolves to the root for the website. We rely on it because when you run the website on your local machine, this value will be `http://localhost:4000`, _but_ when the site is published, it will be `https://the-ai-alliance.github.io/REPO_NAME` (where `REPO_NAME` is `open-trusted-data-initiative` for the OTDI site, for example). Hence, if you write a relative link `[other](/other)`, it will render correctly on your local machine, but **not** when published!!
 
+There are also page variables defined in the YAML block at the top of the Markdown files, as shown in the previous example:
+
+```markdown
+---
+layout: default
+title: Home
+nav_order: 10
+has_children: false
+---
+```
+
+For example, `layout` tells Jekyll to use the "default" layout file (which is resolved to `docs/_layouts/default.html`). You could reference this variable in the page content using `{{lbrace2}}page.layout{{rbrace2}}`.
+
+More of the `index.markdown` content:
+
+```markdown
 ## Section Two
 
 Additional links: [^2]
 
-* [Contributing]({{site.baseurl}}/contributing): We welcome your contributions! Here's how you can contribute.
-* [About Us]({{site.baseurl}}/about): More about the AI Alliance and this project.
+* [Contributing]({{lbrace2}}site.baseurl{{rbrace2}}/contributing): We welcome your contributions! Here's how you can contribute.
+* [About Us]({{lbrace2}}site.baseurl{{rbrace2}}/about): More about the AI Alliance and this project.
 * [The AI Alliance](https://www.aialliance.org){:target="aia"}: The AI Alliance website.
 * [Project GitHub Repo](https://github.com/The-AI-Alliance/markdown-practice){:target="_blank"}
 
 Note our convention that external URLs include a target, specified with `{:target="some_name"}`. Adding these targets means browsers will automatically open external links in a new tab. You will also notice that external links get a little box and arrow adornment. This is done automatically through a clever CSS hack in `docs/_includes/css/custom.scss.liquid`.
 
-```markdown
 A table example using standard Markdown and showing how to set the desired alignment. (The extra whitespace in the source is only for easier readability.):
 
 | Column 1 (Left Aligned) | Column 2 (Centered) | Column 3 (Numbers - Right Aligned) |
@@ -263,12 +270,12 @@ The `shell` is optional; when the block is code from a particular programming la
 
 Note how the hyperlinks are specified. Two useful examples are shown:
 
+* `[Contributors]({{lbrace2}}site.baseurl{{rbrace2}}/contributing/#contributors)`
 * `[Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety){:target="_blank"}`
-* `[Contributors](`&#123;&#123;`site.baseurl`&#125;&#125;`/contributing/#contributors)`
 
-The basic format is `[label](URL)`. For URLs that are _internal links_, like the second one shown, meaning links within the same site, use `baseurl/path/relative/to/docs`. Here, &#123;&#123;`site.baseurl`&#125;&#125; is a _Jekyll_ programming idiom that will be replaced with the correct root part of the full path. (For technical reasons, don't just use `[Contributors](/contributing/#contributors)` for paths relative to the website "root".)
+The basic format is `[label](URL)`. For URLs that are _internal links_, like the first one shown, meaning links within the same site, use `{{lbrace2}}site.baseurl{{rbrace2}}/path/relative/to/docs`. We discussed why we use this idiom in a **TIP** above. As a reminder, don't just use `[Contributors](/contributing/#contributors)` for paths relative to the website "root", because this will work when you run locally, but **not** when the site is published!
 
-The first link shown goes to an external site and specifies a conventional `https://...` URL. Note the `{:target="_blank"}` at the end. _This is a special feature of GitHub Pages that isn't available in most other Markdown flavors._
+The second link example goes to an external site and specifies a conventional `https://...` URL. Note the `{:target="_blank"}` at the end. _This is a special feature of GitHub Pages that isn't available in most other Markdown flavors._
 
 It's purpose is to render the hyperlink like this: 
 
@@ -276,7 +283,10 @@ It's purpose is to render the hyperlink like this:
 <a href="https://thealliance.ai/focus-areas/trust-and-safety" target="_blank">Trust and Safety</a>
 ```
 
-The `target` tells the browser to open the link in a new window or tab. The value can be anything, but it is common to use `_blank`, which some browsers will interpret as "use a unique tab everytime" (but not Firefox...). Our convention is to do this for all external links, but not internal links. Unfortunately, this means adding the tedious `{:target="_blank"}` content to each and every external link. _You should decide if you want this for your site._ At least include or omit this directive consistently...
+You may already know that the `target` in an anchor (`<a>`) tag tells the browser to open the link in a new window or tab, named `_blank` in this case. The value can be anything, but it is a convention to use `_blank`, which some browsers will interpret as "use a unique tab every time" (but not Firefox, FYI!). Our convention is to add `targets` for all external links, but it doesn't make sense for internal links. Unfortunately, this means adding the tedious `{:target="_blank"}` content to each and every external link. _You should decide if you want this for your site._ At least include or omit this directive consistently...
+
+{: .tip}
+> **TIP:** There is a script in each microsite's root directory called `check-external-links.sh` that can detect missing `targets`. It can't fix the links, but it will show you where they are. Run it with `--help` for details.
 
 There is one other useful link format, e.g., [save your work](#save-your-work), written `[save your work](#save-your-work)`.
 
@@ -299,7 +309,7 @@ _Just the Docs_ has some nicer styles that can be used instead, in theory, but w
 Here is what they look like:
 
 {: .attention }
-> Put something in a "highlighted" box with an optional label (not used in the example).
+> Put something in a "highlighted" box with an optional label.
 
 {: .tip }
 > **TIP:** Use the search box at the top of this page to find specific content.
@@ -317,6 +327,8 @@ A _generic_ quote:
 
 > Shakespeare once wrote, "Heavy is the head that wears the crown."
 
+(Really, they all look the same except for the background color...)
+
 This is the markdown used, which I also had you paste into your page at the beginning of this tutorial. Note that `>` is required, with an optional "label", like **TIP:** and they specify a _CSS class_, e.g., `{: .tip }`:
 
 ```markdown
@@ -330,7 +342,7 @@ This is the markdown used, which I also had you paste into your page at the begi
 > **IMPORTANT:** The "boilerplate" text on this page mixes content you might want to use, as well as tips on writing Markdown. See also the comments in the source files. Make sure you search for and change all TODOs on all the pages!
 
 {: .note }
-> **NOTE:** Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
+> **NOTE:** Please join us! See our [contributing]({{lbrace2}}site.baseurl{{rbrace2}}/contributing) page for details.
 
 {: .warning }
 > **WARNING!** This is a warning!
