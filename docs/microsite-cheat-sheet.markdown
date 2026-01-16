@@ -43,7 +43,7 @@ The editors with _vim_ or _emacs_ in their names will have a bigger learning cur
 
 ## Using the Microsite Template
 
-To create a new website, open the [`microsite-template` repo page](https://github.com/The-AI-Alliance/microsite-template){:target="_blank"}. On the upper right-hand side, click the green menu button, _Use this template_, then select _Create a new repository_.
+To create a new website, open the `microsite-template` [repo](https://github.com/The-AI-Alliance/microsite-template){:target="gh"}. On the upper right-hand side, click the green menu button, _Use this template_, then select _Create a new repository_.
 
 * Leave _Include all branches_ unchecked.
 * Pick the _The-AI-Alliance_ GitHub organization. (It might default to your personal account...)
@@ -52,7 +52,9 @@ To create a new website, open the [`microsite-template` repo page](https://githu
 * Select _Public_ or _Private_. Most sites should be public, but you may wish to edit the content before making it public. (Note that the more detailed instructions in the `microsite-template` repo for publishing the website won't work until the repo is public.)
 * Click _Create repository_.
 
-Now clone the site locally. 
+The rest of the following instructions complement the `microsite-template`'s [README-instructions.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-instructions.md){:target="gh"} for finishing the process of setting up the microsite.
+
+Next, clone the site locally. 
 
 * Open the Terminal app.
 * Enter the following commands at the terminal prompt. Replace `my-site` with your chosen repository name in the following:
@@ -65,15 +67,15 @@ cd my-site
 Finish the initial edits by running a "shell" script, `./finish-microsite.sh`, that substitutes placeholders for desired string values.
 
 * Run `./finish-microsite.sh --help` to see the available options.
-* At a minimum, you'll need to decide on the human-readable title/name for your site and which focus area the project belongs to. I'll assume `fa3` in what follows. (If your microsite doesn't really belong to a single focus area, just pick the "closest" one and talk to Dean about fixing the details afterwards.)
+* At a minimum, you'll need to decide on the human-readable title/name for your site.
 
-Run this command, changing the title and work group, as appropriate. Note that we are using the `FA3` (Applications and Tools) work group in this example:
+Run this command, changing the title as appropriate:
 
 ```shell
-./finish-microsite.sh --microsite-title 'My Amazing Microsite' --work-group fa3
+./finish-microsite.sh --microsite-title 'My Amazing Microsite'
 ```
 
-See the additional instructions in [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md){:target="_blank"}. You'll need to edit a few files, push the changes _upstream_ to GitHub, and change some settings to publish your site. After that, you'll be able to do all edits to the site in the GitHub UI.
+See the additional instructions in [README-instructions.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-instructions.md){:target="_blank"} about files you'll need to edit, pushing the changes _upstream_ to GitHub, and changing some settings to publish your site. After that, you'll be able to do all edits to the site in the GitHub UI.
 
 The rest of this cheat sheet will focus on editing tips for the pages, including using the GitHub UI.
 
@@ -113,8 +115,6 @@ has_children: false
 
 # Markdown Practice
 
-| **Last Update** | V0.1.0, 2025-08-06 |
-
 Welcome to the **The AI Alliance**: **Markdown Practice**. 
 
 {: .highlight }
@@ -143,8 +143,24 @@ This site is organized into the following sections [^1] (with an example footnot
 * [TODO - second top-level page]({{site.baseurl}}/second_page)
     * [alternative link](second_page)
 * [TODO - nested]({{site.baseurl}}/nested/nested)
+```
 
 Note how relative links are written. For siblings (like the next set of bullets...) or subpages, you don't have to use the `{{site.baseurl}}` prefix (like the `alternative link`), but use `{{site.baseurl}}` instead of relative navigation hacks like `../../foo/bar`.
+
+> {: .tip}
+> **TIP:** `site.baseurl` is a variable `baseurl` defined `site`-wide in `docs/_config.yml` for each website. `{{site.baseurl}}` tells Jekyll to insert the definition of this variable inline in the generated HTML content for the page. 
+>
+> There are also page variables defined in the YAML block at the top of the Markdown files, as shown in the previous example:
+>
+> ```markdown
+> ---
+> layout: default
+> title: Home
+> nav_order: 10
+> has_children: false
+> ---
+> 
+> For example, `layout` tells Jekyll to use the "default" layout file (which is resolved to `docs/_layouts/default.html`). You could reference this variable in the page content below using `{{page.layout}}`.
 
 ## Section Two
 
@@ -157,6 +173,7 @@ Additional links: [^2]
 
 Note our convention that external URLs include a target, specified with `{:target="some_name"}`. Adding these targets means browsers will automatically open external links in a new tab. You will also notice that external links get a little box and arrow adornment. This is done automatically through a clever CSS hack in `docs/_includes/css/custom.scss.liquid`.
 
+```markdown
 A table example using standard Markdown and showing how to set the desired alignment. (The extra whitespace in the source is only for easier readability.):
 
 | Column 1 (Left Aligned) | Column 2 (Centered) | Column 3 (Numbers - Right Aligned) |
@@ -164,12 +181,6 @@ A table example using standard Markdown and showing how to set the desired align
 | text 1   | centered             | 1      |
 | text 2   | also centered        | 20     |
 | text 3   | and this is centered | 300    |
-
-### Version History
-
-| Version  | Date       |
-| :------- | :--------- |
-| V0.1.0   | 2025-08-06 |
 
 [^1]: Use `[^N]` (for increasing `N` values) to mark "footnote #N" in text, as shown above. This is an example footnote with a link to it from above, and a link at the end of the footnote to go back to the point in the text (the "curled" arrow). **WARNING**, you must include the colon in the footnote definition as shown here, `[^1]:`.
 [^2]: A second example footnote. Note that you don't need to put a blank line between them; they work like lists.
@@ -192,7 +203,7 @@ the default.html template file.
 </details>
 ```
 
-This is the default contents in the [`index.markdown`](https://github.com/The-AI-Alliance/markdown-practice/tree/main/docs/index.markdown){:target="_blank"} page. We'll work through and edit this content next.
+This is the default contents in the [`index.markdown`](https://github.com/The-AI-Alliance/markdown-practice/tree/main/docs/index.markdown){:target="_blank"} page (at the time of this writing...). We'll work through and edit this content next.
 
 ### Save Your Work
 
@@ -287,7 +298,7 @@ _Just the Docs_ has some nicer styles that can be used instead, in theory, but w
 
 Here is what they look like:
 
-{: .highlight }
+{: .attention }
 > Put something in a "highlighted" box with an optional label (not used in the example).
 
 {: .tip }
@@ -309,7 +320,7 @@ A _generic_ quote:
 This is the markdown used, which I also had you paste into your page at the beginning of this tutorial. Note that `>` is required, with an optional "label", like **TIP:** and they specify a _CSS class_, e.g., `{: .tip }`:
 
 ```markdown
-{: .highlight }
+{: .attention }
 > Put something in a "highlighted" box with an optional label (not used in the example).
 
 {: .tip }
