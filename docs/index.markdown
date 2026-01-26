@@ -33,7 +33,7 @@ We don’t just want to [host your project](https://github.com/The-AI-Alliance/c
 > * **Core Projects** are owned and managed by the AI Alliance. (They are indicated with the <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/> icon.)
 > * **Supported Projects** are owned and managed by an AI Alliance member organization with collaborators from other member organizations and beyond. 
 
-Both types of projects are committed to transparency and permissive use licensing, and they are open to the community for [new contributors](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md){:target="_blank"}, but without inflexible requirements for IP transfer and rule by committee. Learn more about our [project governance](https://thealliance.ai/governance){:target="_blank"}.
+Both types of projects are committed to transparency and permissive use licensing, and they are open to the community for [new contributors](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md){:target="_blank"}, but without inflexible requirements for IP transfer and rule by committee. Learn more about our [project governance](https://www.aialliance.org/governance){:target="_blank"}.
 
 <a id="project-categories"></a>
 

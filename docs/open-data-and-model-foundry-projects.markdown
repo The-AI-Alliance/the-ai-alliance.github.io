@@ -137,7 +137,7 @@ The AI Alliance is building new models for many domains and modalities at the in
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://thealliance.ai/focus-areas/foundation-models-datasets" target="_blank">Open Models</a>
+          <a href="https://www.aialliance.org/projects" target="_blank">Open Models</a>
         </td>
       </tr>
       <tr>
@@ -147,13 +147,13 @@ The AI Alliance is building new models for many domains and modalities at the in
           Several AI Alliance work groups are collaborating on the development of domain-specific models:
           <ul>
             <li>
-              <a href="https://www.semikong.ai/" target="_blank">Semikong</a> - The world's first open LLM tuned specifically for the semiconductor industry. (Principal developers: <a href="https://aitomatic.com/" target="_blank">Aitomatic</a>, <a href="https://www.tel.com/" target="_blank">Tokyo Electron Ltd.</a>, <a href="https://fptsoftware.com/" target="_blank">FPT Software</a>, and  <a href="https://thealliance.ai" target="_blank">The AI Alliance</a>)
+              <a href="https://www.semikong.ai/" target="_blank">Semikong</a> - The world's first open LLM tuned specifically for the semiconductor industry. (Principal developers: <a href="https://aitomatic.com/" target="_blank">Aitomatic</a>, <a href="https://www.tel.com/" target="_blank">Tokyo Electron Ltd.</a>, <a href="https://fptsoftware.com/" target="_blank">FPT Software</a>, and  <a href="https://www.aialliance.org" target="_blank">The AI Alliance</a>)
             </li>
             <li>
-              <a href="https://thealliance.ai/blog/from-semiconductor-to-maritime-a-blueprint-for-dom" target="_blank">Llamarine</a> - An LLM tuned specifically for the needs of the maritime shipping industry.
+              <a href="https://www.aialliance.org/blog/from-semiconductor-to-maritime-a-blueprint-for-dom2" target="_blank">Llamarine</a> - An LLM tuned specifically for the needs of the maritime shipping industry.
             </li>
             <li>
-              <a href="https://thealliance.ai/working-groups/materials-and-chemistry" target="_blank">Materials and Chemistry work group</a> (Several developers, including <a href="https://research.ibm.com/" target="_blank">IBM Research</a>):
+              Materials and Chemistry work group (Several developers, including <a href="https://research.ibm.com/" target="_blank">IBM Research</a>):
               <ul>
                 <li>
                   <a href="https://huggingface.co/ibm/materials.smi-ted" target="_blank">smi-ted</a> - SMILES-based Transformer Encoder-Decoder (SMILES-TED) is an encoder-decoder model pre-trained on a curated dataset of 91 million SMILES samples sourced from PubChem, equivalent to 4 billion molecular tokens. SMI-TED supports various complex tasks, including quantum property prediction, with two main variants (289M and 8×289M).
