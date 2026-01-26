@@ -271,7 +271,7 @@ The `shell` is optional; when the block is code from a particular programming la
 Note how the hyperlinks are specified. Two useful examples are shown:
 
 * `[Contributors]({{lbrace2}}site.baseurl{{rbrace2}}/contributing/#contributors)`
-* `[Join us](https://www.aialliance.org/join){:target="_blank"}`
+* `[Join Us](https://www.aialliance.org/join){:target="_blank"}`
 
 The basic format is `[label](URL)`. For URLs that are _internal links_, like the first one shown, meaning links within the same site, use `{{lbrace2}}site.baseurl{{rbrace2}}/path/relative/to/docs`. We discussed why we use this idiom in a **TIP** above. As a reminder, don't just use `[Contributors](/contributing/#contributors)` for paths relative to the website "root", because this will work when you run locally, but **not** when the site is published!
 
@@ -280,7 +280,7 @@ The second link example goes to an external site and specifies a conventional `h
 It's purpose is to render the hyperlink like this: 
 
 ```
-<a href="https://thealliance.ai/focus-areas/trust-and-safety" target="_blank">Trust and Safety</a>
+<a href="https://www.aialliance.org/join" target="_blank">Join Us</a>
 ```
 
 You may already know that the `target` in an anchor (`<a>`) tag tells the browser to open the link in a new window or tab, named `_blank` in this case. The value can be anything, but it is a convention to use `_blank`, which some browsers will interpret as "use a unique tab every time" (but not Firefox, FYI!). Our convention is to add `targets` for all external links, but it doesn't make sense for internal links. Unfortunately, this means adding the tedious `{:target="_blank"}` content to each and every external link. _You should decide if you want this for your site._ At least include or omit this directive consistently...
