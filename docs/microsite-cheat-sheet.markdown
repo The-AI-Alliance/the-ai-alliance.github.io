@@ -271,7 +271,7 @@ The `shell` is optional; when the block is code from a particular programming la
 Note how the hyperlinks are specified. Two useful examples are shown:
 
 * `[Contributors]({{lbrace2}}site.baseurl{{rbrace2}}/contributing/#contributors)`
-* `[Trust and Safety](https://thealliance.ai/focus-areas/trust-and-safety){:target="_blank"}`
+* `[Join us](https://www.aialliance.org/join){:target="_blank"}`
 
 The basic format is `[label](URL)`. For URLs that are _internal links_, like the first one shown, meaning links within the same site, use `{{lbrace2}}site.baseurl{{rbrace2}}/path/relative/to/docs`. We discussed why we use this idiom in a **TIP** above. As a reminder, don't just use `[Contributors](/contributing/#contributors)` for paths relative to the website "root", because this will work when you run locally, but **not** when the site is published!
 

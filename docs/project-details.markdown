@@ -285,7 +285,7 @@ See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-
               <a href="https://github.com/aitomatic/dana/issues" target="_blank">issues</a>
             </li>
             <li>
-              <a href="https://thealliance.ai/blog/the-ai-alliance-releases-new-ai-powered-programmin" target="_blank">blog post</a>
+              <a href="https://www.aialliance.org/blog/the-ai-alliance-releases-new-ai-powered-programmin" target="_blank">blog post</a>
             </li>
             {% comment %}
             <li>
@@ -418,7 +418,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:targ
           </ul>
         </td>
         <td>
-          Build effective agents using Model Context Protocol and simple to sophisticated workflow patterns. See the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-finance/" target="_blank">Deep Research Agent for Finance</a>, discussed in the previous row, which is built with this toolkit. See the <a href="https://thealliance.ai/blog/building-a-deep-research-agent-using-mcp-agent" target="_blank">recent Alliance blog post</a> on their lessons learned developing the <em>orchestration</em> feature for deep research and related use cases. Highly informative! (Principal developer: <a href="https://www.lastmileai.dev/" target="_blank">LastMile AI</a>)
+          Build effective agents using Model Context Protocol and simple to sophisticated workflow patterns. See the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-finance/" target="_blank">Deep Research Agent for Finance</a>, discussed in the previous row, which is built with this toolkit. See the <a href="https://www.aialliance.org/blog/building-a-deep-research-agent-using-mcp-agent" target="_blank">recent Alliance blog post</a> on their lessons learned developing the <em>orchestration</em> feature for deep research and related use cases. Highly informative! (Principal developer: <a href="https://www.lastmileai.dev/" target="_blank">LastMile AI</a>)
         </td>
       </tr>
       <tr>
@@ -503,7 +503,7 @@ The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> is faci
 
 The [Llama Stack](https://github.com/meta-llama/llama-stack){:target="_blank"} project standardizes the core building blocks that simplify AI application development. It codifies best practices across the Llama ecosystem, integrates with other open-source tools and managed services, and provides APIs for inference, evaluation, agents, [MCP](#model-context-protocol-section), and deployment requirements like observability. It is designed to support both on-premise and cloud deployments. The ecosystem provides many example applications to help developers build and deploy AI applications quickly and effectively.
 
-AI Alliance members are [contributing directly](https://thealliance.ai/blog/ai-alliance-accelerating-open-source-ai-innovation){:target="_blank"} to Llama Stack development, as well as building example applications that illustrate its use in various enterprise scenarios. The `llama-stack-examples` project has two initial example applications, described in the table below. The first  app is a simple getting-started chatbot that shows you the basics of creating an app with Llama Stack and how to run it. The second app (in development) is a _deep research_ application, a popular class of AI applications, which will demonstrate Llama Stack support for technologies like agents and [MCP](#model-context-protocol-section). Other examples under consideration will be chosen to cover other common application patterns seen in several industries. [Please join us!](https://events.thealliance.ai/llamastack){:target="_blank"}
+AI Alliance members are contributing directly to Llama Stack development, as well as building example applications that illustrate its use in various enterprise scenarios. The `llama-stack-examples` project has two initial example applications, described in the table below. The first  app is a simple getting-started chatbot that shows you the basics of creating an app with Llama Stack and how to run it. The second app (in development) is a _deep research_ application, a popular class of AI applications, which will demonstrate Llama Stack support for technologies like agents and [MCP](#model-context-protocol-section). Other examples under consideration will be chosen to cover other common application patterns seen in several industries. [Please join us!](https://www.aialliance.org/join){:target="_blank"}
 
 <div class="table-wrapper">
   <table>
@@ -767,7 +767,7 @@ The AI Alliance is building new models for many domains and modalities at the in
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://thealliance.ai/focus-areas/foundation-models-datasets" target="_blank">Open Models</a>
+          <a href="https://www.aialliance.org/projects" target="_blank">Open Models</a>
         </td>
       </tr>
       <tr>
@@ -777,13 +777,13 @@ The AI Alliance is building new models for many domains and modalities at the in
           Several AI Alliance work groups are collaborating on the development of domain-specific models:
           <ul>
             <li>
-              <a href="https://www.semikong.ai/" target="_blank">Semikong</a> - The world's first open LLM tuned specifically for the semiconductor industry. (Principal developers: <a href="https://aitomatic.com/" target="_blank">Aitomatic</a>, <a href="https://www.tel.com/" target="_blank">Tokyo Electron Ltd.</a>, <a href="https://fptsoftware.com/" target="_blank">FPT Software</a>, and  <a href="https://thealliance.ai" target="_blank">The AI Alliance</a>)
+              <a href="https://www.semikong.ai/" target="_blank">Semikong</a> - The world's first open LLM tuned specifically for the semiconductor industry. (Principal developers: <a href="https://aitomatic.com/" target="_blank">Aitomatic</a>, <a href="https://www.tel.com/" target="_blank">Tokyo Electron Ltd.</a>, <a href="https://fptsoftware.com/" target="_blank">FPT Software</a>, and  <a href="https://www.aialliance.org" target="_blank">The AI Alliance</a>)
             </li>
             <li>
-              <a href="https://thealliance.ai/blog/from-semiconductor-to-maritime-a-blueprint-for-dom" target="_blank">Llamarine</a> - An LLM tuned specifically for the needs of the maritime shipping industry.
+              <a href="https://www.aialliance.org/blog/from-semiconductor-to-maritime-a-blueprint-for-dom2" target="_blank">Llamarine</a> - An LLM tuned specifically for the needs of the maritime shipping industry.
             </li>
             <li>
-              <a href="https://thealliance.ai/working-groups/materials-and-chemistry" target="_blank">Materials and Chemistry work group</a> (Several developers, including <a href="https://research.ibm.com/" target="_blank">IBM Research</a>):
+              <a href="https://www.aialliance.org/projects" target="_blank">Materials and Chemistry work group</a> (Several developers, including <a href="https://research.ibm.com/" target="_blank">IBM Research</a>):
               <ul>
                 <li>
                   <a href="https://huggingface.co/ibm/materials.smi-ted" target="_blank">smi-ted</a> - SMILES-based Transformer Encoder-Decoder (SMILES-TED) is an encoder-decoder model pre-trained on a curated dataset of 91 million SMILES samples sourced from PubChem, equivalent to 4 billion molecular tokens. SMI-TED supports various complex tasks, including quantum property prediction, with two main variants (289M and 8×289M).
@@ -918,7 +918,7 @@ Safety, accuracy, red-teaming, security, compliance, and more are required for s
           </ul>
         </td>
         <td>
-          Are you an enterprise developer? How should you test AI applications? You know how to write <em>deterministic</em> tests for your "pre-AI" applications. What should you do when you add generative AI models, which aren't deterministic? This project adapts existing evaluation techniques for the "last mile" of AI evaluation; verifying that an AI application correctly implements its requirements and use cases, going beyond the general concerns of evaluation for safety, security, etc. We are building nontrivial, reusable examples and instructional materials, so you can use these techniques effectively in combination with the traditional tools you already know. This project is part of the <a href="https://thealliance.ai/core-projects/trust-and-safety-evaluations" target="_blank" target="tsei">Trust and Safety Evaluation Initiative</a> (TSEI). (It was previously called <em>Achieving Confidence in Enterprise AI Applications</em>.)
+          Are you an enterprise developer? How should you test AI applications? You know how to write <em>deterministic</em> tests for your "pre-AI" applications. What should you do when you add generative AI models, which aren't deterministic? This project adapts existing evaluation techniques for the "last mile" of AI evaluation; verifying that an AI application correctly implements its requirements and use cases, going beyond the general concerns of evaluation for safety, security, etc. We are building nontrivial, reusable examples and instructional materials, so you can use these techniques effectively in combination with the traditional tools you already know. This project is part of the <a href="https://www.aialliance.org/projects" target="tsei">Safety and Governance</a> initiative. (It was previously called <em>Achieving Confidence in Enterprise AI Applications</em>.)
         </td>
       </tr>
       <tr>
@@ -995,7 +995,7 @@ Safety, accuracy, red-teaming, security, compliance, and more are required for s
           </ul>
         </td>
         <td>
-          <em>Evaluation Is for Everyone</em> addresses two problems: 1) many AI application builders don't know what they should do to ensure trust and safety, and 2) it should be as easy as possible to add trust and safety capabilities to AI applications. Many trust and safety evaluation suites are available that can be executed on the <a href="https://the-ai-alliance.github.io/eval-ref-stack" target="_blank">Evaluation Reference Stack</a>. We are making it as easy as possible for AI application developers to find and deploy the evaluations they need. See also the companion <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">Testing Generative AI Applications</a> project. This project is part of the <a href="https://thealliance.ai/core-projects/trust-and-safety-evaluations" target="_blank" target="tsei">Trust and Safety Evaluation Initiative</a> (TSEI).
+          <em>Evaluation Is for Everyone</em> addresses two problems: 1) many AI application builders don't know what they should do to ensure trust and safety, and 2) it should be as easy as possible to add trust and safety capabilities to AI applications. Many trust and safety evaluation suites are available that can be executed on the <a href="https://the-ai-alliance.github.io/eval-ref-stack" target="_blank">Evaluation Reference Stack</a>. We are making it as easy as possible for AI application developers to find and deploy the evaluations they need. See also the companion <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">Testing Generative AI Applications</a> project. This project is part of the <a href="https://www.aialliance.org/projects" target="tsei">Safety and Governance</a> initiative.
         </td>
       </tr>
       <tr>
@@ -1021,7 +1021,7 @@ Safety, accuracy, red-teaming, security, compliance, and more are required for s
           </ul>
         </td>
         <td>
-          The companion projects <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">Testing Generative AI Applications</a> and <a href="https://the-ai-alliance.github.io/trust-safety-evals/" target="_blank">Evaluation Is for Everyone</a> require a runtime stack that is flexible and easy to deploy and manage. This project is collating popular tools for writing and running evaluations into easy-to-consume packages. This project is part of the <a href="https://thealliance.ai/core-projects/trust-and-safety-evaluations" target="_blank" target="tsei">Trust and Safety Evaluation Initiative</a> (TSEI).
+          The companion projects <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">Testing Generative AI Applications</a> and <a href="https://the-ai-alliance.github.io/trust-safety-evals/" target="_blank">Evaluation Is for Everyone</a> require a runtime stack that is flexible and easy to deploy and manage. This project is collating popular tools for writing and running evaluations into easy-to-consume packages. This project is part of the <a href="https://www.aialliance.org/projects" target="tsei">Safety and Governance</a> initiative.
         </td>
       </tr>
       {% comment %}
@@ -1081,7 +1081,7 @@ Safety, accuracy, red-teaming, security, compliance, and more are required for s
 
 ### Deployment and Scaling
 
-[Deploying and scaling AI systems](https://thealliance.ai/focus-areas/hardware-enablement){:target="_blank"}, especially to the growing diversity of hardware accelerators for AI, and efficiently scaling from PoCs and single node deployments to large numbers of users and distributed deployments are a key set of challenges.
+Deploying and scaling AI systems, especially to the growing diversity of hardware accelerators for AI, and efficiently scaling from PoCs and single node deployments to large numbers of users and distributed deployments are a key set of challenges.
 
 <div class="table-wrapper">
   <table>
@@ -1139,4 +1139,4 @@ WARNING: Don't remove the next comment nor the "start: focus areas" comment abov
   * This documentation's [GitHub repo](https://github.com/The-AI-Alliance/the-ai-alliance.github.io){:target="aia-repo"}
   * A glossary of terms, [website](https://the-ai-alliance.github.io/glossary/){:target="glossary"} and [repo](https://github.com/The-AI-Alliance/glossary){:target="glossary-repo"}, is shared by many of these websites.
   * The [microsite template](https://github.com/The-AI-Alliance/microsite-template){:target="aia-mt"} used for many Alliance project websites. 
-* The [AI Alliance website](https://thealliance.ai){:target="aia"}: About the AI Alliance, our goals and initiatives.
+* The [AI Alliance website](https://www.aialliance.org){:target="aia"}: About the AI Alliance, our goals and initiatives.
