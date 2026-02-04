@@ -115,7 +115,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:targ
               <a href="https://github.com/The-AI-Alliance/deep-research-agent-for-finance/" target="_blank">repo</a>
             </li>
             <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/42/views/1" target="_blank">dashboard</a>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/42/views/2" target="_blank">dashboard</a>
             </li>
             <li>
               <a href="https://github.com/The-AI-Alliance/deep-research-agent-for-finance/issues" target="_blank">issues</a>
