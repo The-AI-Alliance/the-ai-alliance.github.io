@@ -95,5 +95,5 @@ Come meet us and learn about AI! See our [full list](https://www.aialliance.org/
   * The [full list](https://github.com/The-AI-Alliance/community/tree/main/events){:target="_blank"} of Alliance-sponsored and third-party AI events
   * Other resources in our [community GitHub repo](https://github.com/The-AI-Alliance/community){:target="_blank"}.
 * The [AI Alliance GitHub Organization](https://github.com/The-AI-Alliance/){:target="_blank"}:
-    * A [glossary of terms]({{site.glossaryurl}}){:target="glossary"} is used by many of these websites.
+    * A [glossary of terms](https://the-ai-alliance.github.io/glossary/){:target="_blank"} is used by many of these websites.
     * The [microsite template](https://github.com/The-AI-Alliance/microsite-template){:target="_blank"}: The template used for Alliance projects, including all the websites listed above. See the [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md){:target="_blank"} for instructions.
