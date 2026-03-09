@@ -93,9 +93,9 @@ Come meet us and learn about AI! See our [events calendar](https://the-ai-allian
 ## Additional Information
 
 * The [AI Alliance website](https://www.aialliance.org){:target="_blank"}: About the AI Alliance, our goals and initiatives.
+* The [events calendar](https://the-ai-alliance.github.io/event_database/){:target="_blank"} of Alliance-sponsored and third-party AI events
 * Learn more about getting involved in our [community](https://www.aialliance.org/join){:target="_blank"}. In particular. See also:
   * Our [Contributing](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md){:target="_blank"} guide.
-  * The [full list](https://the-ai-alliance.github.io/event_database/){:target="_blank"} of Alliance-sponsored and third-party AI events
   * Other resources in our [community GitHub repo](https://github.com/The-AI-Alliance/community){:target="_blank"}.
 * The [AI Alliance GitHub Organization](https://github.com/The-AI-Alliance/){:target="_blank"}:
     * A [glossary of terms](https://the-ai-alliance.github.io/glossary/){:target="_blank"} is used by many of these websites.

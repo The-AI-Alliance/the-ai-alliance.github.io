@@ -1132,8 +1132,8 @@ WARNING: Don't remove the next comment nor the "start: focus areas" comment abov
 
 ## For More Information
 
+* The [events calendar](https://the-ai-alliance.github.io/event_database/){:target="events"} of Alliance-sponsored and third-party AI events.
 * Our [Community repo](https://github.com/The-AI-Alliance/community/){:target="community"}:
-  * The [full list](https://github.com/The-AI-Alliance/community/tree/main/events){:target="community"} of Alliance-sponsored and third-party AI events.
   * Our [contributing](https://github.com/The-AI-Alliance/community/CONTRIBUTING.md){:target="community"} guide.
 * The [AI Alliance GitHub organization](https://github.com/The-AI-Alliance/){:target="aia-gho"}
   * This documentation's [GitHub repo](https://github.com/The-AI-Alliance/the-ai-alliance.github.io){:target="aia-repo"}
