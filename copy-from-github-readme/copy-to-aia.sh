@@ -85,7 +85,8 @@ command -v gawk > /dev/null || error 'gawk not found!'
 [[ -d $SRC_DIR ]] || error "Source directory, $SRC_DIR, doesn't exist!"
 [[ -d $TARG_DIR ]] || error "Target directory, $TARG_DIR, doesn't exist!"
 
-temp_dir=$DIR/temp/$$
+TIMESTAMP=$(date +"%Y%m%d-%H%M%S")
+temp_dir=$DIR/temp/$TIMESTAMP
 
 $NOOP mkdir -p $temp_dir
 info "Writing temporary files to $temp_dir"
