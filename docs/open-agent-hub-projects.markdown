@@ -31,16 +31,16 @@ Our work groups include engineers, AI researchers, and subject matter experts fr
 
 **Expert knowledge / Legal:** Try [Bartlebot](https://github.com/The-AI-Alliance/bartlebot){:target="_blank"} if you want to work with case law and other legal topics.
 
-**Finance and Medical:** See [Deep Research Agent for Applications](https://the-ai-alliance.github.io/deep-research-agent-for-applications/){:target="_blank"}, a collaboration between domain and AI experts in the Alliance to explore the practical challenges of building and running trustworthy, production-quality _deep research_ applications.
+**Finance, Medical, and other Research Areas:** See [Deep Research Agent for Applications](https://the-ai-alliance.github.io/deep-research-agent-for-applications/){:target="_blank"}, a collaboration between domain and AI experts in the Alliance to explore the practical challenges of building and running trustworthy, production-quality _deep research_ applications.
 
 **Geospatial:** See projects like [GeoBench](https://github.com/ServiceNow/geo-bench){:target="_blank"} and [TerraTorch](https://github.com/IBM/terratorch){:target="_blank"}.
 
 **Chemistry and Materials:** See the new science foundation models for [molecular analysis](https://huggingface.co/ibm-research/materials.smi-ted){:target="_blank"}.
 
 <a id="model-context-protocol-section"></a>
-## Model Context Protocol (MCP) Ecosystem and Related Projects
+## Agent Ecosystems with Model Context Protocol (MCP), Agent to Agent Protocol (A2A), and Related Projects
 
-The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:target="_blank"} (MCP) from [Anthropic](https://www.anthropic.com/){:target="_blank"} is quickly becoming an industry standard for communications between models, agents, data repositories, and other tools. The AI Alliance seeks to advance this protocol and foster a robust suite of tools around it to enable broad, trusted, and high-value use in production.
+The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:target="_blank"} (MCP) from [Anthropic](https://www.anthropic.com/){:target="_blank"} is quickly becoming an industry standard for communications between models, tool, and data repositories. A competing project with more emphasis on the unique requirements for agents is the [Agent2Agent](https://a2a-protocol.org/latest/] (A2A){:target="_blank"} protocol. The AI Alliance seeks to advance the application of these protocols and related tools to foster the development of robust distributed systems.
 
 <div class="table-wrapper">
   <table>
@@ -100,7 +100,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:targ
           </ul>
         </td>
         <td>
-           Context Forge is an MCP gateway, which also supports <a href="https://a2a-protocol.org/latest/" target="_blank" target="a2a">A2A</a> and REST. It serves as a central management point for tools, resources, and prompts. It can be accessed by MCP-compatible LLM applications. It converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (e.g., stdio, SSE, etc.). (Principal developer: <a href="https://ibm.com" target="_blank">IBM</a>)
+           Context Forge is an AI application management suite, with support for protocols like MCP, A2A, REST, etc. It serves as a central management point for tools, resources, and prompts, as well as observability, security, and access control. (Principal developer: <a href="https://ibm.com" target="_blank">IBM</a>)
         </td>
       </tr>
       <tr>
@@ -126,7 +126,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:targ
           </ul>
         </td>
         <td>
-          The <a href="https://the-ai-alliance.github.io/deep-research-agent-for-applications/" target="_blank">Deep Research Agent for Applications</a> demonstrates MCP in action for an important, common design pattern, <em>Deep Research Agents</em>. The first example application shows how a financial analyst can use a deep research agent to find, aggregate, and analyze information about a public company (or other potential investment). The second example supports medical research on diseases, pharmaceuticals, etc. There are many other applications possible. The app is built on <a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">MCP Agent</a>, developed by <a href="https://www.lastmileai.dev/" target="_blank">LastMile AI</a>, discussed next.
+          The <a href="https://the-ai-alliance.github.io/deep-research-agent-for-applications/" target="_blank">Deep Research Agent for Applications</a> demonstrates MCP in action for an important, common design pattern, <em>Deep Research Agents</em>. The first example application shows how a financial analyst can use a deep research agent to find, aggregate, and analyze information about a public company (or other potential investment). The second example explores recent medical research on diseases and pharmaceuticals. The third example supports finding and summarizing recent research papers posted to [ArXiv](https://arxiv.org){:target="_blank"}. There are many other applications possible. The app is  built on <a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">MCP Agent</a>, developed by <a href="https://www.lastmileai.dev/" target="_blank">LastMile AI</a>, discussed next.
         </td>
       </tr>
       <tr>
@@ -209,7 +209,7 @@ The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> is faci
 
 ## Agent Development Tools
 
-See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-applications/" target="_blank">Deep Research Agent for Applications</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>, discussed above in the <a href="#model-context-protocol-section">MCP section</a>.
+See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-applications/" target="_blank">Deep Research Agent for Applications</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>, discussed <a href="#model-context-protocol-section">above</a>.
 
 <div class="table-wrapper">
   <table>
@@ -329,7 +329,7 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-appl
 
 ## Agent Knowledge and Tool Foundations
 
-See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-applications/" target="_blank">Deep Research Agent for Applications</a>, which is discussed in the <a href="#model-context-protocol-section">MCP Ecosystem</a> section above.
+See also the <a href="https://the-ai-alliance.github.io/deep-research-agent-for-applications/" target="_blank">Deep Research Agent for Applications</a>, which is discussed <a href="#model-context-protocol-section">above</a>.
 
 <div class="table-wrapper">
   <table>
