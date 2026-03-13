@@ -277,22 +277,22 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-appl
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://github.com/The-AI-Alliance/AgentLab2/" target="_blank">AgentLab2</a>
+          <a href="https://github.com/The-AI-Alliance/cube-harness/" target="_blank">CUBE-Harness</a>
         </td>
       </tr>
       <tr>
         <td>
           <ul>
             <li>
-              <a href="https://github.com/The-AI-Alliance/AgentLab2/" target="_blank" target="_blank">repo</a>
+              <a href="https://github.com/The-AI-Alliance/cube-harness/" target="_blank" target="_blank">repo</a>
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/AgentLab2/issues" target="_blank" target="_blank">issues</a>
+              <a href="https://github.com/The-AI-Alliance/cube-harness/issues" target="_blank" target="_blank">issues</a>
             </li>
           </ul>
         </td>
         <td>
-          <em>AgentLab2</em> is an open-source framework and research initiative for building and evaluating UI agents.
+          <em>CUBE-Harness</em> is an open-source framework and research initiative for building and evaluating UI agents.
           <br/><br/>
           (Principal developer: <a href="https://servicenow.com/" target="_blank">ServiceNow</a>)
         </td>
