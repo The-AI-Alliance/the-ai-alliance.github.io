@@ -209,7 +209,7 @@ The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> is faci
 
 ## Agent Development Tools
 
-See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-applications/" target="_blank">Deep Research Agent for Applications</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>, discussed <a href="#model-context-protocol-section">above</a>.
+See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-applications/" target="_blank">Deep Research Agent for Applications</a>, discussed <a href="#model-context-protocol-section">above</a>.
 
 <div class="table-wrapper">
   <table>
