@@ -29,7 +29,7 @@ Good datasets are essential for building good models and applications. The AI Al
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/open-trusted-data-initiative/" target="_blank">The Open, Trusted Data Initiative</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/open-trusted-data-initiative/" target="_blank">The Open, Trusted Data Initiative</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/><a href="#footnote-1"><sup>1</sup></a>
         </td>
       </tr>
       <tr>
@@ -121,6 +121,8 @@ Good datasets are essential for building good models and applications. The AI Al
   </table>
 </div>
 
+<a id="footnote-1"></a>
+<sup>1</sup> The icon indicates an Alliance <em>core</em> project.
 
 ## Open Models and Tooling for New Domains and Modalities
 

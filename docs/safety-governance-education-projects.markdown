@@ -35,7 +35,7 @@ The following projects address these concerns.
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/trust-safety-user-guide/" target="_blank">The AI Trust and Safety User Guide</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/trust-safety-user-guide/" target="_blank">The AI Trust and Safety User Guide</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/><a href="#footnote-1"><sup>1</sup></a>
         </td>
       </tr>
       <tr>
@@ -239,6 +239,9 @@ The following projects address these concerns.
     </tbody>
   </table>
 </div>
+
+<a id="footnote-1"></a>
+<sup>1</sup> The icon indicates an Alliance <em>core</em> project.
 
 ## AI in Education and Research
 
