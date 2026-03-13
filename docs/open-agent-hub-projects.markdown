@@ -270,14 +270,14 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-appl
           </ul>
         </td>
         <td>
-          <em>CUBE Standard</em> is meets a common necessity, to standardize benchmark wrapping so the community can wrap various otherwise-incompatible benchmarks uniformly and use them everywhere.
+          <em>Common Unified Benchmark Environment</em> meets a common necessity, to standardize benchmark wrapping so the community can integrate otherwise-incompatible benchmarks uniformly and use them everywhere.
           <br/><br/>
           (Principal developer: <a href="https://servicenow.com/" target="_blank">ServiceNow</a>)
         </td>
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://github.com/The-AI-Alliance/cube-harness/" target="_blank">CUBE-Harness</a>
+          <a href="https://github.com/The-AI-Alliance/cube-harness/" target="_blank">CUBE Harness</a>
         </td>
       </tr>
       <tr>
@@ -292,7 +292,7 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-appl
           </ul>
         </td>
         <td>
-          <em>CUBE-Harness</em> is an open-source framework and research initiative for building and evaluating UI agents.
+          <em>CUBE Harness</em> is an open-source framework and research initiative for building and evaluating UI agents.
           <br/><br/>
           (Principal developer: <a href="https://servicenow.com/" target="_blank">ServiceNow</a>)
         </td>
