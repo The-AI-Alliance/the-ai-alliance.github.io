@@ -248,7 +248,7 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-appl
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://github.com/The-AI-Alliance/cube-standard/" target="_blank">CUBE Standard</a>
+          <a href="https://github.com/The-AI-Alliance/cube-standard/" target="_blank">CUBE Standard</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
@@ -270,7 +270,7 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-appl
       </tr>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://github.com/The-AI-Alliance/cube-harness/" target="_blank">CUBE Harness</a>
+          <a href="https://github.com/The-AI-Alliance/cube-harness/" target="_blank">CUBE Harness</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
