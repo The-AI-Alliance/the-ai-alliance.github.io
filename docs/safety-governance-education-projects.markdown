@@ -58,6 +58,23 @@ The following projects address these concerns.
       </tr>
       <tr>
         <td class="project-title" colspan="2">
+          <a href="https://www.coalitionforsecureai.org/" target="_blank">The Coalition for Secure AI (CoSAI)</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/cosai-oasis" target="_blank">GitHub</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Several AI Alliance organizations are active participants in CoSAI work groups on AI security, including for MCP and agents. See, for example, this summary of CoSAI's work on <a href="https://the-ai-alliance.github.io/enterprise-MCP/security/securing-mcp-cosai/" target="_blank">MCP security</a> in the AI Alliance guide <a href="https://the-ai-alliance.github.io/enterprise-MCP/" target="_blank">MCP (and Beyond) in the Enterprise: A User Guide</a>.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
           <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">Testing Generative AI Agent Applications</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
