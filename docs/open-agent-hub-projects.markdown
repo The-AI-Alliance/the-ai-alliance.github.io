@@ -31,7 +31,7 @@ We welcome your [feedback and help](https://github.com/The-AI-Alliance/community
 <a id="model-context-protocol-section"></a>
 ## Agent Ecosystems with MCP, A2A, and Related Projects
 
-The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:target="_blank"} (MCP) from [Anthropic](https://www.anthropic.com/){:target="_blank"} is quickly becoming an industry standard for communications between models, tool, and data repositories. A competing project with more emphasis on the unique requirements for agents is the [Agent2Agent](https://a2a-protocol.org/latest/] (A2A){:target="_blank"} protocol. The AI Alliance seeks to advance the application of these protocols and related tools to foster the development of robust distributed AI systems.
+The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:target="_blank"} (MCP) from [Anthropic](https://www.anthropic.com/){:target="_blank"} is quickly becoming an industry standard for communications between models, tool, and data repositories. A competing project with more emphasis on the unique requirements for agents is the [Agent2Agent](https://a2a-protocol.org/latest/){:target="_blank"} (A2A) protocol. The AI Alliance seeks to advance the application of these protocols and related tools to foster the development of robust distributed AI systems.
 
 <div class="table-wrapper">
   <table>
