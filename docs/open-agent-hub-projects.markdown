@@ -198,7 +198,7 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-appl
       <tr>
         <td>
           <ul>
-            <li> Standard:
+            <li>Standard:
               <ul>
                 <li>
                   <a href="https://github.com/The-AI-Alliance/cube-standard/" target="_blank">repo</a>
