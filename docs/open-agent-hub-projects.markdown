@@ -237,7 +237,7 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-appl
               <a href="https://github.com/The-AI-Alliance/cube-standard/" target="_blank">Standard</a>: The standards.
             </li>
             <li>
-              <a href="https://github.com/The-AI-Alliance/cube-harness/" target="_blank">Harness</a>: An open-source framework and research initiative for building and evaluating UI agents.
+              <a href="https://github.com/The-AI-Alliance/cube-harness/" target="_blank">Harness</a>: An open-source framework and research initiative for building and evaluating AI agents.
             </li>
             <li>
               <a href="https://github.com/The-AI-Alliance/cube-registry/" target="_blank">Registry</a>: A community-maintained index of benchmarks that implement the CUBE standard. Any CUBE-compliant evaluation platform or training harness can discover and run registered benchmarks without custom integration.
