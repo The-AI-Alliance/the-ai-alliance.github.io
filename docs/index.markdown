@@ -42,7 +42,7 @@ The core and supported projects are grouped into the following categories:
     <thead>
       <tr>
         <th class="project-title" style="width: 33%;">Open Agent Hub</th>
-        <th class="project-title" style="width: 33%;">Open Data and Model Foundry</th>
+        <th class="project-title" style="width: 33%;">Open Models and Data Projects</th>
         <th class="project-title" style="width: 33%;">Safety, Governance, and Education</th>
       </tr>
     </thead>
@@ -63,7 +63,7 @@ The core and supported projects are grouped into the following categories:
           <a href="{{site.baseurl}}/open-agent-hub-projects/"><strong>Key Projects</strong></a>
         </td>
         <td>
-          <a href="{{site.baseurl}}/open-data-and-model-foundry-projects/"><strong>Key Projects</strong></a>
+          <a href="{{site.baseurl}}/open-models-and-data-projects/"><strong>Key Projects</strong></a>
         </td>
         <td>
           <a href="{{site.baseurl}}/safety-governance-education-projects/"><strong>Key Projects</strong></a>
