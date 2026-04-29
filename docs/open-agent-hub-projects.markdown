@@ -155,8 +155,6 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:targ
 
 See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-applications/" target="_blank">Deep Research Agent for Applications</a>, discussed <a href="#model-context-protocol-section">above</a>.
 
-<a id="cube"></a>
-
 ### CUBE - Common Unified Benchmark Environment
 
 <div class="table-wrapper">
