@@ -14,7 +14,7 @@ The **Open Models and Data Projects** address key needs for customized, domain-s
 
 ## Project Tapestry
 
-Project Tapestry is a global initiative to build and tune foundation with full and flexible support for sovereignty concerns.
+[Project Tapestry](https://events.thealliance.ai/tapestry){:target="_blank"} is a global initiative to build and tune foundation models with full and flexible support for sovereignty concerns.
 
 <div class="table-wrapper">
   <table>
@@ -27,7 +27,7 @@ Project Tapestry is a global initiative to build and tune foundation with full a
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/tapestry/" target="_blank">Project Tapestry</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/><a href="#footnote-1"><sup>1</sup></a>
+          Project Tapestry: <a href="https://events.thealliance.ai/tapestry" target="_blank">AI Alliance Page</a>, <a href="https://the-ai-alliance.github.io/tapestry/" target="_blank">Technical Website</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/><a href="#footnote-1"><sup>1</sup></a>
         </td>
       </tr>
       <tr>
@@ -70,7 +70,7 @@ Good datasets are essential for building good models and applications. The AI Al
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/open-trusted-data-initiative/" target="_blank">The Open, Trusted Data Initiative</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/><a href="#footnote-1"><sup>1</sup></a>
+          <a href="https://the-ai-alliance.github.io/open-trusted-data-initiative/" target="_blank">The Open, Trusted Data Initiative</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
         </td>
       </tr>
       <tr>
