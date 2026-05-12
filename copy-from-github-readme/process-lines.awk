@@ -58,6 +58,26 @@ BEGIN {
     next        
 }
 
+# Hack. Replace GitHub README callout directives like "[!NOTE]" with our equivalents:
+/> *\[\!NOTE\]/ {
+    print "{: .note}"
+    print "> **NOTE:**"
+    print ">"
+    next
+}
+/> *\[\!TIP\]/ {
+    print "{: .tip}"
+    print "> **TIP:**"
+    print ">"
+    next
+}
+/> *\[\!WARN\]/ {
+    print "{: .warn}"
+    print "> **WARNING:**"
+    print ">"
+    next
+}
+
 # All other lines. Only print it if if we reach this point, 
 # it means that the line starts with > but has another value than
 # what is stored in your variable so we reset it.
