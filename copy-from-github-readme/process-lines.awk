@@ -29,20 +29,20 @@ BEGIN {
 
 # Hack: fix RELATIVE (i.e., don't start with http) cross references to 
 # ".md" pages, which now should be "/" and have "{{site.baseurl}}/.
-/href="[^h].*\.md"/ {
+/href="[^h].*\.md/ {
     if (flag) { 
-        a = gensub(/href="([^\.]*)\.md"/,
-            "href=\"{{site.baseurl}}/\\1/\"", "g", $0)
+        a = gensub(/href="([^\.]*)\.md/,
+            "href=\"{{site.baseurl}}/\\1", "g", $0)
         print a
     }
     next
 }
 
 # Same hack for Markdown...
-/\([^h].*\.md\)/ {
+/\([^h].*\.md/ {
     if (flag) { 
-        a = gensub(/\(([^\.]*)\.md\)/,
-            "({{site.baseurl}}/\\1/)", "g", $0)
+        a = gensub(/\(([^\.]*)\.md/,
+            "({{site.baseurl}}/\\1", "g", $0)
         print a
     }
     next
@@ -59,19 +59,19 @@ BEGIN {
 }
 
 # Hack. Replace GitHub README callout directives like "[!NOTE]" with our equivalents:
-/> *\[\!NOTE\]/ {
+/> *\[!NOTE\]/ {
     print "{: .note}"
     print "> **NOTE:**"
     print ">"
     next
 }
-/> *\[\!TIP\]/ {
+/> *\[!TIP\]/ {
     print "{: .tip}"
     print "> **TIP:**"
     print ">"
     next
 }
-/> *\[\!WARN\]/ {
+/> *\[!WARN\]/ {
     print "{: .warn}"
     print "> **WARNING:**"
     print ">"

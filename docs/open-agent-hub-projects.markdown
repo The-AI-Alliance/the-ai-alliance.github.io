@@ -157,6 +157,8 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-appl
 
 ### CUBE - Common Unified Benchmark Environment
 
+See also other safety and evaluation projects in [AI Safety, Governance, and Education]({{site.baseurl}}/safety-governance-education-projects).
+
 <div class="table-wrapper">
   <table>
     <thead>
@@ -260,7 +262,7 @@ See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-appl
           </ul>
         </td>
         <td>
-          Are you an enterprise developer? How should you test AI applications? You know how to write <em>deterministic</em> tests for your "pre-AI" applications. What should you do when you add generative AI models, which aren't deterministic? This project adapts existing evaluation techniques for the "last mile" of AI evaluation; verifying that an AI application correctly implements its requirements and use cases, going beyond the general concerns of evaluation for safety, security, etc. We are building nontrivial, reusable examples and instructional materials, so you can use these techniques effectively in combination with the traditional tools you already know. (This project is also discussed under the <a href="{{site.baseurl}}/safety-governance-education-projects/">AI Safety, Governance, and Education</a> projects.)
+          Are you an enterprise developer? How should you test AI applications? You know how to write <em>deterministic</em> tests for your "pre-AI" applications. What should you do when you add generative AI models, which aren't deterministic? This project adapts existing evaluation techniques for the "last mile" of AI evaluation; verifying that an AI application correctly implements its requirements and use cases, going beyond the general concerns of evaluation for safety, security, etc. We are building nontrivial, reusable examples and instructional materials, so you can use these techniques effectively in combination with the traditional tools you already know. (This project is also discussed under the <a href="{{site.baseurl}}/safety-governance-education-projects">AI Safety, Governance, and Education</a> projects.)
         </td>
       </tr>
       <tr>
