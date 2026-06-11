@@ -195,7 +195,7 @@ See also the discussion of [CUBE - Common Unified Benchmark Environment]({{site.
           </ul>
         </td>
         <td>
-          <em>Evaluation Is for Everyone</em> addresses two problems: 1) many AI application builders don't know what they should do to ensure trust and safety, and 2) it should be as easy as possible to add trust and safety capabilities to AI applications. Many trust and safety evaluation suites are available that can be executed on the <a href="https://the-ai-alliance.github.io/eval-ref-stack" target="_blank">Evaluation Reference Stack</a>. We are making it as easy as possible for AI application developers to find and deploy the evaluations they need. See also the companion <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">Testing Generative AI Agent Applications</a> project. This project is part of the <a href="https://www.aialliance.org/projects" target="_blank">Safety and Governance</a> initiative.
+          <em>Evaluation Is for Everyone</em> addresses two problems: 1) many AI application builders don't know what they should do to ensure trust and safety, and 2) it should be as easy as possible to add trust and safety capabilities to AI applications. Many trust and safety evaluation suites are available that can be executed on the <a href="https://the-ai-alliance.github.io/eval-ref-stack" target="_blank">Evaluation Reference Stack</a>. We are making it as easy as possible for AI application developers to find and deploy the evaluations they need. See also the companion <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">Testing Generative AI Agent Applications</a> project. This project is part of the <a href="https://www.thealliance.ai/projects" target="_blank">Safety and Governance</a> initiative.
         </td>
       </tr>
       <tr>
@@ -221,7 +221,7 @@ See also the discussion of [CUBE - Common Unified Benchmark Environment]({{site.
           </ul>
         </td>
         <td>
-          The companion projects <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">Testing Generative AI Agent Applications</a> and <a href="https://the-ai-alliance.github.io/trust-safety-evals/" target="_blank">Evaluation Is for Everyone</a> require a runtime stack that is flexible and easy to deploy and manage. This project is collating popular tools for writing and running evaluations into easy-to-consume packages. This project is part of the <a href="https://www.aialliance.org/projects" target="_blank">Safety and Governance</a> initiative.
+          The companion projects <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">Testing Generative AI Agent Applications</a> and <a href="https://the-ai-alliance.github.io/trust-safety-evals/" target="_blank">Evaluation Is for Everyone</a> require a runtime stack that is flexible and easy to deploy and manage. This project is collating popular tools for writing and running evaluations into easy-to-consume packages. This project is part of the <a href="https://www.thealliance.ai/projects" target="_blank">Safety and Governance</a> initiative.
         </td>
       </tr>
       {% comment %}
