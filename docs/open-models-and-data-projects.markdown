@@ -14,7 +14,7 @@ The **Open Models and Data Projects** address key needs for customized, domain-s
 
 ## Project Tapestry
 
-[Project Tapestry](https://events.thealliance.ai/tapestry){:target="_blank"} is a global initiative to build and tune foundation models with full and flexible support for sovereignty concerns.
+[Project Tapestry](https://thealliance.ai/projects/tapestry){:target="_blank"} is a global initiative to build and tune foundation models with full and flexible support for sovereignty concerns.
 
 <div class="table-wrapper">
   <table>
@@ -27,7 +27,7 @@ The **Open Models and Data Projects** address key needs for customized, domain-s
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          Project Tapestry: <a href="https://events.thealliance.ai/tapestry" target="_blank">AI Alliance Page</a>, <a href="https://the-ai-alliance.github.io/tapestry/" target="_blank">Technical Website</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/><a href="#footnote-1"><sup>1</sup></a>
+          Project Tapestry: <a href="https://thealliance.ai/projects/tapestry" target="_blank">AI Alliance Page</a>, <a href="https://the-ai-alliance.github.io/tapestry/" target="_blank">Technical Website</a>, <a href="https://github.com/The-AI-Alliance/tapestry" target="_blank">GitHub Repo</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/><a href="#footnote-1"><sup>1</sup></a>
         </td>
       </tr>
       <tr>
@@ -48,7 +48,7 @@ The **Open Models and Data Projects** address key needs for customized, domain-s
           </ul>
         </td>
         <td>
-          The AI Alliance launched <em>Project Tapestry</em> to build a collaborative foundation for open and sovereign AI. Project Tapestry will be an open-source platform designed to enable globally federated development of frontier open models while preserving sovereignty, local control, and long-term independence.
+          The AI Alliance launched <em>Project Tapestry</em> to build a collaborative foundation for open and sovereign AI. Project Tapestry is an open-source platform designed to enable globally federated development of frontier open models while preserving sovereignty, local control, long-term independence, and the ability to tune models for local cultural and industrial requirements.
         </td>
       </tr>
     </tbody> 

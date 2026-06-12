@@ -19,7 +19,7 @@ The AI Alliance Community is a non-profit (501(c)(3)) foundation that supports t
 {: .note}
 > **NOTE:**
 >
-> **News:** [Project Tapestry](https://github.com/The-AI-Alliance/tapestry){:target="_blank"} kicked off with a technical meeting in Paris, May 7-8, 2026. More details are coming soon. See the previous announcment [here](https://thealliance.ai/projects/tapestry){:target="_blank"} and [details below](#project-categories).
+> **News:** [Project Tapestry](https://thealliance.ai/projects/tapestry) kicked off with a technical meeting in Paris, May 7-8, 2026. [More details are here]({{site.baseurl}}/open-models-and-data-projects/#project-tapestry) and the [GitHub repo](https://github.com/The-AI-Alliance/tapestry) has all the technical content.
 
 ![Tapestry Logo](https://the-ai-alliance.github.io/tapestry/assets/images/03-tapestry-logo-1000x545.png)
 
@@ -59,7 +59,7 @@ The core and supported projects are grouped into the following categories:
           The <a href="https://the-ai-alliance.github.io/open-agent-hub/" target="_blank">Open Agent Hub</a> is a collaborative community of open-source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference patterns and example implementations.
         </td>
         <td>
-          The foundation of our open data and model initiatives is <a href="https://the-ai-alliance.github.io/tapestry/" target="_blank">Project Tapestry</a>, a global initiative to build foundation models with full support for distributed training and data sovereignty. Other initiatives include domain-specific model development in semiconductors and molecular discovery, and cataloging truly open datasets for training and tuning models and agents.
+          The foundation of our open data and model initiatives is <a href="{{site.baseurl}}/open-models-and-data-projects/#project-tapestry">Project Tapestry</a>, a global initiative to build foundation models with full support for distributed training and data sovereignty. Other initiatives include domain-specific model development in semiconductors and molecular discovery, and cataloging truly open datasets for training and tuning models and agents.
         </td>
         <td>
           In order for the objectives of the <strong>Open Agent Hub</strong> and the <strong>Open Data and Model Foundry</strong> to be achieved, fundamental requirements must be met for safety, governance, and the expertise required to use AI technologies effectively. You will also find resources for <a href="https://the-ai-alliance.github.io/academic-resources-for-AI/" target="_blank">AI in teaching and research</a> here, too.
