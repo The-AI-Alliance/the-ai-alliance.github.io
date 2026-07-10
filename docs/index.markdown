@@ -19,9 +19,16 @@ The AI Alliance Community is a non-profit (501(c)(3)) foundation that supports t
 {: .note}
 > **NOTE:**
 >
-> **News:** [Project Tapestry](https://thealliance.ai/projects/tapestry) kicked off with a technical meeting in Paris, May 7-8, 2026. [More details are here]({{site.baseurl}}/open-models-and-data-projects/#project-tapestry) and the [GitHub repo](https://github.com/The-AI-Alliance/tapestry) has all the technical content.
+> **News:** [Project Tapestry](https://thealliance.ai/projects/tapestry){:target="_blank"} kicked
+> off with a technical meeting in Paris, May 7-8, 2026.
+> [More details are here]({{site.baseurl}}/open-models-and-data-projects/#project-tapestry) and
+> the [GitHub repo](https://github.com/The-AI-Alliance/tapestry){:target="_blank"} has
+> all the technical content.
 
-![Tapestry Logo](https://the-ai-alliance.github.io/tapestry/assets/images/03-tapestry-logo-1000x545.png)
+<a href="https://thealliance.ai/projects/tapestry" target="_blank">
+<img src="https://the-ai-alliance.github.io/tapestry/assets/images/03-tapestry-logo-1000x545.png" alt="Tapestry Logo">
+</a>
+</div>
 
 ## Useful Links
 
