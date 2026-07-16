@@ -69,7 +69,7 @@ The core and supported projects are grouped into the following categories:
           The foundation of our open data and model initiatives is <a href="{{site.baseurl}}/open-models-and-data-projects/#project-tapestry">Project Tapestry</a>, a global initiative to build foundation models with full support for distributed training and data sovereignty. Other initiatives include domain-specific model development in semiconductors and molecular discovery, and cataloging truly open datasets for training and tuning models and agents.
         </td>
         <td>
-          In order for the objectives of the <strong>Open Agent Hub</strong> and the <strong>Open Data and Model Foundry</strong> to be achieved, fundamental requirements must be met for safety, governance, and the expertise required to use AI technologies effectively. You will also find resources for <a href="https://the-ai-alliance.github.io/academic-resources-for-AI/" target="_blank">AI in teaching and research</a> here, too.
+          Successful AI applications have fundamental requirements for safety and governance, as well as the expertise required to use AI technologies effectively. You will also find resources for <a href="https://the-ai-alliance.github.io/academic-resources-for-AI/" target="_blank">AI in teaching and research</a> here, too.
         </td>
       </tr>
       <tr>

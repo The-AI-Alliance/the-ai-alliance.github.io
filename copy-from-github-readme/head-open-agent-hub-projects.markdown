@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Open Agent Hub Projects
+title: Agents and Applications
 nav_order: 20
 has_children: false
 ---
