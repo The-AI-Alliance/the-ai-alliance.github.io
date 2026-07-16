@@ -38,7 +38,7 @@ The AI Alliance Community is a non-profit (501(c)(3)) foundation that supports t
 
 (More links below)
 
-## About Our Projects
+## Other Projects from Our Community
 
 Our unique two-tiered approach of **Core** and **Supported** projects empowers vibrant project growth, a commitment to transparency and permissive use licensing, but without inflexible requirements for IP transfer and rule by committee ([project governance](https://www.thealliance.ai/governance){:target="_blank"}):
 
@@ -55,7 +55,7 @@ The core and supported projects are grouped into the following categories:
   <table>
     <thead>
       <tr>
-        <th class="project-title" style="width: 33%;">Open Agent Hub</th>
+        <th class="project-title" style="width: 33%;">Agents and Applications</th>
         <th class="project-title" style="width: 33%;">Open Models and Data Projects</th>
         <th class="project-title" style="width: 33%;">Safety, Governance, and Education</th>
       </tr>
@@ -63,7 +63,7 @@ The core and supported projects are grouped into the following categories:
     <tbody>
       <tr>
         <td>
-          The <a href="https://the-ai-alliance.github.io/open-agent-hub/" target="_blank">Open Agent Hub</a> is a collaborative community of open-source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference patterns and example implementations.
+          The <a href="https://the-ai-alliance.github.io/open-agent-hub/" target="_blank">Agents and Applications</a> open-source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference patterns and example implementations.
         </td>
         <td>
           The foundation of our open data and model initiatives is <a href="{{site.baseurl}}/open-models-and-data-projects/#project-tapestry">Project Tapestry</a>, a global initiative to build foundation models with full support for distributed training and data sovereignty. Other initiatives include domain-specific model development in semiconductors and molecular discovery, and cataloging truly open datasets for training and tuning models and agents.
