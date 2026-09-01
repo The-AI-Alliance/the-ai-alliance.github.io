@@ -211,6 +211,16 @@ h3.topic {
   max-width: fit-content;
 }
 
-.img-light-border {
+.light-border {
   border: 1px solid #AD94A2; /* #6D6F5D; */
+}
+
+.float-left {
+  float: left;
+  margin: 5px;
+}
+
+.float-right {
+  float: right;
+  margin: 5px;
 }
