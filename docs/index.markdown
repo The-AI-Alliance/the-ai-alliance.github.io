@@ -25,7 +25,7 @@ The AI Alliance Community is a non-profit (501(c)(3)) foundation that supports t
 > the [GitHub repo](https://github.com/The-AI-Alliance/tapestry){:target="_blank"} has
 > all the technical content.
 
-<a href="https://thealliance.ai/projects/tapestry" class="a-img" target="_blank">
+<a href="https://thealliance.ai/projects/tapestry" class="no-glyph" target="_blank">
 <img src="https://the-ai-alliance.github.io/tapestry/assets/images/03-tapestry-logo-1000x545.png" alt="Tapestry Logo">
 </a>
 
