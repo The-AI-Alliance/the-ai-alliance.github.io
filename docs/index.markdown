@@ -27,7 +27,6 @@ The AI Alliance Community is a non-profit (501(c)(3)) foundation that supports t
 > all the technical content.
 {% endcomment %}
 
-
 ## Project Tapestry
 
 <center>
@@ -43,7 +42,6 @@ The AI Alliance [launched](https://thealliance.ai/blog/ai-alliance-launches-proj
 [More details are here]({{site.baseurl}}/open-models-and-data-projects/#project-tapestry) and
 the [GitHub repo](https://github.com/The-AI-Alliance/tapestry){:target="_blank"} has
 all the technical content.
-
 
 ## Useful AI Alliance Links
 

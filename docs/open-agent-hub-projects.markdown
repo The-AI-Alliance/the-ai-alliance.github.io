@@ -26,6 +26,131 @@ Our work groups include engineers, AI researchers, and subject matter experts fr
 
 We welcome your [feedback and help](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md){:target="_blank"}, including suggestions for [new projects](https://events.thealliance.ai/aia-project){:target="_blank"} and [domain-specific use cases](https://qmmqo.share.hsforms.com/2qlmffVx9R8iVNad39JmDPg){:target="_blank"} of importance to you.
 
+## Our Most Active Projects
+
+The following projects are currently the most active. More details are provided in the corresponding _category_ tables below:
+
+* [Semiont](#knowledge-graphs-for-agent-knowledge-bases) ([website](https://the-ai-alliance.github.io/semiont/){:target="_blank"})
+* [Testing Generative AI Agent Applications](#other-agent-tools-and-applications) ([website](https://the-ai-alliance.github.io/ai-application-testing/){:target="_blank"})
+
+## Knowledge Graphs for Agent Knowledge Bases
+
+A set of projects for building _knowledge bases_ using _knowledge graphs_.
+
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th>Links</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/semiont/" target="_blank">Semiont</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/semiont/" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fsemiont%22" target="_blank">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/semiont/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/semiont/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Wiki-like knowledge base supporting graph retrieval, where humans and agents co-create Knowledge. Includes MCP an server. See also the companion projects, <a href="https://the-ai-alliance.github.io/proscenium/" target="_blank">Proscenium</a>, <a href="https://the-ai-alliance.github.io/lapidarist/" target="_blank">Lapidarist</a>, and <a href="https://the-ai-alliance.github.io/bartlebot/" target="_blank">Bartlebot</a>, next.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/proscenium/" target="_blank">Proscenium</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/proscenium/" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fproscenium%22" target="_blank">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/proscenium/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/proscenium/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+           Collaborative, asynchronous human/agent interactions.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/lapidarist/" target="_blank">Lapidarist</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/lapidarist/" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Flapidarist%22" target="_blank">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/lapidarist/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/lapidarist/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Document enrichment and knowledge structure (e.g., knowledge graph) extraction and resolution.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/bartlebot/" target="_blank">Bartlebot</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/bartlebot/" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/bartlebot/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/bartlebot/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Bartlebot is a demonstration of an AI Agent for the legal domain with a Slack integration. It is in early development.
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 <a id="model-context-protocol-section"></a>
 ## Agent Ecosystems with MCP, A2A, and Related Projects
 
@@ -383,124 +508,6 @@ See also other safety and evaluation projects in [AI Safety, Governance, and Edu
         </td>
         <td>
           Tips from experts on using AI for various applications, including popular <i>design patterns</i>. (<a href="https://the-ai-alliance.github.io/applying-ai-guide/contributing/" target="_blank">Contributions are welcome!</a>)
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-## Knowledge Graphs for Agent Knowledge Bases
-
-A set of projects for building _knowledge bases_ using _knowledge graphs_.
-
-<div class="table-wrapper">
-  <table>
-    <thead>
-      <tr>
-        <th>Links</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/semiont/" target="_blank">Semiont</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/semiont/" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fsemiont%22" target="_blank">dashboard</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/semiont/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/semiont/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          Wiki-like knowledge base supporting graph retrieval, where humans and agents co-create Knowledge. Includes MCP an server. See also the companion projects, <a href="https://the-ai-alliance.github.io/proscenium/" target="_blank">Proscenium</a>, <a href="https://the-ai-alliance.github.io/lapidarist/" target="_blank">Lapidarist</a>, and <a href="https://the-ai-alliance.github.io/bartlebot/" target="_blank">Bartlebot</a>, next.
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/proscenium/" target="_blank">Proscenium</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/proscenium/" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fproscenium%22" target="_blank">dashboard</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/proscenium/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/proscenium/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-           Collaborative, asynchronous human/agent interactions.
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/lapidarist/" target="_blank">Lapidarist</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/lapidarist/" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Flapidarist%22" target="_blank">dashboard</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/lapidarist/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/lapidarist/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          Document enrichment and knowledge structure (e.g., knowledge graph) extraction and resolution.
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/bartlebot/" target="_blank">Bartlebot</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/bartlebot/" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/bartlebot/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/bartlebot/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          Bartlebot is a demonstration of an AI Agent for the legal domain with a Slack integration. It is in early development.
         </td>
       </tr>
     </tbody>
