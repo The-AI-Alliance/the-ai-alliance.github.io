@@ -19,8 +19,8 @@ Focusing on domain-specific projects surfaces unique challenges that often gener
 Our work groups include engineers, AI researchers, and subject matter experts from industry-leading organizations. Here is some of our work so far:
 
 * **Industrial AI:** E.g., domain-specific models for **Semiconductor process agents** ([SemiKong](https://github.com/aitomatic/semikong){:target="_blank"} - [paper](https://arxiv.org/abs/2411.13802){:target="_blank"}) and **Marine Navigation** ([Llamarine](https://maritimetechnologyreview.com/2026/01/11/llamarine-ais-new-wave-for-smarter-maritime-navigation/){:target="_blank"} - [paper](https://arxiv.org/abs/2503.00203v3){:target="_blank"}).
+* **Expert Knowledge Graphs:** [Semiont](https://the-ai-alliance.github.io/semiont/){:target="_blank"}, a Wiki-like knowledge base supporting graph retrieval, where humans and agents co-create Knowledge, and [Bartlebot](https://the-ai-alliance.github.io/bartlebot/){:target="_blank"}, a demonstration AI Agent for the legal domain integrated with Slack.
 * **Deep Research in Finance, Medical, etc.:** [Deep Research Agent for Applications](https://the-ai-alliance.github.io/deep-research-agent-for-applications/){:target="_blank"} implements the widely-applicable agent pattern, _deep research_, with example applications for finance, medicine, and [ArXiv](https://arxiv.org){:target="_blank"} exploration.
-* **Expert Knowledge Graphs:** [Semiont](https://the-ai-alliance.github.io/semiont/){:target="_blank"}, a Wiki-like knowledge base supporting graph retrieval, where humans and agents co-create Knowledge, and [Bartlebot](https://the-ai-alliance.github.io/bartlebot/){:target="_blank"}, a demonstration AI Agent for the legal domain integrated with Slack. 
 * **Geospatial:** [GeoBench](https://github.com/ServiceNow/geo-bench){:target="_blank"}, an Earth observation benchmark for evaluating LLM performance on geospatial data, and [TerraTorch](https://github.com/IBM/terratorch){:target="_blank"}, a Python toolkit for fine-tuning Geospatial Foundation Models (GFMs).
 * **Chemistry and Materials:** Foundation models for [molecular analysis](https://huggingface.co/ibm-research/materials.smi-ted){:target="_blank"}.
 
@@ -31,7 +31,7 @@ We welcome your [feedback and help](https://github.com/The-AI-Alliance/community
 The following projects are currently the most active. More details are provided in the corresponding _category_ tables below:
 
 * [Semiont](#knowledge-graphs-for-agent-knowledge-bases) ([website](https://the-ai-alliance.github.io/semiont/){:target="_blank"})
-* [Testing Generative AI Agent Applications](#other-agent-tools-and-applications) ([website](https://the-ai-alliance.github.io/ai-application-testing/){:target="_blank"})
+* [Testing Generative AI Applications](#other-agent-tools-and-applications) ([website](https://the-ai-alliance.github.io/ai-application-testing/){:target="_blank"})
 
 ## Knowledge Graphs for Agent Knowledge Bases
 
@@ -48,7 +48,7 @@ A set of projects for building _knowledge bases_ using _knowledge graphs_.
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/semiont/" target="_blank">Semiont</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
+          <a href="https://the-ai-alliance.github.io/semiont/" target="_blank">Semiont</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/><sup>1</sup>
         </td>
       </tr>
       <tr>
@@ -69,90 +69,18 @@ A set of projects for building _knowledge bases_ using _knowledge graphs_.
           </ul>
         </td>
         <td>
-          Wiki-like knowledge base supporting graph retrieval, where humans and agents co-create Knowledge. Includes MCP an server. See also the companion projects, <a href="https://the-ai-alliance.github.io/proscenium/" target="_blank">Proscenium</a>, <a href="https://the-ai-alliance.github.io/lapidarist/" target="_blank">Lapidarist</a>, and <a href="https://the-ai-alliance.github.io/bartlebot/" target="_blank">Bartlebot</a>, next.
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/proscenium/" target="_blank">Proscenium</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/proscenium/" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Fproscenium%22" target="_blank">dashboard</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/proscenium/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/proscenium/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-           Collaborative, asynchronous human/agent interactions.
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/lapidarist/" target="_blank">Lapidarist</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/lapidarist/" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/34/views/2?filterQuery=repo%3A%22The-AI-Alliance%2Flapidarist%22" target="_blank">dashboard</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/lapidarist/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/lapidarist/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          Document enrichment and knowledge structure (e.g., knowledge graph) extraction and resolution.
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/bartlebot/" target="_blank">Bartlebot</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/bartlebot/" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/bartlebot/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/bartlebot/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          Bartlebot is a demonstration of an AI Agent for the legal domain with a Slack integration. It is in early development.
+          Wiki-like knowledge base supporting graph retrieval, where humans and agents co-create Knowledge. Includes MCP an server. See also the <a href="https://github.com/orgs/The-AI-Alliance/repositories?q=semiont" target="_blank">companion projects</a>, including support tools and synthetic, domain-specific, knowledge bases.
         </td>
       </tr>
     </tbody>
   </table>
 </div>
 
+<a id="footnote-1"></a>
+<sup>1</sup> The icon indicates an Alliance <em>core</em> project.
+
 <a id="model-context-protocol-section"></a>
-## Agent Ecosystems with MCP, A2A, and Related Projects
+## Protocols
 
 The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:target="_blank"} (MCP) from [Anthropic](https://www.anthropic.com/){:target="_blank"} is quickly becoming an industry standard for communications between models, tool, and data repositories. A competing project with more emphasis on the unique requirements for agents is the [Agent2Agent](https://a2a-protocol.org/latest/){:target="_blank"} (A2A) protocol. The AI Alliance seeks to advance the application of these protocols and related tools to foster the development of robust distributed AI systems.
 
@@ -167,7 +95,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:targ
     <tbody>
       <tr>
         <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/enterprise-MCP/" target="_blank">MCP (and Beyond) in the Enterprise: A User Guide</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/><a href="#footnote-1"><sup>1</sup></a>
+          <a href="https://the-ai-alliance.github.io/enterprise-MCP/" target="_blank">MCP (and Beyond) in the Enterprise: A User Guide</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/><a href="#footnote-1"></a>
         </td>
       </tr>
       <tr>
@@ -188,7 +116,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:targ
           </ul>
         </td>
         <td>
-           Model Context Protocol (MCP) has enormous potential to accelerate AI adoption in enterprises. Alternative protocols and complementary tools are also emerging rapidly. This "living" user guide features chapters written by experts on various aspects of deploying, managing, and using these tools successfully in enterprise settings. It contains the first several chapters with many more coming soon. (<a href="https://the-ai-alliance.github.io/enterprise-MCP/contributing/" target="_blank">Contributions are welcome!</a>)
+           Model Context Protocol (MCP) has enormous potential to accelerate AI adoption in enterprises. Alternative protocols and complementary tools are also emerging rapidly. This "living" user guide features chapters written by experts on various aspects of deploying, managing, and using these tools successfully in enterprise settings. It contains the first several chapters with many more coming soon. (<a href="https://the-ai-alliance.github.io/enterprise-MCP/contributing/" target="_blank">Contributions are welcome!</a>) The _Deep Research Agent for Applications_, discussed below, relies heavily on MCP for gathering information.
         </td>
       </tr>
       <tr>
@@ -215,32 +143,6 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:targ
         </td>
         <td>
            Context Forge is an AI application management suite, with support for protocols like MCP, A2A, REST, etc. It serves as a central management point for tools, resources, and prompts, as well as observability, security, and access control. (Principal developer: <a href="https://ibm.com" target="_blank">IBM</a>)
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/deep-research-agent-for-applications/" target="_blank">Deep Research Agent for Applications</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/deep-research-agent-for-applications/" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/42/views/2?filterQuery=repo%3AThe-AI-Alliance%2Fdeep-research-agent-for-applications" target="_blank">dashboard</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/deep-research-agent-for-applications/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/deep-research-agent-for-applications/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          The <a href="https://the-ai-alliance.github.io/deep-research-agent-for-applications/" target="_blank">Deep Research Agent for Applications</a> demonstrates MCP in action for an important, common design pattern, <em>Deep Research Agents</em>. The first example application shows how a financial analyst can use a deep research agent to find, aggregate, and analyze information about a public company (or other potential investment). The second example explores recent medical research on diseases and pharmaceuticals. The third example supports finding and summarizing recent research papers posted to <a href="https://arxiv.org" target="_blank">ArXiv</a>. There are many other applications possible. The project is a collaboration of <a href="https://www.lastmileai.dev/" target="_blank">LastMile AI</a> and <a href="https://ibm.com" target="_blank">IBM</a>. It is based on LastMile's <a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">MCP Agent</a>. See the <a href="https://www.thealliance.ai/blog/building-a-deep-research-agent-using-mcp-agent" target="_blank">recent Alliance blog post</a> on LastMile's lessons learned developing the <em>orchestration</em> feature in MCP Agent for deep research and related use cases. Highly informative!
         </td>
       </tr>
       <tr>
@@ -273,16 +175,9 @@ The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:targ
   </table>
 </div>
 
-<a id="footnote-1"></a>
-<sup>1</sup> The icon indicates an Alliance <em>core</em> project.
-
 ## Agent Development Tools
 
-See also <a href="https://the-ai-alliance.github.io/deep-research-agent-for-applications/" target="_blank">Deep Research Agent for Applications</a>, discussed <a href="#model-context-protocol-section">above</a>.
-
-### CUBE - Common Unified Benchmark Environment
-
-See also other safety and evaluation projects in [AI Safety, Governance, and Education]({{site.baseurl}}/safety-governance-education-projects).
+See also projects focused on safety, evaluation, and alignment in [AI Safety, Governance, and Education]({{site.baseurl}}/safety-governance-education-projects).
 
 <div class="table-wrapper">
   <table>
@@ -293,6 +188,58 @@ See also other safety and evaluation projects in [AI Safety, Governance, and Edu
       </tr>
     </thead>
     <tbody>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">Testing Generative AI Applications</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/ai-application-testing/" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/31" target="_blank">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/ai-application-testing/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/ai-application-testing/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Are you an enterprise developer? How should you test AI applications? You know how to write <em>deterministic</em> tests for your "pre-AI" applications. What should you do when you add generative AI models, which aren't deterministic? This project adapts existing evaluation techniques for the "last mile" of AI evaluation; verifying that an AI application correctly implements its requirements and use cases, going beyond the general concerns of evaluation for safety, security, etc. We are building nontrivial, reusable examples and instructional materials, so you can use these techniques effectively in combination with the traditional tools you already know. (This project is also discussed under the <a href="{{site.baseurl}}/safety-governance-education-projects">AI Safety, Governance, and Education</a> projects.)
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/deep-research-agent-for-applications/" target="_blank">Deep Research Agent for Applications</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/deep-research-agent-for-applications/" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/42/views/2?filterQuery=repo%3AThe-AI-Alliance%2Fdeep-research-agent-for-applications" target="_blank">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/deep-research-agent-for-applications/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/deep-research-agent-for-applications/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          The <a href="https://the-ai-alliance.github.io/deep-research-agent-for-applications/" target="_blank">Deep Research Agent for Applications</a> demonstrates MCP in action for an important, common design pattern, <em>Deep Research Agents</em>. The first example application shows how a financial analyst can use a deep research agent to find, aggregate, and analyze information about a public company (or other potential investment). The second example explores recent medical research on diseases and pharmaceuticals. The third example supports finding and summarizing recent research papers posted to <a href="https://arxiv.org" target="_blank">ArXiv</a>. There are many other applications possible. The project is a collaboration of <a href="https://www.lastmileai.dev/" target="_blank">LastMile AI</a> and <a href="https://ibm.com" target="_blank">IBM</a>. It is based on LastMile's <a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">MCP Agent</a>. See the <a href="https://www.thealliance.ai/blog/building-a-deep-research-agent-using-mcp-agent" target="_blank">recent Alliance blog post</a> on LastMile's lessons learned developing the <em>orchestration</em> feature in MCP Agent for deep research and related use cases. Highly informative!
+        </td>
+      </tr>
       <tr>
         <td class="project-title" colspan="2">
           CUBE - Common Unified Benchmark Environment: <a href="https://github.com/The-AI-Alliance/cube-standard/" target="_blank">Standard</a>, <a href="https://github.com/The-AI-Alliance/cube-harness/" target="_blank">Harness</a>, and <a href="https://github.com/The-AI-Alliance/cube-registry/" target="_blank">Registry</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
@@ -349,48 +296,7 @@ See also other safety and evaluation projects in [AI Safety, Governance, and Edu
           (Principal developer: <a href="https://servicenow.com/" target="_blank">ServiceNow</a>)
         </td>
       </tr>
-    </tbody>
-  </table>
-</div>
-
-### Other Agent Tools and Applications
-
-<div class="table-wrapper">
-  <table>
-    <thead>
-      <tr>
-        <th>Links</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/ai-application-testing/" target="_blank">Testing Generative AI Agent Applications</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/ai-application-testing/" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/31" target="_blank">dashboard</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/ai-application-testing/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/ai-application-testing/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          Are you an enterprise developer? How should you test AI applications? You know how to write <em>deterministic</em> tests for your "pre-AI" applications. What should you do when you add generative AI models, which aren't deterministic? This project adapts existing evaluation techniques for the "last mile" of AI evaluation; verifying that an AI application correctly implements its requirements and use cases, going beyond the general concerns of evaluation for safety, security, etc. We are building nontrivial, reusable examples and instructional materials, so you can use these techniques effectively in combination with the traditional tools you already know. (This project is also discussed under the <a href="{{site.baseurl}}/safety-governance-education-projects">AI Safety, Governance, and Education</a> projects.)
-        </td>
-      </tr>
-      <tr>
+     <tr>
         <td class="project-title" colspan="2">
           <a href="https://cuga.dev" target="_blank">CUGA - Configurable Generalist Agent</a>
         </td>
@@ -410,7 +316,7 @@ See also other safety and evaluation projects in [AI Safety, Governance, and Edu
           </ul>
         </td>
         <td>
-          CUGA is an open-source generalist agent framework from IBM Research, purpose-built for enterprise automation. Designed for developers, CUGA combines and improves the best of foundational agentic patterns such as ReAct, CodeAct, and Planner-Executor into a modular architecture enabling trustworthy, policy-aware, and composable automation across web interfaces, APIs, and custom enterprise systems.
+          CUGA is an open-source generalist agent framework, purpose-built for enterprise automation. Designed for developers, CUGA combines and improves the best of foundational agentic patterns such as ReAct, CodeAct, and Planner-Executor into a modular architecture enabling trustworthy, policy-aware, and composable automation across web interfaces, APIs, and custom enterprise systems. (Principal developer: IBM Research)
         </td>
       </tr>
       <tr>
@@ -514,151 +420,11 @@ See also other safety and evaluation projects in [AI Safety, Governance, and Edu
   </table>
 </div>
 
-
-## Llama Stack and Llama Stack Agents
-
-The [Llama Stack](https://github.com/meta-llama/llama-stack){:target="_blank"} project standardizes the core building blocks that simplify AI application development. It codifies best practices across the Llama ecosystem, integrates with other open-source tools and managed services, and provides APIs for inference, evaluation, agents, [MCP](#model-context-protocol-section), and deployment requirements like observability. It is designed to support both on-premise and cloud deployments. The ecosystem provides many example applications to help developers build and deploy AI applications quickly and effectively.
-
-AI Alliance members are contributing directly to Llama Stack development, as well as building example applications that illustrate its use in various enterprise scenarios. The `llama-stack-examples` project has two initial example applications, described in the table below. The first  app is a simple getting-started chatbot that shows you the basics of creating an app with Llama Stack and how to run it. The second app (in development) is a _deep research_ application, a popular class of AI applications, which will demonstrate Llama Stack support for technologies like agents and [MCP](#model-context-protocol-section). Other examples under consideration will be chosen to cover other common application patterns seen in several industries. [Please join us!](https://www.thealliance.ai/join){:target="_blank"}.
-
-<div class="table-wrapper">
-  <table>
-    <thead>
-      <tr>
-        <th>Links</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://github.com/meta-llama/llama-stack" target="_blank">Llama Stack</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://llama-stack.readthedocs.io/en/latest/" target="_blank">documentation</a>
-            </li>
-            <li>
-              <a href="https://github.com/meta-llama/llama-stack" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/meta-llama/llama-stack/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/meta-llama/llama-stack/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          The <a href="https://github.com/meta-llama/llama-stack" target="_blank">Llama Stack</a> project itself.<br/>
-          See also the <a href="https://github.com/llamastack/llama-stack-client-python" target="_blank">Llama Stack Python Client</a>. 
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://github.com/llamastack/llama-stack-apps" target="_blank">Llama Stack Example Apps</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/llamastack/llama-stack-apps" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/llamastack/llama-stack-apps/issues" target="_blank">issues</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          A growing suite of example applications for <a href="https://github.com/meta-llama/llama-stack" target="_blank">Llama Stack</a> that demonstrate how to build applications that use the RAG pattern and agents.<br/>
-          See also the <a href="https://github.com/opendatahub-io/llama-stack-demos" target="_blank">Llama Stack Demos for OpenShift and Kubernetes</a>.
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://github.com/The-AI-Alliance/llama-stack-examples" target="_blank">AI Alliance Llama Stack Example Apps</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/llama-stack-examples" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/llama-stack-examples/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/llama-stack-examples/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          A growing suite of example applications for <a href="https://github.com/meta-llama/llama-stack" target="_blank">Llama Stack</a> that demonstrate various stack features and common application patterns:
-          <ol>
-            <li>
-              A getting-started chatbot app, which shows how to build and deploy Llama Stack applications. It includes two different UI options and inference with an <a href="https://ollama.com" target="_blank">ollama</a>-hosted <a href="https://www.llama.com/models/llama-3/" target="_blank">Llama 3</a> model.
-            </li>
-            <li>
-              Jupyter Notebooks that demonstrate several APIs, like the new Responses API (<a href="https://developers.redhat.com/articles/2025/08/20/your-agent-your-rules-deep-dive-responses-api-llama-stack" target="_blank">blog post</a>).
-            </li>
-            <li>
-              A <em>deep research</em> app (under development), which illustrates an emerging, common application pattern for AI. The user asks for detailed information about a topic, for example the market performance and financials for a publicly-traded company, agents find relevant data from diverse sources, and finally an LLM digests the information retrieved and prepares a report. This example will demonstrate Llama Stack support for agent-based application development, including the use of protocols like <a href="#model-context-protocol-section">MCP</a>.
-            </li>
-          </ol>
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://github.com/raghotham/cc-vec" target="_blank">CCVec - Common Crawl to Vector Stores</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/raghotham/cc-vec" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/raghotham/cc-vec/issues" target="_blank">issues</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          Search, analyze, and index Common Crawl data into vector stores for RAG applications, with three interfaces: CLI, Python library, and an MCP server. (Principal developers: <a href="https://commoncrawl.org/" target="_blank">Common Crawl Foundation</a> and <a href="https://meta.com" target="_blank">Meta</a>)
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://www.redhat.com/en/lightspeed" target="_blank">Red Hat Lightspeed</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/rhel-lightspeed" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://docs.redhat.com/en/documentation/red_hat_lightspeed/1-latest" target="_blank">docs</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          An end-to-end system management tool that predicts risks across Red Hat platforms, recommends actions, and tracks costs. Red Hat Lightspeed uses AI-powered package recommendations and planning capabilities to provide targeted guidance on increasing your systems’ day-to-day efficiency. (Principal developer: <a href="https://redhat.com" target="_blank">Red Hat</a>)
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 ## Deployment and Scaling
 
 Deploying and scaling AI systems is critical for cost-effective use of AI. There is the growing diversity of hardware accelerators for AI, not only for servers, but for edge devices, too. Developers want the ability to write AI applications that efficiently and transparently scale across different deployment scenarios, from PoCs and single-node deployments on development laptops and edge devices, up to large-scale clustered deployments supporting many users.
+
+See also [Red Hat Lightspeed]({{site.baseurl}}/safety-governance-education-projects).
 
 <div class="table-wrapper">
   <table>

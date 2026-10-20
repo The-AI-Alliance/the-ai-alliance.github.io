@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Microsite Cheat Sheet
-nav_order: 200
+title: Appendix - Microsite Cheat Sheet
+nav_order: 900
 ---
 
-# Microsite Cheat Sheet
+# Appendix: Microsite Cheat Sheet
 
-For those people working with the _microsites_, e.g., those sites cloned using [`microsite-template`](https://github.com/The-AI-Alliance/microsite-template){:target="_blank"}, here is a cheat sheet for working with them. See also the instructions in [`README-template.md`](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md){:target="_blank"} in the `microsite-template` repo for more details.
+For those people working with the _microsites_, e.g., those sites cloned using [`microsite-template`](https://github.com/The-AI-Alliance/microsite-template){:target="_blank"}, here is a cheat sheet for working with them. See also the instructions in [`README-instructions.md`](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-instructions.md){:target="_blank"} in the `microsite-template` repo for more details.
 
 
 <details open markdown="block">
@@ -22,12 +22,10 @@ For those people working with the _microsites_, e.g., those sites cloned using [
 
 First, here are some useful reference links and other notes:
 
-* The `microsite-template`, which is cloned to create microsites: [github.com/The-AI-Alliance/microsite-template](https://github.com/The-AI-Alliance/microsite-template){:target="_blank"}
-	* The instructions for using the template: [README-template.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-template.md){:target="_blank"}
-* The “pretty” website for our GitHub organization: [the-ai-alliance.github.io/](https://the-ai-alliance.github.io/){:target="_blank"}
-	* (You are now reading a page on that site :grin:)
-    * The content is identical to the Alliance GitHub organization's `README` page: [github.com/The-AI-Alliance/](https://github.com/The-AI-Alliance/){:target="_blank"}.
-	* The [list of repositories](https://github.com/orgs/The-AI-Alliance/repositories){:target="_blank"} (“repos”).
+* The `microsite-template`, which is cloned to create microsites: [github.com/The-AI-Alliance/microsite-template](https://github.com/The-AI-Alliance/microsite-template){:target="_blank"}.
+	* The instructions for using the template: [README-instructions.md](https://github.com/The-AI-Alliance/microsite-template/blob/main/README-instructions.md){:target="_blank"}
+* The “pretty” website for our GitHub organization: [the-ai-alliance.github.io/](https://the-ai-alliance.github.io/){:target="_blank"} (You are now reading a page on that site :grin:)
+* The [list of AI Alliance repositories](https://github.com/orgs/The-AI-Alliance/repositories){:target="_blank"}, many of which were cloned from the `microsite-template` repo.
 
 ### Need a Text Editor for Your Mac?
 
