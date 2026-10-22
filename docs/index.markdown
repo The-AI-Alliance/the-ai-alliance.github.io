@@ -53,33 +53,30 @@ all the technical content.
 
 ## Other Projects from Our Community
 
-Our unique two-tiered approach of **Core** and **Supported** projects empowers vibrant project growth, a commitment to transparency and permissive use licensing, but without inflexible requirements for IP transfer and rule by committee ([project governance](https://www.thealliance.ai/governance){:target="_blank"}):
+We have built up a portfolio of _core_ projects, which we manage and develop ourselves. They are indicated with the <img src="{{site.baseurl}}/assets/images/favicon-16x16.png" alt="AI Alliance icon"/> icon. These pages also describe _supported_ projects, which our members have developed and we believe are notable for filling key roles in the AI ecosystem.
 
-> * **Core Projects:** owned and managed by the AI Alliance (indicated with the <img src="{{site.baseurl}}/assets/images/favicon-16x16.png" alt="AI Alliance icon"/> icon).
-> * **Supported Projects:** owned and managed by an AI Alliance member organization with collaborators. 
-
-All of the projects welcome [new contributors](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md){:target="_blank"}. 
+All of the projects welcome [new contributors](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md){:target="_blank"}. See also our [project governance](https://www.thealliance.ai/governance){:target="_blank"} policies.
 
 <a id="project-categories"></a>
 
-The core and supported projects are grouped into the following categories:
+The projects are grouped into the following categories:
 
 <div class="table-wrapper">
   <table>
     <thead>
       <tr>
-        <th class="project-title" style="width: 33%;">Agents and Applications</th>
         <th class="project-title" style="width: 33%;">Open Models and Data Projects</th>
+        <th class="project-title" style="width: 33%;">Agents and Applications</th>
         <th class="project-title" style="width: 33%;">Safety, Governance, and Education</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td>
-          The <a href="https://the-ai-alliance.github.io/open-agent-hub/" target="_blank">Agents and Applications</a> open-source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference patterns and example implementations.
+          The foundation of our open data and model initiatives is <a href="{{site.baseurl}}/open-models-and-data-projects/#project-tapestry">Project Tapestry</a>, a global initiative to build foundation models with full support for distributed training and data sovereignty. Other initiatives include domain-specific model development in semiconductors and molecular discovery, and cataloging truly open datasets for training and tuning models and agents.
         </td>
         <td>
-          The foundation of our open data and model initiatives is <a href="{{site.baseurl}}/open-models-and-data-projects/#project-tapestry">Project Tapestry</a>, a global initiative to build foundation models with full support for distributed training and data sovereignty. Other initiatives include domain-specific model development in semiconductors and molecular discovery, and cataloging truly open datasets for training and tuning models and agents.
+          The <a href="https://the-ai-alliance.github.io/open-agent-hub/" target="_blank">Agents and Applications</a> open-source AI projects and domain-specific work groups that seek to make AI Agents successful in the real world through fast experimentation and distillation of learning into usable reference patterns and example implementations.
         </td>
         <td>
           Successful AI applications have fundamental requirements for safety and governance, as well as the expertise required to use AI technologies effectively. You will also find resources for <a href="https://the-ai-alliance.github.io/academic-resources-for-AI/" target="_blank">AI in teaching and research</a> here, too.
@@ -87,10 +84,10 @@ The core and supported projects are grouped into the following categories:
       </tr>
       <tr>
         <td>
-          <a href="{{site.baseurl}}/open-agent-hub-projects"><strong>Key Projects</strong></a>
+          <a href="{{site.baseurl}}/open-models-and-data-projects"><strong>Key Projects</strong></a>
         </td>
         <td>
-          <a href="{{site.baseurl}}/open-models-and-data-projects"><strong>Key Projects</strong></a>
+          <a href="{{site.baseurl}}/open-agent-hub-projects"><strong>Key Projects</strong></a>
         </td>
         <td>
           <a href="{{site.baseurl}}/safety-governance-education-projects"><strong>Key Projects</strong></a>

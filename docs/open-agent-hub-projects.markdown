@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Agents and Applications
-nav_order: 20
+nav_order: 30
 has_children: false
 ---
 
@@ -19,12 +19,14 @@ Focusing on domain-specific projects surfaces unique challenges that often gener
 Our work groups include engineers, AI researchers, and subject matter experts from industry-leading organizations. Here is some of our work so far:
 
 * **Industrial AI:** E.g., domain-specific models for **Semiconductor process agents** ([SemiKong](https://github.com/aitomatic/semikong){:target="_blank"} - [paper](https://arxiv.org/abs/2411.13802){:target="_blank"}) and **Marine Navigation** ([Llamarine](https://maritimetechnologyreview.com/2026/01/11/llamarine-ais-new-wave-for-smarter-maritime-navigation/){:target="_blank"} - [paper](https://arxiv.org/abs/2503.00203v3){:target="_blank"}).
-* **Expert Knowledge Graphs:** [Semiont](https://the-ai-alliance.github.io/semiont/){:target="_blank"}, a Wiki-like knowledge base supporting graph retrieval, where humans and agents co-create Knowledge, and [Bartlebot](https://the-ai-alliance.github.io/bartlebot/){:target="_blank"}, a demonstration AI Agent for the legal domain integrated with Slack.
-* **Deep Research in Finance, Medical, etc.:** [Deep Research Agent for Applications](https://the-ai-alliance.github.io/deep-research-agent-for-applications/){:target="_blank"} implements the widely-applicable agent pattern, _deep research_, with example applications for finance, medicine, and [ArXiv](https://arxiv.org){:target="_blank"} exploration.
+* **Expert Knowledge Graphs:** [Semiont](https://the-ai-alliance.github.io/semiont/){:target="_blank"}, a Wiki-like knowledge base supporting graph retrieval, where humans and agents co-create Knowledge.
+* **Deep Research Agents for Finance, Medical, etc.:** [Deep Research Agent for Applications](https://the-ai-alliance.github.io/deep-research-agent-for-applications/){:target="_blank"} implements the widely-applicable agent pattern, _deep research_, with example applications for finance, medicine, and [ArXiv](https://arxiv.org){:target="_blank"} exploration.
 * **Geospatial:** [GeoBench](https://github.com/ServiceNow/geo-bench){:target="_blank"}, an Earth observation benchmark for evaluating LLM performance on geospatial data, and [TerraTorch](https://github.com/IBM/terratorch){:target="_blank"}, a Python toolkit for fine-tuning Geospatial Foundation Models (GFMs).
 * **Chemistry and Materials:** Foundation models for [molecular analysis](https://huggingface.co/ibm-research/materials.smi-ted){:target="_blank"}.
 
+{% comment %}
 We welcome your [feedback and help](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md){:target="_blank"}, including suggestions for [new projects](https://events.thealliance.ai/aia-project){:target="_blank"} and [domain-specific use cases](https://qmmqo.share.hsforms.com/2qlmffVx9R8iVNad39JmDPg){:target="_blank"} of importance to you.
+{% endcomment %}
 
 ## Our Most Active Projects
 
@@ -78,102 +80,6 @@ A set of projects for building _knowledge bases_ using _knowledge graphs_.
 
 <a id="footnote-1"></a>
 <sup>1</sup> The icon indicates an Alliance <em>core</em> project.
-
-<a id="model-context-protocol-section"></a>
-## Protocols
-
-The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:target="_blank"} (MCP) from [Anthropic](https://www.anthropic.com/){:target="_blank"} is quickly becoming an industry standard for communications between models, tool, and data repositories. A competing project with more emphasis on the unique requirements for agents is the [Agent2Agent](https://a2a-protocol.org/latest/){:target="_blank"} (A2A) protocol. The AI Alliance seeks to advance the application of these protocols and related tools to foster the development of robust distributed AI systems.
-
-<div class="table-wrapper">
-  <table>
-    <thead>
-      <tr>
-        <th>Links</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://the-ai-alliance.github.io/enterprise-MCP/" target="_blank">MCP (and Beyond) in the Enterprise: A User Guide</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/><a href="#footnote-1"></a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/enterprise-MCP" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/The-AI-Alliance/projects/34" target="_blank">dashboard</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/enterprise-MCP/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/The-AI-Alliance/enterprise-MCP/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-           Model Context Protocol (MCP) has enormous potential to accelerate AI adoption in enterprises. Alternative protocols and complementary tools are also emerging rapidly. This "living" user guide features chapters written by experts on various aspects of deploying, managing, and using these tools successfully in enterprise settings. It contains the first several chapters with many more coming soon. (<a href="https://the-ai-alliance.github.io/enterprise-MCP/contributing/" target="_blank">Contributions are welcome!</a>) The _Deep Research Agent for Applications_, discussed below, relies heavily on MCP for gathering information.
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://ibm.github.io/mcp-context-forge/" target="_blank">Context Forge</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/IBM/mcp-context-forge" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/IBM/projects/118" target="_blank">dashboard</a>
-            </li>
-            <li>
-              <a href="https://github.com/IBM/mcp-context-forge/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/IBM/mcp-context-forge/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-           Context Forge is an AI application management suite, with support for protocols like MCP, A2A, REST, etc. It serves as a central management point for tools, resources, and prompts, as well as observability, security, and access control. (Principal developer: <a href="https://ibm.com" target="_blank">IBM</a>)
-        </td>
-      </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://nlip-project.org/" target="_blank">NLIP Project</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://ecma-international.org/technical-committees/tc56/" target="_blank">ECMA TC-56</a>
-            </li>
-            <li>
-              <a href="https://github.com/nlip-project" target="_blank">GitHub org</a>
-            </li>
-            <li>
-              <a href="https://github.com/orgs/nlip-project/projects/3" target="_blank">dashboard</a>
-            </li>
-            <li>
-              <a href="https://github.com/nlip-project/documents" target="_blank">other documents</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> developed an open-source protocol for intelligent agents to communicate with each other and with humans using natural language. NLIP is designed to perform the role of a meta-protocol that allows agents from other ecosystems to communicate with one another including interfaces with other protocols such as A2A, ACP, AGNTCY, MCP, NANDA, etc. It is now an <a href="https://ecma-international.org/" target="_blank">ECMA</a> standard, <a href="https://ecma-international.org/technical-committees/tc56/" target="_blank">TC-56 NLIP, Natural Language Interaction Protocol</a>. The project is developing reference implementations of the protocol and end-points. The <a href="https://the-ai-alliance.github.io/enterprise-MCP/" target="_blank">MCP (and Beyond) in the Enterprise: A User Guide</a>, discussed <a href="#model-context-protocol-section">above</a> has a chapter on NLIP.
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
 
 ## Agent Development Tools
 
@@ -414,6 +320,102 @@ See also projects focused on safety, evaluation, and alignment in [AI Safety, Go
         </td>
         <td>
           Tips from experts on using AI for various applications, including popular <i>design patterns</i>. (<a href="https://the-ai-alliance.github.io/applying-ai-guide/contributing/" target="_blank">Contributions are welcome!</a>)
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<a id="model-context-protocol-section"></a>
+## Protocols
+
+The [Model Context Protocol](https://modelcontextprotocol.io/introduction){:target="_blank"} (MCP) from [Anthropic](https://www.anthropic.com/){:target="_blank"} is quickly becoming an industry standard for communications between models, tool, and data repositories. A competing project with more emphasis on the unique requirements for agents is the [Agent2Agent](https://a2a-protocol.org/latest/){:target="_blank"} (A2A) protocol. The AI Alliance seeks to advance the application of these protocols and related tools to foster the development of robust distributed AI systems.
+
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th>Links</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://the-ai-alliance.github.io/enterprise-MCP/" target="_blank">MCP (and Beyond) in the Enterprise: A User Guide</a> <img src="https://the-ai-alliance.github.io/assets/images/favicon-16x16.png" alt="AI Alliance icon"/><a href="#footnote-1"></a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/enterprise-MCP" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/The-AI-Alliance/projects/34" target="_blank">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/enterprise-MCP/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/The-AI-Alliance/enterprise-MCP/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+           Model Context Protocol (MCP) has enormous potential to accelerate AI adoption in enterprises. Alternative protocols and complementary tools are also emerging rapidly. This "living" user guide features chapters written by experts on various aspects of deploying, managing, and using these tools successfully in enterprise settings. It contains the first several chapters with many more coming soon. (<a href="https://the-ai-alliance.github.io/enterprise-MCP/contributing/" target="_blank">Contributions are welcome!</a>) The _Deep Research Agent for Applications_, discussed below, relies heavily on MCP for gathering information.
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://ibm.github.io/mcp-context-forge/" target="_blank">Context Forge</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/IBM/mcp-context-forge" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/IBM/projects/118" target="_blank">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/IBM/mcp-context-forge/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/IBM/mcp-context-forge/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+           Context Forge is an AI application management suite, with support for protocols like MCP, A2A, REST, etc. It serves as a central management point for tools, resources, and prompts, as well as observability, security, and access control. (Principal developer: <a href="https://ibm.com" target="_blank">IBM</a>)
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
+          <a href="https://nlip-project.org/" target="_blank">NLIP Project</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://ecma-international.org/technical-committees/tc56/" target="_blank">ECMA TC-56</a>
+            </li>
+            <li>
+              <a href="https://github.com/nlip-project" target="_blank">GitHub org</a>
+            </li>
+            <li>
+              <a href="https://github.com/orgs/nlip-project/projects/3" target="_blank">dashboard</a>
+            </li>
+            <li>
+              <a href="https://github.com/nlip-project/documents" target="_blank">other documents</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          The <a href="https://nlip-project.org/" target="_blank">NLIP project</a> developed an open-source protocol for intelligent agents to communicate with each other and with humans using natural language. NLIP is designed to perform the role of a meta-protocol that allows agents from other ecosystems to communicate with one another including interfaces with other protocols such as A2A, ACP, AGNTCY, MCP, NANDA, etc. It is now an <a href="https://ecma-international.org/" target="_blank">ECMA</a> standard, <a href="https://ecma-international.org/technical-committees/tc56/" target="_blank">TC-56 NLIP, Natural Language Interaction Protocol</a>. The project is developing reference implementations of the protocol and end-points. The <a href="https://the-ai-alliance.github.io/enterprise-MCP/" target="_blank">MCP (and Beyond) in the Enterprise: A User Guide</a>, discussed <a href="#model-context-protocol-section">above</a> has a chapter on NLIP.
         </td>
       </tr>
     </tbody>

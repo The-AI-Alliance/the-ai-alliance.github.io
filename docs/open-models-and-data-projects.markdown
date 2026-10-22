@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Open Models and Data Projects
-nav_order: 30
+nav_order: 20
 has_children: false
 ---
 
@@ -114,6 +114,29 @@ Good datasets are essential for building good models and applications. The AI Al
       </tr>
       <tr>
         <td class="project-title" colspan="2">
+          <a href="https://docling-project.github.io/docling/" target="_blank">Docling</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>
+              <a href="https://github.com/docling-project/docling/" target="_blank">repo</a>
+            </li>
+            <li>
+              <a href="https://github.com/docling-project/docling/issues" target="_blank">issues</a>
+            </li>
+            <li>
+              <a href="https://github.com/docling-project/docling/discussions" target="_blank">discussions</a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          Docling simplifies document processing, parsing diverse formats — including advanced PDF understanding — and providing seamless integrations with the gen AI ecosystem. Docling is a key tool for the project <em>Parsing PDFs to Build AI Datasets for Science</em>, discussed above. (Principal developer: <a href="https://ibm.com/" target="_blank">IBM</a>)
+        </td>
+      </tr>
+      <tr>
+        <td class="project-title" colspan="2">
           <a href="https://huggingface.co/datasets/PleIAs/SYNTH" target="_blank">SYNTH</a>
         </td>
       </tr>
@@ -129,7 +152,7 @@ Good datasets are essential for building good models and applications. The AI Al
           </ul>
         </td>
         <td>
-          SYNTH is a synthetic dataset built from Wikipedia to teach AI models reasoning skills more efficiently than standard web data. Two small models trained on it achieved top benchmark results using 10-50x less data than comparable models. (Principal developer: [Pleais](https://pleias.fr){:target="_blank"})
+          SYNTH is a synthetic dataset built from Wikipedia to teach AI models reasoning skills more efficiently than standard web data. Two small models trained on it achieved top benchmark results using 10-50x less data than comparable models. (Principal developer: <a href="https://pleias.fr" target="_blank">Pleais</a>)
         </td>
       </tr>
       <tr>
@@ -152,29 +175,6 @@ Good datasets are essential for building good models and applications. The AI Al
           Search, analyze, and index Common Crawl data into vector stores for RAG applications, with three interfaces: CLI, Python library, and an MCP server. (Principal developers: <a href="https://commoncrawl.org/" target="_blank">Common Crawl Foundation</a> and <a href="https://meta.com" target="_blank">Meta</a>)
         </td>
       </tr>
-      <tr>
-        <td class="project-title" colspan="2">
-          <a href="https://docling-project.github.io/docling/" target="_blank">Docling</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>
-              <a href="https://github.com/docling-project/docling/" target="_blank">repo</a>
-            </li>
-            <li>
-              <a href="https://github.com/docling-project/docling/issues" target="_blank">issues</a>
-            </li>
-            <li>
-              <a href="https://github.com/docling-project/docling/discussions" target="_blank">discussions</a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          Docling simplifies document processing, parsing diverse formats — including advanced PDF understanding — and providing seamless integrations with the gen AI ecosystem. Docling is a key tool for the project <em>Parsing PDFs to Build AI Datasets for Science</em>, discussed above. (Principal developer: <a href="https://ibm.com/" target="_blank">IBM</a>)
-        </td>
-      </tr>
     </tbody>
   </table>
 </div>
@@ -185,21 +185,21 @@ In addition to Project Tapestry, AI Alliance members have built many domain-spec
 
 <div class="table-wrapper">
   <table>
+{% comment %}
     <thead>
       <tr>
         <th>Links</th>
         <th>Description</th>
       </tr>
     </thead>
+{% endcomment %}
     <tbody>
       <tr>
-        <td class="project-title" colspan="2">
+        <td class="project-title">
           Open Models
         </td>
       </tr>
       <tr>
-        <td>
-        </td>
         <td>
           Several AI Alliance work groups are collaborating on the development of domain-specific models:
           <ul>
@@ -230,13 +230,11 @@ In addition to Project Tapestry, AI Alliance members have built many domain-spec
         </td>
       </tr>
       <tr>
-        <td class="project-title" colspan="2">
+        <td class="project-title">
           Support Tools
         </td>
       </tr>
       <tr>
-        <td>
-        </td>
         <td>
           <ul>
             <li>

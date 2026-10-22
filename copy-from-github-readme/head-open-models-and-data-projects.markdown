@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Open Models and Data Projects
-nav_order: 30
+nav_order: 20
 has_children: false
 ---
 
