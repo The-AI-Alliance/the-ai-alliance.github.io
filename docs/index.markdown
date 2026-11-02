@@ -33,11 +33,11 @@ the [Project Tapestry GitHub repo](https://github.com/The-AI-Alliance/tapestry){
 
 ## Other General AI Alliance Links
 
-* [The AI Alliance website](https://thealliance.ai)
-* [Receive our newsletter](https://share.hsforms.com/2Pz_f9vVHRZailCMJ3kmOFQqmmqo)
-* [Join a work group](https://thealliance.ai/join)
-* [Learn about our community](https://github.com/The-AI-Alliance/community/)
-* New to AI? See our [glossary of terms](https://the-ai-alliance.github.io/glossary/)
+* [The AI Alliance website](https://thealliance.ai){:target="_blank"}.
+* [Receive our newsletter](https://share.hsforms.com/2Pz_f9vVHRZailCMJ3kmOFQqmmqo){:target="_blank"}.
+* [Join a work group](https://thealliance.ai/join){:target="_blank"}.
+* [Learn about our community](https://github.com/The-AI-Alliance/community/){:target="_blank"}.
+* New to AI? See our [glossary of terms](https://the-ai-alliance.github.io/glossary/){:target="_blank"}.
 
 ## Other Alliance and Affiliated Projects
 
